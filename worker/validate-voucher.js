@@ -12,7 +12,7 @@
 
 // ─── VOUCHER LIST (chỉ tồn tại ở server, KHÔNG expose ra client) ─────────────
 const VOUCHERS = {
-    'THAI2026': { expires: '2026-12-31T23:59:59Z', maxUses: 999 },
+    '515GPMN': { expires: '2026-05-10T16:59:59Z', maxUses: 999 },
     // Thêm voucher mới tại đây khi cần
 };
 

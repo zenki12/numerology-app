@@ -37,19 +37,26 @@ function showFormError(msg) {
 // ─── WORKER CONFIG ─────────────────────────────────────────────────────────
 // Sau khi deploy Cloudflare Worker, thay URL bên dưới bằng URL thật của Worker
 // VD: 'https://numerology-voucher-worker.your-name.workers.dev/api/validate-voucher'
-const WORKER_VOUCHER_URL = 'https://numerology-voucher-worker.your-name.workers.dev/api/validate-voucher';
+const WORKER_VOUCHER_URL = 'https://numerology-voucher-worker.numerology-thai.workers.dev/api/validate-voucher';
 const VIP_STORAGE_KEY = 'vip_unlocked';
 const _VIP_SALT = 'kp_numer_2026_xr9';
 
 function checkUnlockStatus() {
   const stored = localStorage.getItem(VIP_STORAGE_KEY);
   if (!stored) return false;
-  // Validate signed token — không phải plain 'true' nữa, khó giả mạo hơn
-  for (const [code] of Object.entries(VOUCHERS)) {
-    const expected = btoa(code + '|' + _VIP_SALT + '|' + new Date().getFullYear());
-    if (stored === expected) return true;
+  // Validate signed token: btoa(code + '|' + salt + '|' + year)
+  try {
+    const decoded = atob(stored);
+    const parts = decoded.split('|');
+    if (parts.length === 3 && parts[1] === _VIP_SALT) {
+      const year = parseInt(parts[2], 10);
+      // Chấp nhận token năm hiện tại (hoặc năm trước nếu đang đầu năm)
+      if (year >= new Date().getFullYear() - 1) return true;
+    }
+  } catch (e) {
+    // Token không hợp lệ (không phải base64)
   }
-  // Legacy support: nếu user cũ đang dùng token 'true', migrate sang token mới
+  // Legacy support: user cũ dùng 'true' plain
   if (stored === 'true') {
     const newToken = btoa('THAI2026' + '|' + _VIP_SALT + '|' + new Date().getFullYear());
     localStorage.setItem(VIP_STORAGE_KEY, newToken);
@@ -196,18 +203,12 @@ function logout() {
 // ═══════════════════════════════════════════════════════════════════
 
 function initDobPicker() {
-  const yearSel = document.getElementById('dob-year');
+  const yearInput = document.getElementById('dob-year');
   const monthSel = document.getElementById('dob-month');
   const daySel = document.getElementById('dob-day');
-  if (!yearSel || !monthSel || !daySel) return;
+  if (!yearInput || !monthSel || !daySel) return;
 
-  const curYear = new Date().getFullYear();
-  for (let y = curYear; y >= 1924; y--) {
-    const opt = document.createElement('option');
-    opt.value = y;
-    opt.textContent = y;
-    yearSel.appendChild(opt);
-  }
+  // Year is now a text input, no need to populate options
 
   function isLeapYear(y) {
     return (y % 4 === 0 && y % 100 !== 0) || y % 400 === 0;
@@ -221,7 +222,7 @@ function initDobPicker() {
   }
   function updateDayOptions() {
     const month = monthSel.value;
-    const year = yearSel.value;
+    const year = yearInput.value;
     const prevDay = daySel.value;
     const maxDays = getDaysInMonth(month, year);
     daySel.innerHTML = '<option value="">-- Ngày --</option>';
@@ -242,7 +243,7 @@ function initDobPicker() {
     }
   }
   monthSel.addEventListener('change', updateDayOptions);
-  yearSel.addEventListener('change', updateDayOptions);
+  yearInput.addEventListener('input', updateDayOptions);
   updateDayOptions();
 }
 
@@ -308,13 +309,18 @@ async function handleSubmit(e) {
   const nickname = (document.getElementById('nickname')?.value || '').trim();
   const gender = document.getElementById('gender')?.value || 'male';
 
-  // DOB from 3 dropdowns
+  // DOB from dropdowns + year text input
   const day = document.getElementById('dob-day')?.value;
   const month = document.getElementById('dob-month')?.value;
-  const year = document.getElementById('dob-year')?.value;
+  const year = (document.getElementById('dob-year')?.value || '').trim();
 
-  if (!day || !month || !year) {
-    showFormError('⚠️ Vui lòng chọn đầy đủ Ngày, Tháng, Năm sinh!');
+  if (!day || !month) {
+    showFormError('⚠️ Vui lòng chọn đầy đủ Ngày và Tháng sinh!');
+    return;
+  }
+  const yearNum = parseInt(year, 10);
+  if (!year || isNaN(yearNum) || yearNum < 1924 || yearNum > new Date().getFullYear()) {
+    showFormError('⚠️ Năm sinh không hợp lệ (VD: 1990)!');
     return;
   }
 
@@ -334,7 +340,6 @@ async function handleSubmit(e) {
     REPORT._displayName = nickname || name;
 
     buildSummaryDashboard(REPORT, currentYear);
-    buildDetailedReport(REPORT, currentYear, curMonth);
 
     setTimeout(() => switchView('view-summary'), 900);
 
@@ -548,6 +553,10 @@ function buildSummaryDashboard(r, currentYear) {
 }
 
 function showDetailedReport() {
+  if (!REPORT) return;
+  const currentYear = new Date().getFullYear();
+  const curMonth = new Date().getMonth() + 1;
+  buildDetailedReport(REPORT, currentYear, curMonth);
   switchView('view-details');
 }
 

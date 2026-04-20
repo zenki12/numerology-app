@@ -4,10 +4,4 @@ compatibility_date = "2024-01-01"
 
 [vars]
 # VIP_SALT được set qua wrangler secret (KHÔNG commit ra git!)
-# Chạy lệnh: wrangler secret put VIP_SALT
-# Nhập giá trị: kp_numer_2026_xr9
-
-# Route: gắn Worker vào đường dẫn /api/* của Cloudflare Pages
-[[routes]]
-pattern = "*/api/validate-voucher"
-zone_name = "your-domain.com"  # TODO: thay domain thật
+# Giai đoạn trial dùng URL workers.dev mặc định, không cần route
