@@ -1,0 +1,40 @@
+{
+  "A_PHAN_TICH_TONG_QUAN": {
+    "1_TongHopChiSoQuanTrong": {},
+    "2_ChuKyVanSo": {},
+    "3_NhomTinhCachTheoBanNga": {},
+    "4_TiLeNhomNganhPhuHop": {}
+  },
+  "B_PHAN_TICH_DUONG_DOI": {
+    "5_ChiSoDuongDoi": {},
+    "6_ChuKyDuongDoi": {},
+    "7_BieuDoKimTuThap_DinhCaoThuThach": {},
+    "8_ChiSoCacNam": {},
+    "9_ChiSoCacThang": {}
+  },
+  "C_PHAN_TICH_SU_MENH": {
+    "10_ChiSoSuMenh": {},
+    "11_TuongQuanDuongDoi_SuMenh": {},
+    "12_ChiSoThuThachSuMenh": {},
+    "13_ChiSoTruongThanh": {},
+    "14_ChiSoNangLucTruongThanh": {},
+    "15_ChiSoLinhHon": {},
+    "16_TuongQuanDuongDoi_LinhHon": {},
+    "17_ChiSoThuThachLinhHon": {},
+    "18_ChiSoNhanCach": {},
+    "19_ChiSoThuThachNhanCach": {},
+    "20_CacChiSoDiemYeu": {},
+    "21_CacChiSoNoNghiep": {}
+  },
+  "D_PHAN_TICH_NANG_LUC": {
+    "22_BieuDoSucManh": {},
+    "23_BieuDoTenVaBieuDoTongHop": {},
+    "24_ChiSoThaiDo": {},
+    "25_ChiSoNangLucTuNhien": {},
+    "26_ChiSoVuotKho": {},
+    "27_ChiSoNangLucTuDuy": {},
+    "28_ChiSoDongLucTiepCan": {},
+    "29_ChiSoNangLucTiepCan": {},
+    "30_ChiSoThaiDoTiepCan": {}
+  }
+}

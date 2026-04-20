@@ -1,0 +1,41 @@
+﻿
+--- TARGET: ThaiDo = 3 ---
+Match: Day
+Match: Day+Month
+Match: Word1_FirstV
+Match: SoulUrge+LifePath
+Match: Personality+LifePath
+Match: Word2_Sum+LifePath
+
+--- TARGET: TuNhien = 3 ---
+Match: Day
+Match: Day+Month
+Match: Word1_FirstV
+Match: SoulUrge+LifePath
+Match: Personality+LifePath
+Match: Word2_Sum+LifePath
+
+--- TARGET: VuotKho = 4 ---
+Match: Word1_Vow
+Match: Destiny
+Match: FirstLettersSum
+
+--- TARGET: TuDuy = 8 ---
+Match: Word0_Con
+
+--- TARGET: DongLucTiepCan = 5 ---
+Match: Word0_Sum
+Match: Word0_FirstL
+Match: Destiny+LifePath
+Match: Word2_Sum+Day
+
+--- TARGET: NangLucTiepCan = 2 ---
+Match: Word2_Sum
+Match: Word2_FirstL
+Match: Personality
+
+--- TARGET: ThaiDoTiepCan = 6 ---
+Match: Word0_Vow
+Match: Word0_FirstV
+Match: Word1_Sum
+Match: Word1_FirstL

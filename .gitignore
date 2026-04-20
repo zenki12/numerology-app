@@ -1,0 +1,20 @@
+# Brain / session files (chứa dữ liệu nhạy cảm)
+.brain/
+
+# VIP content (không commit PDF)
+*.pdf
+
+# Node dev dependencies (chỉ dùng ở scripts/, không deploy)
+numerology_core/scripts/node_modules/
+scripts/node_modules/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor
+.vscode/
+*.swp
+*.swo

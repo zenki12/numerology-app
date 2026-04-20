@@ -1,0 +1,50 @@
+﻿node : TypeError: pdf is 
+not a function
+At line:1 char:1
++ node 
+scripts/extract_pdf.js 
+2>&1 | Out-File -Encoding 
+utf8 "scripts/p ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (Typ  
+  eError: pdf is not a f   
+ unction:String) [], Re    
+moteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+    at extractPDF 
+(E:\huyen hoc AI\test\Antig
+ravity\khamphabanthan\scrip
+ts\extract_pdf.js:9:22)
+    at Object.<anonymous> 
+(E:\huyen hoc AI\test\Antig
+ravity\khamphabanthan\scrip
+ts\extract_pdf.js:18:1)
+    at Module._compile (nod
+e:internal/modules/cjs/load
+er:1804:14)
+    at Object..js (node:int
+ernal/modules/cjs/loader:19
+36:10)
+    at Module.load (node:in
+ternal/modules/cjs/loader:1
+525:32)
+    at Module._load (node:i
+nternal/modules/cjs/loader:
+1327:12)
+    at 
+TracingChannel.traceSync (n
+ode:diagnostics_channel:328
+:14)
+    at wrapModuleLoad (node
+:internal/modules/cjs/loade
+r:245:24)
+    at Module.executeUserEn
+tryPoint [as runMain] (node
+:internal/modules/run_main:
+154:5)
+    at node:internal/main/r
+un_main_module:33:47

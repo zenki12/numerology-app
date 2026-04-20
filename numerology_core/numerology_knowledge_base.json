@@ -1,0 +1,2980 @@
+{
+  "meta": {
+    "version": "1.0",
+    "source": "RAG_Thần_số_học_ứng_dụng.docx",
+    "system": "Pythagoras",
+    "language": "vi"
+  },
+  "letter_map": {
+    "A": 1,
+    "B": 2,
+    "C": 3,
+    "D": 4,
+    "E": 5,
+    "F": 6,
+    "G": 7,
+    "H": 8,
+    "I": 9,
+    "J": 1,
+    "K": 2,
+    "L": 3,
+    "M": 4,
+    "N": 5,
+    "O": 6,
+    "P": 7,
+    "Q": 8,
+    "R": 9,
+    "S": 1,
+    "T": 2,
+    "U": 3,
+    "V": 4,
+    "W": 5,
+    "X": 6,
+    "Y": 7,
+    "Z": 8
+  },
+  "vowels": [
+    "A",
+    "E",
+    "I",
+    "O",
+    "U"
+  ],
+  "y_rule": "Y là nguyên âm khi đứng cạnh phụ âm (Kyle, Mary, Lynn). Y là phụ âm khi đứng cạnh nguyên âm (Murray, Presley, Yolanda).",
+  "karmic_debt": {
+    "10": {
+      "reduces_to": 1,
+      "meaning": "Số 10 chỉ nghiệp đã hoàn trả đầy đủ, khởi đầu với trạng thái sạch nợ.",
+      "lesson": "Không có nợ nghiệp, đây là khởi đầu mới."
+    },
+    "13": {
+      "reduces_to": 4,
+      "meaning": "Hậu quả từ sự lười biếng trong kiếp trước. Bài học: làm việc chăm chỉ, kỷ luật, khắc phục trì trệ.",
+      "lesson": "Tập trung vào một mục tiêu, duy trì trật tự và lịch trình, không trì hoãn.",
+      "description": "Người mang nợ nghiệp 13 cần làm việc rất chăm chỉ để hoàn thành bất kỳ nhiệm vụ nào. Họ thường cảm thấy gánh nặng và thất vọng vì nỗ lực dường như vô ích. Dễ có mong muốn đầu hàng trước khó khăn và từ bỏ mục tiêu. Một số khác rơi vào lười biếng và tiêu cực, hoặc dễ bị cám dỗ đi đường tắt. Thường không tập trung vào một hướng cụ thể mà phân tán năng lượng.",
+      "how_to_reduce": "Chìa khóa là sự tập trung. Chọn những mục tiêu thực sự quan trọng và thiết thực, nỗ lực đến cùng. Duy trì trật tự trong cuộc sống, lịch trình rõ ràng, giữ đúng các cuộc hẹn, đừng bao giờ trì hoãn. Nỗ lực không bao giờ vô ích — thành công nằm trong tầm tay.",
+      "negative_aspects": [
+        "Cảm giác chán nản, bối rối — thường cảm thấy mình như nạn nhân",
+        "Không đáng tin cậy, lười biếng, vô trách nhiệm",
+        "Lặp đi lặp lại những sai lầm giống nhau",
+        "Tránh né hệ thống và quy trình",
+        "Dễ bị hoảng loạn khi cảm thấy quá tải"
+      ]
+    },
+    "14": {
+      "reduces_to": 5,
+      "meaning": "Hậu quả từ sống vô độ, đắm chìm vui thú kiếp trước. Liên quan đến chứng nghiện.",
+      "lesson": "Tiết chế, điều độ. Tránh xa các hành vi và chất gây nghiện.",
+      "description": "Nợ nghiệp 14 phát sinh từ việc sống vô độ và đắm chìm trong vui thú ở kiếp trước. Quy định tránh xa chất gây nghiện là điều rất quan trọng. Bài học này có thể đến từ việc yêu sâu sắc một người có vấn đề nghiện nặng.",
+      "how_to_reduce": "Bài học là sự tiết chế — biết điểm dừng trong mọi thứ. Tránh xa các hành vi và chất gây nghiện. Cần có sự kỷ luật bản thân cao độ. Tập trung vào những mục tiêu lành mạnh và có ý nghĩa.",
+      "negative_aspects": [
+        "Dễ bị nghiện (rượu, cờ bạc, mạng xã hội, v.v.)",
+        "Thiếu tiết chế trong ăn uống, tình dục, chi tiêu",
+        "Sống vô độ dẫn đến mất kiểm soát cuộc sống",
+        "Ảnh hưởng tiêu cực đến những người thân yêu"
+      ]
+    },
+    "16": {
+      "reduces_to": 7,
+      "meaning": "Vô trách nhiệm với tình yêu kiếp trước. Có xu hướng giữ bí mật gây tổn hại mối quan hệ.",
+      "lesson": "Vượt qua ghen tị, thẳng thắn và trung thực trong mọi giao tiếp.",
+      "description": "Nợ nghiệp 16 phát sinh từ sự vô trách nhiệm với tình yêu trong kiếp trước; mang tội ác của đam mê. Những người mang nợ nghiệp này thường khó giao tiếp và trung thực trong tình yêu. Họ giữ bí mật, điều này có thể gây tổn hại cho các mối quan hệ và dẫn đến chia tay hoặc ly hôn.",
+      "how_to_reduce": "Bài học là vượt qua sự ghen tị và thẳng thắn, trung thực trong mọi giao tiếp. Tránh giữ bí mật với người thân. Học cách mở lòng và chia sẻ cảm xúc thật sự.",
+      "negative_aspects": [
+        "Khó trung thực trong tình yêu",
+        "Xu hướng giữ bí mật làm tổn hại mối quan hệ",
+        "Ghen tị và thẳng thắn thái quá",
+        "Dễ dẫn đến chia tay hoặc ly hôn nếu không khắc phục"
+      ]
+    },
+    "19": {
+      "reduces_to": 1,
+      "meaning": "Lạm dụng quyền lực kiếp trước. Gặp rắc rối với các bậc cầm quyền.",
+      "lesson": "Học cách nhận sự giúp đỡ, lắng nghe người khác, bảo vệ kẻ yếu.",
+      "description": "Nợ nghiệp 19 chỉ xuất hiện ở những linh hồn già cỗi — những người đã lạm dụng quyền lực trong kiếp trước (nghĩ đến những chính trị gia, nhân vật hoàng gia hoặc quân đội cấp cao tham nhũng). Những người mang nợ này thường quá tự lập, tránh né sự ưu ái hoặc nhận lời khuyên từ người khác. Nợ nghiệp 19 có thể trở thành nhà tù tự áp đặt nếu không cởi mở với thực tế rằng mọi người cần phụ thuộc và yêu thương lẫn nhau.",
+      "how_to_reduce": "Phải bỏ đi sự ngoan cố chống lại sự giúp đỡ từ người khác. Phần lớn sự độc lập là tự áp đặt. Bài học quan trọng nhất: Trong khi bạn tìm cách đứng trên đôi chân của chính mình, bạn vẫn là một con người, có mối liên hệ sâu sắc với những người khác và cần sự hỗ trợ. Phải học cách xét đến nhu cầu và ý kiến của người khác. Dũng cảm đón nhận sự giúp đỡ, thừa nhận lỗi sai của bản thân.",
+      "negative_aspects": [
+        "Quá tự lập, không muốn nhận giúp đỡ từ người khác",
+        "Khó khăn trong các mối quan hệ với người có thẩm quyền",
+        "Thích ở một mình, cô độc",
+        "Cứng đầu, không lắng nghe lời khuyên"
+      ]
+    }
+  },
+  "life_cycle": {
+    "1": {
+      "theme": "Tự lập, tiên phong, khởi đầu",
+      "cycle1": "Giai đoạn đầu đời mang năng lượng mạnh mẽ nhưng đôi khi cứng nhắc; bạn học cách tự khẳng định trong khi vẫn còn đang trưởng thành.",
+      "cycle2": "Giai đoạn giữa là thời điểm phát triển sự nghiệp độc lập, lãnh đạo và sáng tạo nổi bật.",
+      "cycle3": "Cuối đời bạn trở thành người tiên phong hoặc cố vấn uy tín, để lại di sản cá nhân."
+    },
+    "2": {
+      "theme": "Hợp tác, nhạy cảm, mối quan hệ",
+      "cycle1": "Tuổi thơ nhạy cảm, dễ bị tổn thương; học cách hòa đồng và hợp tác với người xung quanh.",
+      "cycle2": "Giai đoạn giữa phát huy vai trò trung gian, hòa giải, hỗ trợ người khác đạt mục tiêu.",
+      "cycle3": "Cuối đời sống bình yên, được trân trọng vì sự dịu dàng và trí tuệ cảm xúc."
+    },
+    "3": {
+      "theme": "Sáng tạo, biểu đạt, niềm vui",
+      "cycle1": "Tuổi trẻ đầy màu sắc: nên phát triển khả năng nghệ thuật và giao tiếp, tránh phân tán năng lượng.",
+      "cycle2": "Giai đoạn giữa dễ chịu, vui vẻ, sáng tạo. Tìm được tiếng nói và tài năng biểu đạt riêng.",
+      "cycle3": "Cuối đời vẫn trẻ trung, hài hước, truyền cảm hứng cho người xung quanh."
+    },
+    "4": {
+      "theme": "Xây dựng nền tảng, kỷ luật, thực tế",
+      "cycle1": "Tuổi thơ có thể vất vả; học cách làm việc chăm chỉ và xây dựng thói quen tổ chức.",
+      "cycle2": "Giai đoạn giữa xây dựng sự nghiệp và gia đình vững chắc; có thể bị gánh nặng trách nhiệm.",
+      "cycle3": "Cuối đời hưởng thành quả từ sự kiên nhẫn, trở thành trụ cột vững chắc."
+    },
+    "5": {
+      "theme": "Tự do, thay đổi, phiêu lưu",
+      "cycle1": "Tuổi trẻ bất ổn, nhiều thay đổi; học cách chấp nhận và thích nghi với biến động.",
+      "cycle2": "Giai đoạn giữa đa dạng và thú vị; du lịch, trải nghiệm mới, cơ hội ngoài dự kiến.",
+      "cycle3": "Cuối đời vẫn năng động, không muốn bị ràng buộc; chia sẻ kinh nghiệm phong phú."
+    },
+    "6": {
+      "theme": "Gia đình, trách nhiệm, nuôi dưỡng",
+      "cycle1": "Tuổi thơ gắn liền với gia đình; có thể mang trách nhiệm sớm hoặc chăm sóc người thân.",
+      "cycle2": "Giai đoạn giữa tập trung vào gia đình, cộng đồng, sự nghiệp liên quan đến chăm sóc người khác.",
+      "cycle3": "Cuối đời là chỗ dựa tinh thần cho gia đình và bạn bè, được kính trọng và yêu thương."
+    },
+    "7": {
+      "theme": "Nội tâm, tri thức, tâm linh",
+      "cycle1": "Tuổi thơ hướng nội, thích ở một mình và tìm hiểu; đôi khi cô đơn và bị hiểu lầm.",
+      "cycle2": "Giai đoạn giữa chuyên sâu tri thức, nghiên cứu, phát triển tâm linh; tiến bộ tuy chậm nhưng sâu.",
+      "cycle3": "Cuối đời là nhà hiền triết, được người khác tìm đến để xin hướng dẫn và trí tuệ."
+    },
+    "8": {
+      "theme": "Quyền lực, tài chính, thành công",
+      "cycle1": "Tuổi thơ có thể khó khăn về vật chất; học cách làm chủ và quản lý nguồn lực.",
+      "cycle2": "Giai đoạn giữa đạt được thành công vật chất và địa vị; thử thách về cân bằng tinh thần/vật chất.",
+      "cycle3": "Cuối đời dư dả vật chất hoặc để lại di sản phi vật chất có giá trị."
+    },
+    "9": {
+      "theme": "Nhân đạo, hoàn thiện, buông bỏ",
+      "cycle1": "Tuổi thơ giàu cảm xúc và nhân ái; đôi khi mang gánh nặng cảm xúc quá lớn.",
+      "cycle2": "Giai đoạn giữa cống hiến cho xã hội, sáng tạo nghệ thuật hoặc hoạt động nhân đạo.",
+      "cycle3": "Cuối đời buông bỏ, hoàn thiện bản thân và truyền trí tuệ cho người xung quanh."
+    },
+    "11": {
+      "theme": "Tâm linh tiên phong, trực giác, sứ mệnh",
+      "cycle1": "Tuổi thơ rất nhạy cảm và khác biệt; có thể trải qua môi trường gia đình phức tạp.",
+      "cycle2": "Giai đoạn giữa phát huy trực giác và khả năng truyền cảm hứng; có thể là nhà lãnh đạo tinh thần.",
+      "cycle3": "Cuối đời là sứ giả tâm linh, để lại tầm ảnh hưởng lớn cho cộng đồng."
+    },
+    "22": {
+      "theme": "Kiến trúc sư vĩ đại, xây dựng di sản",
+      "cycle1": "Tuổi thơ hướng ngoại, mơ ước lớn và muốn thay đổi thế giới từ khi còn nhỏ.",
+      "cycle2": "Giai đoạn giữa thực hiện những dự án hoành tráng; kết hợp tầm nhìn và thực tế.",
+      "cycle3": "Cuối đời để lại di sản vật thể hoặc phi vật thể ảnh hưởng nhiều người."
+    },
+    "note": "Chu kỳ đường đời chia cuộc đời thành 3 giai đoạn: Gieo hạt (đầu đời đến ~27 tuổi), Chín (~27-54 tuổi), Thu hoạch (54+ tuổi). Số chu kỳ = số tháng sinh / số ngày sinh / số năm sinh (rút gọn từng phần)."
+  },
+  "pyramid_peak": {
+    "1": {
+      "title": "Đỉnh cao Lãnh đạo & Bản ngã",
+      "theme": "Phát triển tính độc lập, dũng khí và tầm nhìn cá nhân",
+      "opportunity": "Cơ hội vươn lên không giới hạn — chỉ bị chặn bởi sự chủ động của chính bạn. Đây là giai đoạn để khẳng định bản thân và dẫn đầu.",
+      "challenge": "Rủi ro cô đơn nếu quá cứng nhắc. Dễ xa rời tập thể vì đề cao cái tôi.",
+      "advice": "Lãnh đạo bằng cách phục vụ người khác. Tầm nhìn lớn cần nền tảng vững — hãy xây đội nhóm thay vì chiến đấu một mình.",
+      "keywords": [
+        "lãnh đạo",
+        "độc lập",
+        "tiên phong",
+        "khởi nghiệp",
+        "dũng cảm"
+      ]
+    },
+    "2": {
+      "title": "Đỉnh cao Hợp tác & Ngoại giao",
+      "theme": "Thành công qua các mối quan hệ, đối tác và sự hòa hợp",
+      "opportunity": "Thành tựu đến qua làm việc với người khác, không phải một mình. Giai đoạn xây dựng mạng lưới và quan hệ bền chặt.",
+      "challenge": "Nguy cơ bị lợi dụng lòng tốt. Dễ bị phụ thuộc vào người khác để ra quyết định.",
+      "advice": "Học cách nói 'không' khi cần thiết. Hợp tác mạnh nhất khi cả hai bên đều giữ bản sắc riêng.",
+      "keywords": [
+        "hợp tác",
+        "ngoại giao",
+        "mối quan hệ",
+        "đối tác",
+        "hòa giải"
+      ]
+    },
+    "3": {
+      "title": "Đỉnh cao Sáng tạo & Biểu đạt",
+      "theme": "Phát huy tài năng nghệ thuật, giao tiếp và niềm vui sống",
+      "opportunity": "Giai đoạn dành cho tình yêu, tình bạn, vẻ đẹp và sáng tạo. Tài năng nghệ thuật và khả năng giao tiếp được phát huy tối đa.",
+      "challenge": "Nguy cơ phân tán năng lượng, không tập trung. Dễ bị cuốn vào hưởng thụ mà thiếu kỷ luật.",
+      "advice": "Chọn một lĩnh vực sáng tạo để đi sâu. Niềm vui bền vững đến từ sự thành thạo, không chỉ từ trải nghiệm.",
+      "keywords": [
+        "sáng tạo",
+        "nghệ thuật",
+        "biểu đạt",
+        "vui vẻ",
+        "giao tiếp"
+      ]
+    },
+    "4": {
+      "title": "Đỉnh cao Xây dựng & Ổn định",
+      "theme": "Tạo dựng nền tảng vững chắc và di sản bền lâu",
+      "opportunity": "Giai đoạn xây dựng nghiêm túc — sự nghiệp, gia đình, tài chính. Công sức bỏ ra sẽ được đền đáp bội lần về sau.",
+      "challenge": "Có thể gánh trách nhiệm nặng nề, cảm giác bị mắc kẹt. Nguy cơ nghiện công việc và thiếu cân bằng.",
+      "advice": "Xây dựng không có nghĩa là hy sinh tất cả. Lên lịch thời gian nghỉ ngơi và vui chơi như một lịch hẹn quan trọng.",
+      "keywords": [
+        "xây dựng",
+        "kỷ luật",
+        "ổn định",
+        "thực tế",
+        "kiên nhẫn"
+      ]
+    },
+    "5": {
+      "title": "Đỉnh cao Tự do & Thay đổi",
+      "theme": "Đón nhận biến động, trải nghiệm đa dạng và cơ hội bất ngờ",
+      "opportunity": "Nhiều cơ hội và trải nghiệm mới xuất hiện. Giai đoạn mở rộng thế giới quan và kết nối đa văn hóa.",
+      "challenge": "Thử thách lớn nhất: duy trì tập trung vào mục tiêu dài hạn khi quá nhiều lựa chọn hấp dẫn xuất hiện.",
+      "advice": "Xác định 'Bắc Cực' — 1-2 mục tiêu không đổi dù hành trình liên tục biến động. Tự do đẹp nhất khi có hướng đi.",
+      "keywords": [
+        "thay đổi",
+        "tự do",
+        "phiêu lưu",
+        "đa dạng",
+        "linh hoạt"
+      ]
+    },
+    "6": {
+      "title": "Đỉnh cao Trách nhiệm & Nuôi dưỡng",
+      "theme": "Phục vụ gia đình, cộng đồng và tạo ra môi trường chữa lành",
+      "opportunity": "Giai đoạn trở thành trụ cột cho người xung quanh. Thành công qua việc chăm sóc và làm cho cuộc sống người khác tốt hơn.",
+      "challenge": "Dễ mất bản thân trong việc lo cho người khác. Nguy cơ kiệt sức vì không biết từ chối.",
+      "advice": "Chăm sóc người khác tốt nhất khi bạn còn năng lượng. Đặt oxygen mask lên mình trước — sau đó mới giúp người bên cạnh.",
+      "keywords": [
+        "gia đình",
+        "trách nhiệm",
+        "chăm sóc",
+        "cộng đồng",
+        "chữa lành"
+      ]
+    },
+    "7": {
+      "title": "Đỉnh cao Trí tuệ & Tâm linh",
+      "theme": "Phát triển chiều sâu nội tâm, tri thức và kết nối với điều thiêng liêng",
+      "opportunity": "Giai đoạn học hỏi sâu sắc. Lợi ích không thấy ngay ở vật chất — chúng hiện ra dưới dạng trí tuệ, sự bình an và chiều sâu tâm hồn.",
+      "challenge": "Nguy cơ cô lập quá mức. Dễ bị người xung quanh hiểu lầm là xa cách hoặc kiêu ngạo.",
+      "advice": "Chia sẻ những gì bạn học được — đây là cách kết nối đẹp nhất của số 7. Tri thức cất giữ một mình là tri thức chết.",
+      "keywords": [
+        "nội tâm",
+        "tri thức",
+        "tâm linh",
+        "nghiên cứu",
+        "chiều sâu"
+      ]
+    },
+    "8": {
+      "title": "Đỉnh cao Thành đạt & Quyền lực",
+      "theme": "Đạt được thành công vật chất, địa vị và ảnh hưởng xã hội",
+      "opportunity": "Cơ hội lớn trong kinh doanh và sự nghiệp. Giai đoạn thu hoạch thành quả từ nỗ lực lâu dài.",
+      "challenge": "Cần cân bằng tinh thần và vật chất. Nguy cơ đánh mất các mối quan hệ vì quá tập trung vào thành công.",
+      "advice": "Định nghĩa lại 'thành công' — tiền bạc và địa vị là công cụ, không phải đích đến. Dùng tài nguyên để tạo tác động.",
+      "keywords": [
+        "thành công",
+        "quyền lực",
+        "kinh doanh",
+        "tài chính",
+        "lãnh đạo"
+      ]
+    },
+    "9": {
+      "title": "Đỉnh cao Nhân đạo & Hoàn thiện",
+      "theme": "Cống hiến, buông bỏ và hoàn thành một chu kỳ lớn của cuộc đời",
+      "opportunity": "Thành tựu mang tính nhân đạo và di sản lâu dài. Giai đoạn thu hoạch trí tuệ và chia sẻ với thế giới.",
+      "challenge": "Cần buông bỏ những điều không còn phục vụ bạn. Khó khăn trong việc kết thúc — dù là mối quan hệ, công việc hay giai đoạn sống.",
+      "advice": "Buông bỏ không phải là thất bại — đó là dọn không gian cho điều tốt hơn. Sự hoàn thiện lớn nhất đến qua việc cho đi.",
+      "keywords": [
+        "nhân đạo",
+        "buông bỏ",
+        "cống hiến",
+        "hoàn thiện",
+        "di sản"
+      ]
+    },
+    "note": "Biểu đồ kim tự tháp có 4 giai đoạn đỉnh cao và 4 thử thách tương ứng. Đỉnh cao = số phát triển tập trung. Thử thách = số phải vượt qua."
+  },
+  "pyramid_challenge": {
+    "0": {
+      "title": "Thử thách Tự do Chọn lựa",
+      "lesson": "Không có thử thách đặc biệt — đây là tín hiệu bạn đã học được nhiều bài học trong kiếp trước. Tự do lựa chọn là cả món quà lẫn trách nhiệm.",
+      "trap": "Có thể trở nên thiếu định hướng vì quá nhiều tự do. Không có rào cản cũng đồng nghĩa không có la bàn.",
+      "how_to_overcome": "Tự tạo ra những thử thách có ý nghĩa. Chủ động đặt ra mục tiêu và cam kết — đừng để sự thiếu áp lực trở thành trôi dạt."
+    },
+    "1": {
+      "title": "Thử thách Tự tin & Bản sắc",
+      "lesson": "Vượt qua niềm tin tiêu cực về bản thân. Học cách đứng lên vì chính mình và phát triển tính độc lập lành mạnh.",
+      "trap": "Cái bẫy lớn nhất: xây tường bảo vệ quá dày — hoặc trở nên hung hăng bề ngoài để che giấu sự bất an bên trong.",
+      "how_to_overcome": "Mỗi ngày làm 1 hành động nhỏ mà không cần sự chấp thuận của người khác. Xây dựng tự tin từ bên trong, không từ phản ứng của thế giới bên ngoài."
+    },
+    "2": {
+      "title": "Thử thách Tự tin trong Hợp tác",
+      "lesson": "Phát triển sự tự tin và không để nỗi sợ chỉ trích làm tê liệt. Học cách hợp tác mà không mất bản sắc.",
+      "trap": "Dễ trở thành người 'pleaser' — đồng ý với tất cả để tránh xung đột, nhưng tích lũy oán giận bên trong.",
+      "how_to_overcome": "Tập lên tiếng trong những tình huống an toàn nhỏ. Ghi nhớ: ý kiến của bạn có giá trị — giữ im lặng không phải là lịch sự mà là tước đoạt đóng góp của bạn."
+    },
+    "3": {
+      "title": "Thử thách Tập trung & Biểu đạt Thật",
+      "lesson": "Vượt qua xu hướng phân tán năng lượng, sống quá 'bên trong' chính mình. Học cách chia sẻ và biểu đạt cảm xúc thật sự.",
+      "trap": "Dùng sự hài hước hoặc bận rộn liên tục để tránh đối mặt với cảm xúc sâu. Nói nhiều nhưng không nói điều mình thật sự muốn nói.",
+      "how_to_overcome": "Tập viết nhật ký cảm xúc. Cam kết với 1 dự án sáng tạo từ đầu đến cuối mà không bỏ giữa chừng — xây cơ bắp tập trung."
+    },
+    "4": {
+      "title": "Thử thách Kỷ luật & Cân bằng",
+      "lesson": "Học về kỷ luật, tính thực tế và làm việc chăm chỉ. Tránh nghiện công việc hoặc cứng nhắc. Sắp xếp thời gian cân bằng.",
+      "trap": "Hai thái cực: hoặc quá cứng nhắc và kiểm soát, hoặc trốn tránh trách nhiệm và thiếu kỷ luật. Cả hai đều là biểu hiện của cùng nỗi sợ.",
+      "how_to_overcome": "Tạo ra cấu trúc nhưng có linh hoạt. Lên kế hoạch 80% — giữ 20% cho sự ngẫu hứng và điều chỉnh."
+    },
+    "5": {
+      "title": "Thử thách Tự do Có Trách nhiệm",
+      "lesson": "Học cách tiết chế và tránh phân tán năng lượng. Vượt qua nỗi sợ thay đổi — hoặc ngược lại, tránh thay đổi liên tục không mục đích.",
+      "trap": "Hoặc bị tê liệt bởi nỗi sợ thay đổi, hoặc thay đổi liên tục không có định hướng — cả hai đều là tránh né cam kết thật sự.",
+      "how_to_overcome": "Xác định 1 điều bạn sẽ cam kết trong 3 tháng mà không thay đổi. Luyện tập tự do trong khuôn khổ."
+    },
+    "6": {
+      "title": "Thử thách Tình yêu Không Kiểm soát",
+      "lesson": "Học cách phục vụ người khác trong khi chấp nhận họ đúng như bản chất. Tránh độc đoán, cố chấp hoặc tự cho mình là đúng.",
+      "trap": "Quan tâm quá mức đến mức trở thành gánh nặng. Yêu thương kèm điều kiện ẩn: 'Tôi chăm sóc bạn, vậy bạn phải sống theo cách tôi muốn.'",
+      "how_to_overcome": "Trước khi đưa ra lời khuyên hoặc giúp đỡ, hỏi: 'Họ có cần điều này không?' Tập trao quyền thay vì giải cứu."
+    },
+    "7": {
+      "title": "Thử thách Kết nối & Tin tưởng",
+      "lesson": "Học cách làm việc với người khác một cách vị tha. Vượt qua sự ghen tị và vấn đề cái tôi.",
+      "trap": "Cô lập bản thân vì cảm thấy người khác không đủ 'chiều sâu' để hiểu mình. Dùng trí tuệ như vũ khí để giữ khoảng cách.",
+      "how_to_overcome": "Chủ động tìm kiếm 1 người để kết nối thật sự mỗi tuần. Chia sẻ một điều bạn chưa bao giờ nói với người khác."
+    },
+    "8": {
+      "title": "Thử thách Quyền lực Đạo đức",
+      "lesson": "Học cách quản lý tiền bạc và quyền lực một cách có trách nhiệm. Tránh lạm dụng ảnh hưởng.",
+      "trap": "Dùng tiền/quyền lực để kiểm soát người khác. Hoặc ngược lại — sợ quyền lực đến mức từ chối đảm nhận trách nhiệm lãnh đạo.",
+      "how_to_overcome": "Thiết lập nguyên tắc đạo đức rõ ràng TRƯỚC khi có quyền lực. Hỏi thường xuyên: 'Quyết định này phục vụ ai — mình hay người khác?'"
+    },
+    "note": "Số thử thách kim tự tháp cho biết điều cuộc đời muốn bạn vượt qua trong từng giai đoạn."
+  },
+  "birthday_number": {
+    "1": {
+      "title": "Nhà lãnh đạo bẩm sinh",
+      "strengths": "Độc lập, thích cạnh tranh, sáng tạo, chủ động, truyền cảm hứng.",
+      "weaknesses": "Cứng đầu, ích kỷ, thất thường.",
+      "lesson": "Học về ranh giới, chia sẻ và làm việc theo nhóm.",
+      "gift": "Khả năng lãnh đạo và khởi xướng tự nhiên. Năng lực đặc biệt trong việc nhìn thấy cơ hội người khác bỏ lỡ.",
+      "career_fit": "Doanh nhân, CEO, quản lý cấp cao, nhà phát minh, chính trị gia, vận động viên chuyên nghiệp.",
+      "relationship_style": "Chủ động và quyết đoán trong tình cảm. Muốn dẫn đầu trong mối quan hệ. Cần học cách lắng nghe và nhượng bộ."
+    },
+    "2": {
+      "title": "Người đồng đội tốt bụng",
+      "strengths": "Tốt bụng, kiên nhẫn, nhạy cảm, trực giác nhạy bén, hòa đồng.",
+      "weaknesses": "Khó đứng lên bảo vệ bản thân.",
+      "lesson": "Học cách đứng lên vì chính mình.",
+      "gift": "Khả năng hòa giải và xây dựng đồng thuận phi thường. Trực giác đọc cảm xúc người khác cực kỳ chính xác.",
+      "career_fit": "Nhà ngoại giao, cố vấn, nhà tâm lý, nhân viên xã hội, giáo viên, nhạc sĩ, nhà thiết kế.",
+      "relationship_style": "Người bạn đời lý tưởng — trung thành, ân cần và luôn đặt đối phương lên hàng đầu. Cần học cách nêu nhu cầu bản thân."
+    },
+    "3": {
+      "title": "Người thân thiện sáng tạo",
+      "strengths": "Thân thiện, tràn đầy năng lượng, sáng tạo vô giới hạn, vui vẻ hòa đồng.",
+      "weaknesses": "Tìm kiếm sự thỏa mãn tức thì, cảm xúc thiếu ổn định.",
+      "lesson": "Học cách quản lý cảm xúc và ngừng tìm kiếm sự thỏa mãn tức thì.",
+      "gift": "Tài năng nghệ thuật và giao tiếp bẩm sinh. Khả năng làm cho không khí trở nên vui vẻ và nhẹ nhàng.",
+      "career_fit": "Nghệ sĩ, diễn viên, nhà văn, marketing, MC, giáo viên, đầu bếp sáng tạo.",
+      "relationship_style": "Vui vẻ và lãng mạn trong tình cảm. Cần sự kích thích và đổi mới liên tục. Dễ bị tổn thương bởi lời nói thiếu tế nhị."
+    },
+    "4": {
+      "title": "Người thực tế đáng tin cậy",
+      "strengths": "Thực tế, đáng tin cậy, chăm chỉ, trung thực, có tổ chức, hành động nhanh.",
+      "weaknesses": "Khó giải phóng sự kiểm soát, có thể mang Nợ Nghiệp 13/4.",
+      "lesson": "Học cách giải phóng quyền kiểm soát.",
+      "gift": "Khả năng xây dựng hệ thống và quy trình bền vững. Đáng tin cậy tuyệt đối là tài sản quý giá nhất.",
+      "career_fit": "Kỹ sư, kế toán, quản lý dự án, kiến trúc sư, nhà quản lý, quân đội, y tế.",
+      "relationship_style": "Trung thành và cam kết dài hạn. Thể hiện tình yêu qua hành động thực tế hơn lời nói. Cần học cách biểu đạt cảm xúc cởi mở hơn."
+    },
+    "5": {
+      "title": "Người phiêu lưu tự do",
+      "strengths": "Tháo vát, dám chấp nhận thay đổi, đôi khi bốc đồng.",
+      "weaknesses": "Dễ buồn chán, 'gót chân Achilles' là sự chán nản. Có thể mang Nợ Nghiệp 14/5.",
+      "lesson": "Học cách chịu trách nhiệm.",
+      "gift": "Khả năng thích nghi cực nhanh với môi trường mới. Tài năng giao tiếp đa văn hóa và đa ngôn ngữ.",
+      "career_fit": "Nhà báo, travel blogger, bán hàng, marketing, hướng dẫn viên du lịch, diễn viên, ngôn ngữ học.",
+      "relationship_style": "Hấp dẫn và thú vị trong tình cảm nhưng sợ cam kết. Cần bạn đời hiểu và tôn trọng nhu cầu tự do. Khi đã cam kết thực sự rất trung thành."
+    },
+    "6": {
+      "title": "Người trách nhiệm hướng gia đình",
+      "strengths": "Có trách nhiệm, hướng về gia đình, yêu động vật, trung thành, chu đáo.",
+      "weaknesses": "Có xu hướng can thiệp vào việc không phải của mình.",
+      "lesson": "Học cách vượt qua sự phản bội và chỉ quan tâm đến việc của bản thân.",
+      "gift": "Khả năng chữa lành và nuôi dưỡng tự nhiên. Tạo ra môi trường ấm áp và an toàn cho mọi người xung quanh.",
+      "career_fit": "Y tế, giáo dục, tư vấn gia đình, thiết kế nội thất, nhà hàng, quản lý khách sạn, công tác xã hội.",
+      "relationship_style": "Người bạn đời tận tâm và chăm sóc nhất. Đặt gia đình lên hàng đầu. Cần học cách nhận về sau khi cho đi quá nhiều."
+    },
+    "7": {
+      "title": "Người phân tích sâu sắc",
+      "strengths": "Thích đọc và học hỏi, tò mò, đòi hỏi sự riêng tư.",
+      "weaknesses": "Tập trung quá nhiều vào phân tích. Có thể mang Nợ Nghiệp 16/7.",
+      "lesson": "Học cách làm việc với người khác một cách vị tha.",
+      "gift": "Trí tuệ phân tích sâu sắc và trực giác tâm linh. Khả năng nghiên cứu và tổng hợp thông tin phi thường.",
+      "career_fit": "Nhà khoa học, triết học, tâm linh, nghiên cứu, lập trình, phân tích dữ liệu, thám tử, bác sĩ chuyên sâu.",
+      "relationship_style": "Cần thời gian để mở lòng nhưng khi đã tin tưởng rất sâu sắc và trung thành. Cần không gian riêng tư — đây là nhu cầu, không phải từ chối."
+    },
+    "8": {
+      "title": "Người hướng đến thành công",
+      "strengths": "Thành công là điều quan trọng và có thể đạt được, thích xe đẹp đồ hiệu.",
+      "weaknesses": "Cần tìm sự cân bằng giữa tinh thần và vật chất.",
+      "lesson": "Tìm sự cân bằng giữa tinh thần và vật chất, học tính kiên nhẫn và lòng trung thành.",
+      "gift": "Năng khiếu kinh doanh và quản lý tài chính bẩm sinh. Khả năng nhận ra cơ hội đầu tư người khác không nhìn thấy.",
+      "career_fit": "CEO, nhà đầu tư, ngân hàng, bất động sản, luật sư kinh doanh, quản lý tài sản, chính trị gia.",
+      "relationship_style": "Ổn định về tài chính và cam kết dài hạn. Thể hiện tình yêu qua việc đảm bảo cuộc sống vật chất. Cần học cách biểu đạt tình cảm bằng lời nói nhiều hơn."
+    },
+    "9": {
+      "title": "Người nhân ái rộng lượng",
+      "strengths": "Hào phóng, sáng tạo, nhạy cảm, khoan dung, cởi mở, có cách tiếp cận độc đáo.",
+      "weaknesses": "Tỏ ra biết tất cả hoặc ra vẻ trịch thượng.",
+      "lesson": "Học cách tha thứ và buông bỏ.",
+      "gift": "Trí tuệ cảm xúc cao và khả năng thấu hiểu mọi hoàn cảnh. Tài năng nghệ thuật và nhân đạo tự nhiên.",
+      "career_fit": "Nhà văn, nghệ sĩ, nhà hoạt động xã hội, bác sĩ, giáo viên, nhà trị liệu, làm phim tài liệu.",
+      "relationship_style": "Lãng mạn, hào phóng và tha thứ. Cần bạn đời chia sẻ giá trị nhân đạo. Dễ bị tổn thương khi kỳ vọng không được đáp lại."
+    },
+    "11": {
+      "title": "Con số Vua — Người điều tiết & Truyền cảm hứng",
+      "strengths": "Nhiều tài năng thiên bẩm, tốt bụng, phát hiện xu hướng, vượt qua ranh giới.",
+      "weaknesses": "Có thể bị lôi kéo và trở nên cực đoan.",
+      "lesson": "Học tính quyết đoán và không từ bỏ ước mơ.",
+      "gift": "Trực giác tâm linh mạnh mẽ và khả năng truyền cảm hứng đám đông. Cầu nối giữa thế giới vật chất và tâm linh.",
+      "career_fit": "Diễn giả, nhà lãnh đạo tinh thần, nghệ sĩ, nhà tâm lý, huấn luyện viên cuộc sống, nhà thiết kế sáng tạo.",
+      "relationship_style": "Sâu sắc và lãng mạn. Cần sự kết nối tâm linh với bạn đời. Rất nhạy cảm với năng lượng của người bên cạnh — môi trường quan hệ ảnh hưởng lớn đến sức khỏe."
+    },
+    "22": {
+      "title": "Con số Vua — Nhà xây dựng thành thạo",
+      "strengths": "Nhà xây dựng thành thạo, tầm nhìn thực sự, mạnh mẽ.",
+      "weaknesses": "Tiềm ẩn nguy cơ lạm dụng sức mạnh.",
+      "lesson": "Bài học liên quan đến cái tôi.",
+      "gift": "Tầm nhìn vĩ đại kết hợp với khả năng thực thi — hiếm có nhất trong mọi con số. Xây dựng những di sản trường tồn.",
+      "career_fit": "Nhà sáng lập tổ chức lớn, kiến trúc sư, kỹ sư hàng đầu, lãnh đạo chính phủ, xây dựng hệ thống giáo dục/y tế quy mô.",
+      "relationship_style": "Tìm kiếm bạn đời có thể hiểu và hỗ trợ sứ mệnh lớn. Ổn định và cam kết nhưng đôi khi quá bận rộn. Cần học cách hiện diện hoàn toàn khi ở bên gia đình."
+    }
+  },
+  "life_path": {
+    "1": {
+      "title": "Nhà lãnh đạo & Tiên phong",
+      "description": "Nhà lãnh đạo bẩm sinh với nhiều suy nghĩ, phát minh, ý tưởng và tầm nhìn độc đáo.",
+      "strengths": "Có khả năng và tự tin. Tính cạnh tranh gay gắt giúp vươn lên dẫn đầu.",
+      "weaknesses": "Tự kỷ ám thị, có thể trở nên độc đoán và ích kỷ.",
+      "career": "Doanh nhân, ông chủ, vận động viên chuyên nghiệp.",
+      "health": "Hệ tiêu hóa, đau nửa đầu, nghiện ngập, đau vai và lưng.",
+      "love": "Muốn bản thân là phần quan trọng, thích chịu trách nhiệm.",
+      "positive_traits": [
+        "Quyết đoán",
+        "Sáng tạo",
+        "Dũng cảm",
+        "Độc lập",
+        "Tự tin",
+        "Tiên phong"
+      ],
+      "negative_traits": [
+        "Cứng đầu",
+        "Ích kỷ",
+        "Kiêu ngạo",
+        "Thiếu kiên nhẫn",
+        "Độc đoán"
+      ],
+      "best_partners": [
+        3,
+        5,
+        6
+      ],
+      "challenging_partners": [
+        1,
+        8
+      ],
+      "parenting_style": "Cha/mẹ số 1 thường rất tự hào về con cái và muốn con thành công. Họ truyền cảm hứng về sự độc lập và tự lực. Đôi khi kỳ vọng quá cao, cần học cách tôn trọng ước mơ riêng của con.",
+      "money_style": "Kiếm tiền tốt nhờ sự tự tin và chủ động. Thường thích đầu tư mạo hiểm. Dễ chi tiêu bốc đồng — cần lập kế hoạch tài chính dài hạn.",
+      "famous": [
+        "Justin Bieber",
+        "Tom Cruise",
+        "Lady Gaga",
+        "Tiger Woods"
+      ]
+    },
+    "2": {
+      "title": "Nhà ngoại giao & Hòa giải",
+      "description": "Tốt bụng, ngoại giao tốt và có tinh thần hợp tác. Kiên nhẫn nhất trong tất cả các con số.",
+      "strengths": "Cực kỳ nhạy cảm, trực giác tuyệt vời, có khả năng cảm nhận cảm xúc người khác.",
+      "weaknesses": "Có thể hy sinh ý kiến cá nhân để giữ hòa khí, tạo ra sự oán giận.",
+      "career": "Hòa giải, giảng dạy, tư vấn, thiết kế, nghệ thuật, chính trị, luật pháp.",
+      "health": "Dị ứng, lo lắng thái quá, trầm cảm, vấn đề về dạ dày.",
+      "love": "Khó sống độc thân lâu, cảm thấy thoải mái khi có đôi có cặp.",
+      "positive_traits": [
+        "Nhạy cảm",
+        "Kiên nhẫn",
+        "Hợp tác",
+        "Trực giác",
+        "Ngoại giao",
+        "Tốt bụng"
+      ],
+      "negative_traits": [
+        "Quá nhạy cảm",
+        "Thiếu quyết đoán",
+        "Dễ bị lợi dụng",
+        "Phụ thuộc cảm xúc"
+      ],
+      "best_partners": [
+        4,
+        6,
+        8
+      ],
+      "challenging_partners": [
+        5,
+        9
+      ],
+      "parenting_style": "Cha/mẹ số 2 rất nhạy cảm với cảm xúc của con cái. Họ tạo ra môi trường gia đình ấm áp, yêu thương. Nhưng đôi khi quá bảo bọc — cần học cách để con tự lập và phạm sai lầm.",
+      "money_style": "Cẩn thận và tiết kiệm, nhưng đôi khi quá lo lắng về tiền bạc. Chi tiêu cho người thân như món ưu tiên hàng đầu. Nên xây dựng quỹ khẩn cấp để giảm lo lắng.",
+      "famous": [
+        "Kathy Bates",
+        "Mariah Carey",
+        "Jennifer Lopez"
+      ]
+    },
+    "3": {
+      "title": "Nghệ sĩ & Người truyền cảm hứng",
+      "description": "Thích nổi bật, được yêu thích và quảng giao. Sự lạc quan và nhiệt tình có khả năng lan truyền.",
+      "strengths": "Năng lượng thúc đẩy sự mở rộng. Tài năng sáng tạo.",
+      "weaknesses": "Cảm xúc dễ bị tổn thương đặc biệt bằng lời nói, có cái lưỡi sắc bén.",
+      "career": "Nhạc sĩ, diễn viên, nghệ sĩ, vũ công, nhà văn, đầu bếp.",
+      "health": "Tăng giảm cân nhanh, vấn đề về họng, trạng thái tinh thần.",
+      "love": "Cần thêm hành động chủ động trong các mối quan hệ thân thiết.",
+      "positive_traits": [
+        "Lạc quan",
+        "Sáng tạo",
+        "Hài hước",
+        "Xã giao",
+        "Truyền cảm hứng",
+        "Biểu đạt tốt"
+      ],
+      "negative_traits": [
+        "Phân tán",
+        "Cảm xúc bất ổn",
+        "Nói quá",
+        "Tránh trách nhiệm",
+        "Hay giận dỗi"
+      ],
+      "best_partners": [
+        1,
+        5,
+        9
+      ],
+      "challenging_partners": [
+        4,
+        8
+      ],
+      "parenting_style": "Cha/mẹ số 3 vui vẻ và sáng tạo, biến việc học thành trò chơi. Con cái thường rất hạnh phúc và tự do biểu đạt. Cần đặt ra các quy tắc rõ ràng hơn và nhất quán trong kỷ luật.",
+      "money_style": "Chi tiêu thoải mái và thích tận hưởng cuộc sống. Kiếm tiền tốt nhưng cũng tiêu nhanh. Cần tránh mua sắm bốc đồng và lập kế hoạch tiết kiệm rõ ràng.",
+      "famous": [
+        "Christina Aguilera",
+        "David Bowie",
+        "Cameron Diaz",
+        "Reese Witherspoon"
+      ]
+    },
+    "4": {
+      "title": "Người xây dựng & Lập kế hoạch",
+      "description": "Người lập kế hoạch thực chiến, đáng tin cậy, tận tâm. Không thích điều bất ngờ và thay đổi.",
+      "strengths": "Thực tế, kỷ luật, đáng tin cậy.",
+      "weaknesses": "Bi quan, khó linh hoạt, sự trì hoãn là vấn đề (đặc biệt với Nợ Nghiệp 13/4).",
+      "career": "Giáo dục, kinh doanh, chăm sóc sức khỏe, quản trị, xây dựng, chính trị, kế toán.",
+      "health": "Căng thẳng, đau khớp, đau nửa đầu, ám ảnh cưỡng chế, rối loạn lo âu.",
+      "love": "Thân thiện tự nhiên nhưng có xu hướng không để người khác đến quá gần.",
+      "positive_traits": [
+        "Thực tế",
+        "Kỷ luật",
+        "Đáng tin cậy",
+        "Chăm chỉ",
+        "Có tổ chức",
+        "Kiên nhẫn"
+      ],
+      "negative_traits": [
+        "Cứng nhắc",
+        "Bảo thủ",
+        "Bi quan",
+        "Hay kiểm soát",
+        "Khó chịu khi bị gián đoạn"
+      ],
+      "best_partners": [
+        2,
+        6,
+        8
+      ],
+      "challenging_partners": [
+        3,
+        5
+      ],
+      "parenting_style": "Cha/mẹ số 4 có cấu trúc rõ ràng, quy tắc nhất quán và môi trường ổn định. Con cái biết phải làm gì và lúc nào. Cần linh hoạt hơn và cho phép con vui chơi sáng tạo tự do.",
+      "money_style": "Quản lý tài chính xuất sắc — lập ngân sách, tiết kiệm đều đặn và đầu tư có kế hoạch. Rất hiếm khi mạo hiểm tài chính. Có thể quá dè dặt đến mức bỏ lỡ cơ hội tốt.",
+      "famous": [
+        "Kate Hudson",
+        "Will Smith",
+        "Bill Gates",
+        "Usher"
+      ]
+    },
+    "5": {
+      "title": "Người tự do & Phiêu lưu",
+      "description": "Bốc đồng và luôn sẵn sàng cho bất cứ điều gì, thích phiêu lưu, tự do và du lịch.",
+      "strengths": "Đa tài, quan điểm tiến bộ, thích nghi dễ dàng, người kể chuyện tự nhiên.",
+      "weaknesses": "Sự buồn chán dẫn đến thoát ly. Với Nợ Nghiệp 14/5: vật lộn với nhiều cám dỗ.",
+      "career": "Công nghệ, quảng cáo, tiếp thị, khởi nghiệp, ngôn ngữ, du lịch.",
+      "health": "Vấn đề cảm xúc, nghiện ngập, suy kiệt tuyến thượng thận, đau khớp.",
+      "love": "Đòi hỏi sự đa dạng và kích thích liên tục. Nên tránh kết hôn khi còn trẻ.",
+      "positive_traits": [
+        "Năng động",
+        "Đa tài",
+        "Linh hoạt",
+        "Hấp dẫn",
+        "Dũng cảm",
+        "Tư duy tiến bộ"
+      ],
+      "negative_traits": [
+        "Bốc đồng",
+        "Thiếu kiên nhẫn",
+        "Bất ổn",
+        "Dễ chán",
+        "Ngại cam kết"
+      ],
+      "best_partners": [
+        1,
+        3,
+        7
+      ],
+      "challenging_partners": [
+        2,
+        4
+      ],
+      "parenting_style": "Cha/mẹ số 5 thú vị và mang đến nhiều trải nghiệm cho con. Gia đình thường đi du lịch và thử điều mới. Cần nhất quán hơn trong các quy tắc và không để sự tự do trở thành thiếu kỷ luật.",
+      "money_style": "Kiếm tiền nhanh nhưng cũng tiêu nhanh. Thích trải nghiệm hơn tích lũy. Nên thiết lập tự động tiết kiệm vì bản thân khó tự kiểm soát chi tiêu.",
+      "famous": [
+        "Ellen DeGeneres",
+        "Angelina Jolie",
+        "Tina Turner",
+        "Mick Jagger"
+      ]
+    },
+    "6": {
+      "title": "Người nuôi dưỡng & Yêu thương",
+      "description": "Rung động của số 6 là về TÌNH YÊU! Quyến rũ và lôi cuốn, hào phóng, tốt bụng.",
+      "strengths": "Người bạn tuyệt vời, trung thành đến cùng. Giàu lòng nhân ái.",
+      "weaknesses": "Thu hút những người bị tổn thương. Tính cách khá cực đoan: ma quỷ hoặc thiên thần.",
+      "career": "Giảng dạy, khách sạn, tâm lý học, quản lý, bất động sản, thời trang, thiết kế nội thất.",
+      "health": "Vấn đề liên quan đến khả năng sinh sản và tim mạch.",
+      "love": "Phải học cân bằng giữa giúp đỡ và can thiệp.",
+      "positive_traits": [
+        "Tình yêu thương",
+        "Trung thành",
+        "Có trách nhiệm",
+        "Hào phóng",
+        "Quan tâm",
+        "Hấp dẫn"
+      ],
+      "negative_traits": [
+        "Hay can thiệp",
+        "Cầu toàn",
+        "Hy sinh thái quá",
+        "Khó tha thứ",
+        "Chiếm hữu"
+      ],
+      "best_partners": [
+        2,
+        4,
+        9
+      ],
+      "challenging_partners": [
+        1,
+        5
+      ],
+      "parenting_style": "Cha/mẹ số 6 là những bậc phụ huynh tận tâm nhất. Nhà cửa luôn ấm cúng và con cái được chăm sóc kỹ. Cần tránh quá bảo bọc và áp đặt kỳ vọng hoàn hảo lên con.",
+      "money_style": "Chi tiêu nhiều cho gia đình, nhà cửa và người thân. Thường tiết kiệm để đảm bảo an toàn cho mọi người. Cẩn thận với xu hướng bị người khác lợi dụng sự hào phóng.",
+      "famous": [
+        "Victoria Beckham",
+        "Michael Jackson",
+        "John Lennon",
+        "Bruce Willis"
+      ]
+    },
+    "7": {
+      "title": "Người tìm kiếm tri thức",
+      "description": "Thông minh và bí ẩn. Thích phân tích, tự nghiên cứu và không nhìn nhận mọi thứ qua bề nổi.",
+      "strengths": "Trực giác bẩm sinh nhạy bén. Thu hút bởi tâm linh và siêu hình học.",
+      "weaknesses": "Gặp khó khăn trong việc duy trì các mối quan hệ thân thiết.",
+      "career": "Nghiên cứu, sử học, quản lý bảo tàng, giáo viên thần học, luật sư.",
+      "health": "Khó ngủ, vấn đề về cổ.",
+      "love": "Kìm hãm và giữ bí mật, khó mở lòng.",
+      "positive_traits": [
+        "Thông minh",
+        "Phân tích sâu",
+        "Trực giác",
+        "Bí ẩn",
+        "Chính trực",
+        "Độc lập trí tuệ"
+      ],
+      "negative_traits": [
+        "Lạnh lùng",
+        "Xa cách",
+        "Hoài nghi",
+        "Cô độc",
+        "Bí ẩn quá mức",
+        "Khó gần"
+      ],
+      "best_partners": [
+        5,
+        9,
+        3
+      ],
+      "challenging_partners": [
+        2,
+        6
+      ],
+      "parenting_style": "Cha/mẹ số 7 khuyến khích tư duy độc lập và tình yêu học hỏi. Thường tạo ra những cuộc trò chuyện triết lý, khoa học thú vị. Cần thể hiện cảm xúc nhiều hơn và dành thời gian vui chơi cùng con.",
+      "money_style": "Không bị ám ảnh bởi tiền bạc nhưng thường có tiền nhờ trí tuệ và chuyên môn sâu. Thích đầu tư vào giáo dục và tri thức. Cần chú ý hơn đến lập kế hoạch tài chính thực tế.",
+      "famous": [
+        "Muhammad Ali",
+        "Al Pacino",
+        "Jerry Seinfeld"
+      ]
+    },
+    "8": {
+      "title": "Người quyền lực & Thành đạt",
+      "description": "Sinh ra để trở thành ông chủ. Người có tầm nhìn xa và khá liều lĩnh.",
+      "strengths": "Tầm nhìn xa, khả năng tổ chức, huấn luyện, giám sát.",
+      "weaknesses": "Thể hiện tình yêu và tình cảm là điều khó khăn. Cái tôi, kiêu ngạo là điểm yếu.",
+      "career": "Ngân hàng, bất động sản, tài chính, báo chí.",
+      "health": "Huyết áp cao, vấn đề tim mạch.",
+      "love": "Cuộc sống có thể là cánh cửa xoay tròn của các mối quan hệ.",
+      "positive_traits": [
+        "Tham vọng",
+        "Lãnh đạo",
+        "Quyết đoán",
+        "Chiến lược",
+        "Tự tin",
+        "Kiên trì"
+      ],
+      "negative_traits": [
+        "Kiêu ngạo",
+        "Cứng nhắc",
+        "Thống trị",
+        "Lạnh lùng trong tình cảm",
+        "Workaholic"
+      ],
+      "best_partners": [
+        2,
+        4,
+        6
+      ],
+      "challenging_partners": [
+        1,
+        3
+      ],
+      "parenting_style": "Cha/mẹ số 8 đặt ra tiêu chuẩn cao và dạy con về sự thành công, trách nhiệm và giá trị lao động. Họ thường bận rộn với sự nghiệp. Cần dành nhiều thời gian hơn và thể hiện tình cảm với con.",
+      "money_style": "Sinh ra để kiếm tiền và quản lý tài sản. Có năng khiếu kinh doanh và đầu tư. Khi ở rung động cao thì rất hào phóng; khi thấp thì có thể bủn xỉn hoặc ám ảnh tiền bạc.",
+      "famous": [
+        "Giorgio Armani",
+        "Jane Fonda",
+        "Aretha Franklin",
+        "Richard Gere"
+      ]
+    },
+    "9": {
+      "title": "Người nhân đạo & Khôn ngoan",
+      "description": "Năng lượng của một tâm hồn hoài cổ. Nhiều kiếp trước mang lại sự khôn ngoan trong tiềm thức.",
+      "strengths": "Khiếu hài hước, thông minh, dí dỏm. Trực giác tuyệt vời.",
+      "weaknesses": "Ở độ rung thấp: có thể hạ mình, giải thích quá mức, tự hủy hoại bản thân.",
+      "career": "Nhà văn, nghệ sĩ, nhà làm phim, giảng dạy, tư vấn, chăm sóc sức khỏe.",
+      "health": "Đau cổ và vai, đặc biệt là hông. Tình trạng tự miễn dịch.",
+      "love": "Quyến rũ, lãng mạn, không gặp khó khăn khi thu hút bạn đời.",
+      "positive_traits": [
+        "Nhân ái",
+        "Khôn ngoan",
+        "Hào phóng",
+        "Sáng tạo",
+        "Tha thứ",
+        "Tầm nhìn rộng"
+      ],
+      "negative_traits": [
+        "Tự hủy hoại",
+        "Hay giải thích quá mức",
+        "Mang nặng cảm xúc",
+        "Lý tưởng hóa",
+        "Buồn bã nội tâm"
+      ],
+      "best_partners": [
+        3,
+        6,
+        7
+      ],
+      "challenging_partners": [
+        2,
+        4
+      ],
+      "parenting_style": "Cha/mẹ số 9 nuôi dạy con với tầm nhìn rộng về thế giới và lòng nhân ái. Con cái được dạy về sự tha thứ và cống hiến. Cần thực tế hơn và không để lý tưởng cao xa tạo áp lực cho con.",
+      "money_style": "Hào phóng đến mức có thể ảnh hưởng đến tài chính cá nhân. Thường cho đi nhiều hơn nhận lại. Cần học cách tiết kiệm cho bản thân trước khi giúp người khác.",
+      "famous": [
+        "Cher",
+        "Gandhi",
+        "Harrison Ford",
+        "Elvis Presley",
+        "Mẹ Teresa"
+      ]
+    },
+    "11": {
+      "title": "Con số Vua 11 — Người tiên tri & Khai sáng",
+      "description": "Số 11 là Con số Vua đầu tiên — mang năng lượng tâm linh cao nhất. Trực giác nhạy bén đến mức có thể được coi là khả năng ngoại cảm. Có thể đi trước thời đại và thế giới chưa sẵn sàng đón nhận.",
+      "strengths": "Diễn giả truyền cảm hứng, nhà lãnh đạo tinh thần, trực giác siêu việt, thấu hiểu sâu sắc bản chất con người.",
+      "weaknesses": "Trầm cảm, lo lắng, dị ứng nghiêm trọng. Rung cảm mang vấn đề sức khỏe của cả 1 và 2. Dễ bị kiệt sức năng lượng.",
+      "career": "Diễn giả công chúng, nhà lãnh đạo tinh thần, nhà thiết kế sáng tạo, người dẫn chương trình, nhà thơ, nhạc sĩ, nhà tâm lý học.",
+      "health": "Vấn đề sức khỏe kết hợp của số 1 (hệ tiêu hóa, đau đầu) và số 2 (dị ứng, lo lắng). Đặc biệt nhạy cảm với năng lượng môi trường xung quanh.",
+      "love": "Thích ở trong mối quan hệ bình yên và hài hòa. Cần bạn đời hiểu và tôn trọng sứ mệnh tinh thần của mình. Rất lãng mạn và sâu sắc trong tình cảm.",
+      "positive_traits": [
+        "Trực giác siêu việt",
+        "Truyền cảm hứng",
+        "Nhạy cảm sâu sắc",
+        "Sáng tạo",
+        "Lãnh đạo tinh thần",
+        "Thấu hiểu người khác"
+      ],
+      "negative_traits": [
+        "Trầm cảm",
+        "Lo lắng thái quá",
+        "Kiệt sức năng lượng",
+        "Bất ổn cảm xúc",
+        "Khó thực tế hóa ý tưởng"
+      ],
+      "best_partners": [
+        2,
+        4,
+        6,
+        22
+      ],
+      "challenging_partners": [
+        1,
+        5,
+        8
+      ],
+      "parenting_style": "Cha/mẹ số 11 rất nhạy cảm với cảm xúc và nhu cầu tâm linh của con. Truyền cho con sự trực giác và chiều sâu cảm xúc. Cần chú ý không để bất ổn cảm xúc của bản thân ảnh hưởng đến con.",
+      "money_style": "Không bị thúc đẩy bởi tiền bạc nhưng thường thu hút thành công tài chính nhờ tài năng và sức ảnh hưởng. Dễ cho tiền đi vì tính nhân ái. Cần cố vấn tài chính tốt.",
+      "spiritual_note": "Số 11 là 'Người thầy giảng' — được kêu gọi để khai sáng, truyền cảm hứng và nâng cao nhận thức của nhân loại. Bài học lớn nhất là tin tưởng vào trực giác của chính mình.",
+      "famous": [
+        "Jennifer Aniston",
+        "Bill Clinton",
+        "Barack Obama",
+        "Tony Robbins"
+      ]
+    },
+    "22": {
+      "title": "Con số Vua 22 — Kiến trúc sư vĩ đại",
+      "description": "Số 22 là Con số Vua mạnh mẽ nhất — 'Nhà xây dựng thành thạo'. Khả năng biến tầm nhìn lớn thành hiện thực cụ thể là năng lực đặc biệt nhất. Xây dựng những thứ tồn tại lâu dài và tác động đến nhiều người.",
+      "strengths": "Tầm nhìn vĩ đại kết hợp với khả năng thực thi. Kết hợp trực giác của 11 với tính thực tế của 4. Lãnh đạo và tổ chức xuất sắc.",
+      "weaknesses": "Thường sống trong căng thẳng mãn tính. Nguồn gốc gia đình phức tạp. Có thể mang gánh nặng quá lớn. Nguy cơ kiệt sức cao.",
+      "career": "Kiến trúc, xây dựng, kinh doanh quy mô lớn, chính trị, lãnh đạo tổ chức phi lợi nhuận, kỹ sư, nhà phát minh.",
+      "health": "Kết hợp vấn đề sức khỏe của số 2 (dị ứng, lo lắng) và số 4 (căng thẳng, đau khớp). Cần quản lý căng thẳng nghiêm túc.",
+      "love": "Tìm kiếm người bạn đời có thành tích cao, thực tế và tập trung vào mục tiêu. Cần ai đó hiểu và tôn trọng sứ mệnh lớn của họ. Đôi khi quá bận rộn với sự nghiệp.",
+      "positive_traits": [
+        "Tầm nhìn vĩ đại",
+        "Thực thi xuất sắc",
+        "Lãnh đạo mạnh mẽ",
+        "Kiên nhẫn",
+        "Đáng tin cậy",
+        "Xây dựng di sản"
+      ],
+      "negative_traits": [
+        "Căng thẳng mãn tính",
+        "Mang gánh nặng quá lớn",
+        "Khó trao quyền",
+        "Hoàn hảo chủ nghĩa",
+        "Nguy cơ kiệt sức"
+      ],
+      "best_partners": [
+        4,
+        6,
+        8,
+        11
+      ],
+      "challenging_partners": [
+        3,
+        5,
+        9
+      ],
+      "parenting_style": "Cha/mẹ số 22 đặt tiêu chuẩn cao và dạy con về sứ mệnh, trách nhiệm và tầm nhìn lớn. Truyền cho con sự kết hợp giữa lý tưởng và thực tế. Cần học cách thư giãn và vui chơi cùng con.",
+      "money_style": "Quản lý tài chính ở quy mô lớn — không chỉ cho bản thân mà cho tổ chức, dự án. Có khả năng tạo ra và quản lý tài sản lớn. Ít khi lo lắng về tiền nhỏ.",
+      "spiritual_note": "Số 22 được kêu gọi để xây dựng những 'ngôi đền' — không nhất thiết là công trình vật lý mà là các hệ thống, tổ chức, và di sản phục vụ nhân loại trong nhiều thế hệ.",
+      "famous": [
+        "Richard Branson",
+        "Dalai Lama",
+        "Paul McCartney"
+      ]
+    },
+    "33": {
+      "title": "Con số Vua 33 — Nhà giáo tâm linh",
+      "description": "Số 33 là Con số Vua hiếm nhất — 'Nhà giáo vĩ đại'. Kết hợp năng lượng của 11 (truyền cảm hứng) và 22 (xây dựng). Có sức ảnh hưởng và lòng cảm thông lớn nhất trong tất cả các Con số Vua.",
+      "strengths": "Khả năng giao tiếp và truyền đạt rõ ràng phi thường. Thực sự quan tâm đến nhân loại từ nơi sâu thẳm nhất. Tình yêu vô điều kiện.",
+      "weaknesses": "Tinh thần từ bi đạo — gánh chịu nỗi đau của người khác như của chính mình. Hay phàn nàn khi chưa đạt tới mức độ cao nhất của số 33. Kiệt sức cảm xúc.",
+      "career": "Giáo dục, chữa lành tâm lý và tâm linh, tư vấn, lãnh đạo tinh thần, nghệ thuật chữa lành, nhà văn truyền cảm hứng.",
+      "health": "Cần chú ý đặc biệt đến sức khỏe tinh thần và cảm xúc. Dễ bị kiệt sức vì hấp thu cảm xúc của người khác. Cần thực hành bảo vệ năng lượng cá nhân.",
+      "love": "Tình yêu vô điều kiện và sâu sắc. Cần bạn đời hiểu và trân trọng chiều sâu cảm xúc. Không bao giờ khó tìm kiếm đối tác vì sức hút tự nhiên rất mạnh.",
+      "positive_traits": [
+        "Tình yêu vô điều kiện",
+        "Truyền đạt phi thường",
+        "Chữa lành",
+        "Truyền cảm hứng",
+        "Cảm thông sâu sắc",
+        "Nghệ thuật tự nhiên"
+      ],
+      "negative_traits": [
+        "Kiệt sức cảm xúc",
+        "Gánh chịu nỗi đau người khác",
+        "Hay hy sinh thái quá",
+        "Khó đặt ranh giới",
+        "Hay phàn nàn"
+      ],
+      "best_partners": [
+        6,
+        9,
+        11
+      ],
+      "challenging_partners": [
+        1,
+        4,
+        8
+      ],
+      "parenting_style": "Cha/mẹ số 33 yêu thương con vô điều kiện và tạo ra môi trường gia đình đầy ấm áp và an toàn cảm xúc. Dạy con về tình yêu, lòng nhân ái và sứ mệnh phục vụ. Cần chú ý không bị kiệt sức vì quá hy sinh.",
+      "money_style": "Không đặt nặng tiền bạc — xem tài nguyên như công cụ phục vụ sứ mệnh. Thường thu hút đủ những gì cần. Dễ bị lợi dụng nên cần học cách đặt ranh giới tài chính.",
+      "spiritual_note": "Số 33 được kêu gọi để thể hiện tình yêu Crist/Phật — tình yêu vô điều kiện dành cho nhân loại. Đây là Con số Vua của sự giác ngộ và phục vụ tâm linh cao nhất.",
+      "famous": [
+        "Albert Einstein",
+        "Meryl Streep",
+        "Salma Hayek"
+      ]
+    }
+  },
+  "destiny_number": {
+    "1": {
+      "title": "Sứ mệnh Lãnh đạo & Tiên phong",
+      "positive": "Tầm nhìn tuyệt vời, ý tưởng sáng tạo, thu hút mọi người cùng tham gia.",
+      "negative": "Hách dịch, thiếu kiên nhẫn, kiêu ngạo, ích kỷ.",
+      "mission": "Tận dụng tài năng lãnh đạo, khả năng truyền cảm hứng, ý tưởng độc đáo.",
+      "career": "Được kêu gọi để lãnh đạo, khởi nghiệp và tiên phong. Thành công khi tự làm chủ hoặc là người đứng đầu.",
+      "relationship": "Cần học cách lắng nghe và chia sẻ quyền lực trong tình cảm. Thành công hơn khi chọn bạn đời có thể bổ trợ chứ không phải cạnh tranh.",
+      "growth_path": "Bài học lớn nhất là học cách đặt cái tôi xuống, hợp tác và nhận ra sức mạnh của tập thể."
+    },
+    "2": {
+      "title": "Sứ mệnh Hòa giải & Kết nối",
+      "positive": "Khéo léo, duyên dáng, giỏi chi tiết, hợp tác, kiên nhẫn.",
+      "negative": "Quá nhạy cảm, hay khóc, lén lút, lôi kéo.",
+      "mission": "Mang lại sự hòa hợp, cân bằng và hợp tác khi làm việc.",
+      "career": "Xuất sắc trong vai trò cố vấn, hỗ trợ, ngoại giao. Thành công khi làm việc với người khác, không phải một mình.",
+      "relationship": "Thành công rực rỡ trong tình cảm khi học cách nói thẳng nhu cầu. Tránh hy sinh bản thân quá mức.",
+      "growth_path": "Học cách tin tưởng vào giá trị của bản thân mà không cần sự công nhận từ người khác."
+    },
+    "3": {
+      "title": "Sứ mệnh Biểu đạt & Truyền cảm hứng",
+      "positive": "Sáng tạo, khiếu hài hước, năng lượng cao.",
+      "negative": "Kịch tính, lừa dối, cố chấp, ghen tuông.",
+      "mission": "Cân bằng giữa niềm vui và trách nhiệm.",
+      "career": "Được kêu gọi để biểu đạt, sáng tạo và truyền cảm hứng. Nghệ thuật, giải trí và giao tiếp là con đường tự nhiên.",
+      "relationship": "Nhiệt tình và lãng mạn nhưng cần học cam kết dài hạn. Cần bạn đời trân trọng sự sáng tạo và năng động của mình.",
+      "growth_path": "Học cách tập trung năng lượng vào một mục tiêu thay vì phân tán. Sâu sắc hơn trong giao tiếp cảm xúc."
+    },
+    "4": {
+      "title": "Sứ mệnh Xây dựng & Kiến tạo",
+      "positive": "Đáng tin cậy, có tổ chức, đúng giờ, giữ bình tĩnh khi đối mặt hỗn loạn.",
+      "negative": "Tham công tiếc việc, cố chấp, hay phản kháng, thất thường.",
+      "mission": "Xây dựng nền tảng vững chắc cho bản thân và xã hội.",
+      "career": "Được kêu gọi để xây dựng, tổ chức và tạo ra sự ổn định. Thành công trong các ngành có cấu trúc và quy trình rõ ràng.",
+      "relationship": "Đối tác đáng tin cậy và ổn định. Cần học cách linh hoạt hơn và đừng để công việc chiếm hết thời gian cho gia đình.",
+      "growth_path": "Học cách buông bỏ sự kiểm soát và chấp nhận rằng không phải lúc nào mọi thứ cũng phải hoàn hảo theo cách của mình."
+    },
+    "5": {
+      "title": "Sứ mệnh Tự do & Khám phá",
+      "positive": "Luôn có câu chuyện để kể, tinh thần mạo hiểm, lôi cuốn.",
+      "negative": "Bốc đồng, bồn chồn, thẳng thắn, thô lỗ, xu hướng tự hủy hoại.",
+      "mission": "Trải nghiệm cuộc sống đa dạng và truyền đạt sự tự do cho người khác.",
+      "career": "Được kêu gọi để khám phá, thử nghiệm và truyền đạt. Thành công trong các lĩnh vực đòi hỏi linh hoạt và sáng tạo.",
+      "relationship": "Cần bạn đời hiểu và tôn trọng nhu cầu tự do. Học cách cam kết mà không mất đi bản sắc.",
+      "growth_path": "Học cách dùng tự do một cách có trách nhiệm — tự do không phải là thoát khỏi trách nhiệm mà là lựa chọn có ý thức."
+    },
+    "6": {
+      "title": "Sứ mệnh Phục vụ & Chữa lành",
+      "positive": "Trung thành, đáng tin cậy, tháo vát, có óc xét đoán.",
+      "negative": "Tự mãn, mĩa mai, tự phụ, hay can thiệp, tìm kiếm sự công nhận.",
+      "mission": "Cân bằng giữa chăm sóc người khác và bản thân.",
+      "career": "Được kêu gọi để phục vụ, chữa lành và nuôi dưỡng. Thành công trong y tế, giáo dục, tư vấn và dịch vụ cộng đồng.",
+      "relationship": "Người bạn đời tận tụy và yêu thương. Cần học cách không can thiệp quá mức và tôn trọng ranh giới.",
+      "growth_path": "Học cách chấp nhận sự không hoàn hảo — cả ở bản thân và người khác. Tình yêu thật sự không có điều kiện."
+    },
+    "7": {
+      "title": "Sứ mệnh Tri thức & Tâm linh",
+      "positive": "Trầm lặng, suy nghĩ sâu sắc, trực giác mạnh, trí nhớ tuyệt vời.",
+      "negative": "Nghi ngờ, không trung thực, hoang tưởng, lén lút, ghen tị.",
+      "mission": "Chia sẻ trí tuệ và kiến thức rộng lớn với thế giới.",
+      "career": "Được kêu gọi để nghiên cứu, phân tích và chia sẻ tri thức. Xuất sắc trong khoa học, triết học, tâm linh và nghiên cứu.",
+      "relationship": "Cần bạn đời có chiều sâu trí tuệ và tôn trọng không gian cá nhân. Học cách mở lòng và chia sẻ cảm xúc.",
+      "growth_path": "Học cách tin tưởng người khác và chia sẻ tri thức thay vì giữ lại. Sức mạnh thật sự đến từ việc kết nối, không phải cô lập."
+    },
+    "8": {
+      "title": "Sứ mệnh Thành đạt & Quyền lực",
+      "positive": "Sinh ra để thành công, tầm nhìn xa, nhà lãnh đạo bẩm sinh.",
+      "negative": "Thiếu kiên nhẫn, không khoan dung, tàn nhẫn, lạm dụng chất kích thích.",
+      "mission": "Cân bằng giữa tâm linh và vật chất.",
+      "career": "Được kêu gọi để đạt thành tựu vật chất và tạo ra ảnh hưởng lớn. Kinh doanh, tài chính và lãnh đạo là lĩnh vực tự nhiên.",
+      "relationship": "Cần học cách ưu tiên tình cảm bên cạnh sự nghiệp. Bạn đời cần cảm thấy được quan tâm, không chỉ được hỗ trợ tài chính.",
+      "growth_path": "Học cách dùng quyền lực và tiền bạc để phục vụ người khác. Thành công thật sự bao gồm cả thành công trong các mối quan hệ."
+    },
+    "9": {
+      "title": "Sứ mệnh Nhân đạo & Cống hiến",
+      "positive": "Thu phục mọi người bằng khiếu hài hước, quyến rũ, có tầm nhìn xa.",
+      "negative": "Chiếm hữu, u rú, nhút nhát, nghiện mua sắm.",
+      "mission": "Chia sẻ tài năng, giúp đỡ nhân loại.",
+      "career": "Được kêu gọi để cống hiến và phục vụ nhân loại. Nghệ thuật, giáo dục, y tế và hoạt động xã hội là con đường tự nhiên.",
+      "relationship": "Lãng mạn và hào phóng. Cần học cách nhận về sau khi cho đi quá nhiều. Tránh lý tưởng hóa người bạn đời.",
+      "growth_path": "Học cách buông bỏ và tha thứ — không chỉ cho người khác mà cho chính mình. Sứ mệnh bắt đầu từ bên trong."
+    },
+    "11": {
+      "title": "Sứ mệnh Khai sáng & Tiên tri",
+      "positive": "Nhạy cảm, trực giác cao, lãnh đạo bẩm sinh.",
+      "negative": "Bị thao túng, khó phân tách tưởng tượng và thực tế.",
+      "mission": "Thức tỉnh và soi sáng cho những người khác.",
+      "career": "Được kêu gọi để truyền cảm hứng và khai sáng. Xuất sắc trong nghệ thuật, tâm linh, diễn giả và lãnh đạo tinh thần.",
+      "relationship": "Cần bạn đời có kết nối tâm linh sâu sắc. Môi trường quan hệ ảnh hưởng lớn đến sức khỏe năng lượng.",
+      "growth_path": "Học cách tin tưởng vào trực giác của mình và biến tầm nhìn thành hành động cụ thể."
+    },
+    "22": {
+      "title": "Sứ mệnh Kiến tạo vĩ đại",
+      "positive": "Nhận thức bức tranh toàn cảnh, nhiều khả năng thành công nhất.",
+      "negative": "Ranh mãnh, thâm hiểm, phá hoại.",
+      "mission": "Sử dụng quyền hạn cho mục đích tốt.",
+      "career": "Được kêu gọi để xây dựng những thứ lớn lao và lâu bền. Xuất sắc trong lãnh đạo tổ chức lớn, kiến trúc và kinh doanh quy mô.",
+      "relationship": "Cần bạn đời có thể hỗ trợ và hiểu sứ mệnh lớn. Học cách cân bằng giữa sự nghiệp và gia đình.",
+      "growth_path": "Học cách ủy quyền và không gánh vác tất cả một mình. Sứ mệnh lớn cần đội ngũ mạnh."
+    },
+    "33": {
+      "title": "Sứ mệnh Yêu thương & Chữa lành nhân loại",
+      "positive": "Khả năng sáng tạo, giao tiếp, chân thành, lòng trắc ẩn.",
+      "negative": "Tinh thần từ bi đạo, gánh chịu nỗi đau người khác.",
+      "mission": "Trở thành tấm gương về tình yêu và lòng trắc ẩn.",
+      "career": "Được kêu gọi để chữa lành, giáo dục và truyền cảm hứng tâm linh. Xuất sắc trong nghệ thuật chữa lành, giảng dạy và tư vấn.",
+      "relationship": "Tình yêu vô điều kiện là món quà lớn nhất. Cần học cách đặt ranh giới lành mạnh và không mất bản thân khi yêu.",
+      "growth_path": "Học cách chăm sóc bản thân trước — chỉ khi bạn khỏe mạnh mới có thể chữa lành cho người khác."
+    }
+  },
+  "soul_number": {
+    "1": {
+      "title": "Linh hồn Lãnh đạo",
+      "core": "Phong cách độc đáo, dẫn đầu trong mối quan hệ. Lãng mạn trong vô vọng.",
+      "desire": "Khao khát được công nhận là người đứng đầu, độc đáo và đặc biệt. Muốn tự đưa ra quyết định.",
+      "fear": "Sợ bị phụ thuộc, bị kiểm soát hoặc không được công nhận. Sợ bị coi là tầm thường.",
+      "in_relationship": "Muốn là người chủ động và dẫn dắt. Cần bạn đời tôn trọng sự độc lập và tầm nhìn của mình.",
+      "shadow": "Khi không được sống đúng: trở nên kiêu ngạo, không lắng nghe hoặc cô đơn vì tiêu chuẩn quá cao."
+    },
+    "2": {
+      "title": "Linh hồn Kết nối",
+      "core": "Cảm thấy tốt hơn khi ở cùng người khác, cam kết và mong đợi điều tương tự từ đối phương.",
+      "desire": "Khao khát sự hòa hợp, được yêu thương và thuộc về ai đó. Muốn có bạn đồng hành thật sự.",
+      "fear": "Sợ bị từ chối, cô đơn và xung đột. Sợ mất đi các mối quan hệ quan trọng.",
+      "in_relationship": "Người bạn đời lý tưởng — trung thành, ân cần và luôn ưu tiên đối phương. Cần học nói lên nhu cầu bản thân.",
+      "shadow": "Khi không được sống đúng: phụ thuộc thái quá, mất bản sắc hoặc thao túng tinh vi để được yêu thương."
+    },
+    "3": {
+      "title": "Linh hồn Biểu đạt",
+      "core": "Mê hoặc, khiến người khác cười. Che giấu cảm xúc bằng sự hài hước.",
+      "desire": "Khao khát được biểu đạt sáng tạo, được lắng nghe và yêu thích. Muốn cuộc sống vui vẻ và đầy màu sắc.",
+      "fear": "Sợ bị chỉ trích sáng tạo của mình. Sợ cảm xúc bị đè nén và không có lối thoát biểu đạt.",
+      "in_relationship": "Cần không khí vui vẻ, lãng mạn và sáng tạo. Người bạn đời phải biết trân trọng và khuyến khích tài năng.",
+      "shadow": "Khi không được sống đúng: trầm cảm ẩn sau nụ cười, kịch tính hoặc dùng lời nói sắc bén để tấn công."
+    },
+    "4": {
+      "title": "Linh hồn Trật tự",
+      "core": "Lạnh lùng hoặc xa cách. Tiếp cận tình yêu một cách thực tế.",
+      "desire": "Khao khát sự ổn định, an toàn và trật tự. Muốn xây dựng nền tảng vững chắc cho cuộc sống.",
+      "fear": "Sợ hỗn loạn, thay đổi đột ngột và mất kiểm soát. Sợ thất bại và mất đi sự ổn định.",
+      "in_relationship": "Trung thành và cam kết lâu dài. Thể hiện tình yêu qua hành động thực tế. Cần học cách mở lòng hơn.",
+      "shadow": "Khi không được sống đúng: cứng nhắc, kiểm soát hoặc bi quan về cuộc sống."
+    },
+    "5": {
+      "title": "Linh hồn Tự do",
+      "core": "Tự do là yếu tố cần thiết. Khó giữ lời hứa và cam kết lâu dài.",
+      "desire": "Khao khát tự do tuyệt đối — đi bất cứ nơi nào, thử bất cứ điều gì, không bị ràng buộc.",
+      "fear": "Sợ bị giam cầm, mất tự do hoặc bị bắt buộc cam kết. Sợ cuộc sống đơn điệu.",
+      "in_relationship": "Cần bạn đời hiểu và tôn trọng sự tự do. Khi thực sự yêu, trung thành; khi cảm thấy bị ràng buộc, ra đi.",
+      "shadow": "Khi không được sống đúng: nghiện ngập, bốc đồng hoặc chạy trốn trách nhiệm."
+    },
+    "6": {
+      "title": "Linh hồn Yêu thương",
+      "core": "Mong muốn lớn nhất là yêu và được yêu. Đa cảm, kiên nhẫn, từ bi.",
+      "desire": "Khao khát tình yêu sâu sắc, gia đình hòa thuận và được chăm sóc người khác. Muốn bản thân là bến đậu an toàn.",
+      "fear": "Sợ bị từ chối trong tình yêu, sợ gia đình tan vỡ hoặc những người yêu thương bị tổn thương.",
+      "in_relationship": "Người bạn đời tận tụy nhất — sẽ làm mọi thứ để giữ gìn mối quan hệ. Cần học cách nhận lại sau khi cho đi.",
+      "shadow": "Khi không được sống đúng: can thiệp quá mức, đổ lỗi hoặc cầu toàn trong tình cảm."
+    },
+    "7": {
+      "title": "Linh hồn Tri thức",
+      "core": "Thông minh là điểm quyến rũ. Có thể chọn cuộc sống cô độc.",
+      "desire": "Khao khát hiểu biết sâu sắc về bản thân, vũ trụ và ý nghĩa cuộc sống. Muốn tìm ra sự thật.",
+      "fear": "Sợ bị xâm phạm sự riêng tư, sợ không giữ được ranh giới cá nhân. Sợ bị coi là ngu ngốc hoặc không thấu đáo.",
+      "in_relationship": "Cần bạn đời có chiều sâu trí tuệ và tôn trọng không gian cá nhân. Yêu thương qua những cuộc trò chuyện sâu sắc.",
+      "shadow": "Khi không được sống đúng: cô lập, lạnh lùng hoặc dùng trí tuệ để trốn tránh cảm xúc."
+    },
+    "8": {
+      "title": "Linh hồn Thành đạt",
+      "core": "Học từ khó khăn. Thích tiện nghi, vật chất và giàu sang.",
+      "desire": "Khao khát thành công, quyền lực và được công nhận năng lực. Muốn để lại dấu ấn và di sản.",
+      "fear": "Sợ thất bại tài chính, mất quyền lực hoặc bị coi là yếu đuối. Sợ nghèo khó.",
+      "in_relationship": "Đảm bảo sự ổn định vật chất cho bạn đời. Cần học cách biểu đạt tình cảm bằng nhiều ngôn ngữ yêu thương hơn ngoài tiền bạc.",
+      "shadow": "Khi không được sống đúng: ám ảnh tiền bạc, dùng vật chất để kiểm soát hoặc bù đắp cảm xúc."
+    },
+    "9": {
+      "title": "Linh hồn Nhân đạo",
+      "core": "Mong muốn tình yêu phổ quát. Chu đáo, đoán trước nhu cầu của người bạn đời.",
+      "desire": "Khao khát làm cho thế giới tốt đẹp hơn, được yêu thương vô điều kiện và kết nối sâu sắc với nhân loại.",
+      "fear": "Sợ không đóng góp được gì, sợ bị lợi dụng hoặc những người mình yêu thương không nhận ra giá trị của mình.",
+      "in_relationship": "Lãng mạn, hào phóng và tha thứ. Cần bạn đời chia sẻ giá trị nhân đạo. Học cách đặt bản thân ngang bằng người khác.",
+      "shadow": "Khi không được sống đúng: bất mãn, tự hủy hoại hoặc đòi hỏi sự công nhận thái quá."
+    },
+    "11": {
+      "title": "Linh hồn Tâm linh",
+      "core": "Cảm xúc dao động mãnh liệt. Mang chất lượng tinh thần sâu sắc vào mối quan hệ.",
+      "desire": "Khao khát kết nối tâm linh sâu sắc, truyền cảm hứng và được hiểu thấu ở mức sâu nhất.",
+      "fear": "Sợ bị hiểu lầm, sợ năng lượng tiêu cực và sợ mất đi sự kết nối tâm linh trong mối quan hệ.",
+      "in_relationship": "Cần bạn đời có chiều sâu tâm linh và cảm xúc. Rất nhạy cảm — môi trường quan hệ ảnh hưởng lớn đến sức khỏe.",
+      "shadow": "Khi không được sống đúng: lo lắng mãn tính, bất ổn cảm xúc hoặc trầm cảm nhiều giai đoạn."
+    },
+    "22": {
+      "title": "Linh hồn Kiến tạo",
+      "core": "Mong muốn để lại di sản cho thế giới.",
+      "desire": "Khao khát xây dựng những thứ lớn lao và bền vững, được công nhận là người đã thay đổi thế giới.",
+      "fear": "Sợ ước mơ lớn không được hiện thực hóa, sợ bị cười vì tầm nhìn quá lớn.",
+      "in_relationship": "Cần bạn đời hiểu và hỗ trợ sứ mệnh lớn. Đôi khi quá bận rộn với sự nghiệp mà quên đi gia đình.",
+      "shadow": "Khi không được sống đúng: căng thẳng mãn tính, mang gánh nặng quá lớn hoặc dùng quyền lực không đúng cách."
+    },
+    "33": {
+      "title": "Linh hồn Tình yêu vô điều kiện",
+      "core": "Muốn đẩy lên rung động tình yêu của thế giới.",
+      "desire": "Khao khát yêu thương và chữa lành — không chỉ cho từng cá nhân mà cho cả nhân loại. Muốn làm thế giới ấm hơn.",
+      "fear": "Sợ không thể yêu thương đủ, sợ những người mình yêu bị tổn thương và sợ bị kiệt sức cảm xúc.",
+      "in_relationship": "Tình yêu vô điều kiện và sâu sắc. Cần học cách đặt ranh giới lành mạnh và không mất bản thân khi yêu.",
+      "shadow": "Khi không được sống đúng: kiệt sức cảm xúc, gánh chịu nỗi đau người khác hoặc hay phàn nàn về cuộc đời."
+    },
+    "note": "Số Linh hồn tiết lộ khao khát sâu thẳm bên trong — điều bạn thực sự muốn nhưng ít khi nói ra."
+  },
+  "personality_number": {
+    "1": {
+      "title": "Năng động & hiệu quả",
+      "traits": "Có phong cách, vui vẻ, thích kiểm soát, có khả năng, thống trị, can đảm.",
+      "first_impression": "Tự tin, quyết đoán và có năng lực. Người khác ngay lập tức cảm nhận bạn là người lãnh đạo.",
+      "how_others_see": "Năng động, đứng thẳng, mắt ánh nhìn trực tiếp. Có thể bị coi là kiêu ngạo trước khi người khác hiểu bạn hơn.",
+      "style_tip": "Trang phục sắc sảo, đứng đầu xu hướng. Màu sắc đậm và hình động bổ sung cho năng lượng tự nhiên."
+    },
+    "2": {
+      "title": "Thân thiện & khiêm tốn",
+      "traits": "Hợp tác, khiêm tốn, ngoại giao tốt, lễ độ, biết lắng nghe, nhút nhát, thường bị coi nhẹ.",
+      "first_impression": "Nhẹ nhàng, thân thiện và dễ gần. Người khác cảm thấy an toàn và thoải mái khi ở bên bạn.",
+      "how_others_see": "Lịch sự, đầy đủ và luôn chú ý đến người khác. Có thể bị coi nhẹ vì quá nhẹ nhàng.",
+      "style_tip": "Màu pastel và trang phục tinh tế. Tránh quá lộ liễu. Chi tiết nhỏ mới lạ thường nổi bật hơn."
+    },
+    "3": {
+      "title": "Truyền cảm hứng & thu hút",
+      "traits": "Hấp dẫn, tích cực, thu hút, hướng ngoại, lạc quan, dễ nói chuyện, vui vẻ.",
+      "first_impression": "Năng động, vui vẻ và thu hút. Mọi người ngay lập tức muốn kết bạn với bạn.",
+      "how_others_see": "Lạc quan và sáng tạo. Người xung quanh cảm thấy vui vẻ hơn khi ở cạnh bạn.",
+      "style_tip": "Màu sắc tươi sáng và phụ kiện vui vẻ. Phong cách tự do, cá tính. Tránh phong cách quá nghiêm túc."
+    },
+    "4": {
+      "title": "Đáng tin cậy & nhất quán",
+      "traits": "Thực tế, đáng kính, bảo thủ, đáng tin cậy, có trách nhiệm, dè dặt, không linh hoạt.",
+      "first_impression": "Nghiêm túc, có tổ chức và đáng tin cậy. Người khác cảm thấy bạn là người họ có thể dựa vào.",
+      "how_others_see": "Thực tế và bảo thủ. Người ngoài có thể thấy bạn cứng nhắc trước khi biết bạn thật sự.",
+      "style_tip": "Trang phục classic, chất liệu cao cấp và màu neutral. Tránh quá trend hay lòe loẹt."
+    },
+    "5": {
+      "title": "Nổi bật & dí dỏm",
+      "traits": "Vui vẻ, lạc quan, hào hứng, hấp dẫn, hướng ngoại, thiếu trách nhiệm.",
+      "first_impression": "Năng động, thú vị và hoàn toàn không thể đoán trước. Mọi người tò mò muốn biết thêm về bạn.",
+      "how_others_see": "Hấp dẫn và tự do. Đôi khi bị coi là thiếu trách nhiệm hoặc không đáng tin cậy trong công việc.",
+      "style_tip": "Cá tính và đa dạng — thích thay đổi phong cách. Màu hứa hẹn, hoa văn năng động phù hợp."
+    },
+    "6": {
+      "title": "Thấu hiểu & đồng cảm",
+      "traits": "Hay bảo vệ, đáng tin cậy, thanh lịch, cầu toàn, thông cảm, chăm sóc, trang nhã.",
+      "first_impression": "Ấm áp, quan tâm và thanh lịch. Người khác ngay lập tức cảm thấy được chào đón và chăm sóc.",
+      "how_others_see": "Thanh lịch và toàn vẹn. Đôi khi có thể bị coi là quá cẩn thận hoặc cầu kỳ.",
+      "style_tip": "Thanh lịch và cổ điển. Đường nét đơn giản, màu sắc warm tone. Luôn được chú ý vì vẻ chỉn chu."
+    },
+    "7": {
+      "title": "Nghiêm túc & bí ẩn",
+      "traits": "Nhận thức tốt, thông minh, đàng hoàng, dè dặt, nội tâm, hướng nội, xa cách.",
+      "first_impression": "Bí ẩn và hướng nội. Người khác tò mò nhưng không dám lại gần ngay.",
+      "how_others_see": "Thông minh và độc đáo. Có thể bị nghĩ là lạnh lùng trước khi người khác biết bạn thật sự.",
+      "style_tip": "Tối giản và có chiều sâu. Màu tối hoặc trung tính. Một chi tiết tinh tế tạo sự hấp dẫn."
+    },
+    "8": {
+      "title": "Mạnh mẽ & ấn tượng",
+      "traits": "Có ảnh hưởng, quyền lực, tham vọng, tầm nhìn xa, tự tin, tàn nhẫn, tham lam.",
+      "first_impression": "Quyền lực và đáng kính. Mọi người ngay lập tức nhận ra bạn là người quan trọng.",
+      "how_others_see": "Sự thành công bản thân toát ra không cần nói gì. Một số người ngưỡng mộ, một số khác cảm thấy e dè.",
+      "style_tip": "Chất lượng hơn số lượng — đầu tư vào trang phục cao cấp ít nhưng đắc. Màu trung tính mạnh mẽ."
+    },
+    "9": {
+      "title": "Ấn tượng & cá tính",
+      "traits": "Có năng lực, cương quyết, trung thực, ổn định, sáng tạo, kiêu ngạo, ghen tị.",
+      "first_impression": "Quyến rũ và đa chiều. Người khác cảm thấy được mở rộng tầm nhìn khi nói chuyện với bạn.",
+      "how_others_see": "Có trí tuệ và tầm nhìn rộng. Ẩn chứa sự huyền bí và triết học sâu sắc.",
+      "style_tip": "Phong cách artistic và đa văn hóa. Màu sắc phong phú, phụ kiện từ các nền văn hóa khác nhau."
+    },
+    "11": {
+      "title": "Thân thiện & khiêm tốn (11)",
+      "traits": "Thêm trực giác mãnh liệt và nhạy cảm hơn của số 2.",
+      "first_impression": "Huyền bí và thu hút — người khác khó giải thích tại sao lại bị cuốn hút bởi bạn.",
+      "how_others_see": "Như có một ánh sáng hướng dẫn. Người khác cảm thấy được truyền cảm hứng chỉ bằng sự hiện diện.",
+      "style_tip": "Tinh tế và tâm linh. Cả màu trắng tinh khôi lẫn màu tối sâu đều phù hợp. Trang sức có ý nghĩa biểu tượng."
+    },
+    "22": {
+      "title": "Đáng tin cậy (22)",
+      "traits": "Năng lượng số 4 + khả năng kiến tạo lâu dài của 22.",
+      "first_impression": "Uy nghi và đáng tin cậy. Người khác ngay lập tức cảm thấy bạn là người có thể xây dựng những điều lớn lao.",
+      "how_others_see": "Quyền uy tự nhiên mà không cần cố gắng. Toàn thuộc và có chiều sâu.",
+      "style_tip": "Sang trọng và có tầm. Chất liệu cao cấp, màu classic. Phong cách không bao giờ lỗi thời."
+    },
+    "33": {
+      "title": "Thấu hiểu (33)",
+      "traits": "Thêm sức ảnh hưởng và lòng trắc ẩn của 33.",
+      "first_impression": "Ấm áp và chữa lành — người khác cảm thấy được hiểu thấu và chấp nhận ngay lập tức.",
+      "how_others_see": "Như đàn thiện — tự nhiên tỏa ra sự ấm áp và an toàn cho mọi người xung quanh.",
+      "style_tip": "Nhẹ nhàng và từ bi. Màu trắng, tím nhạt hoặc xanh lá mang năng lượng chữa lành. Phong cách không phô trương."
+    },
+    "note": "Số Nhân cách tiết lộ ấn tượng đầu tiên bạn tạo ra — cách người khác nhìn nhận bạn trước khi biết rõ bạn là ai."
+  },
+  "maturity_number": {
+    "1": {
+      "title": "Trưởng thành qua Lãnh đạo & Độc lập",
+      "description": "Cần có sự độc lập và tính cá nhân mạnh mẽ hơn ở nửa sau cuộc đời. Cẩn thận không trở thành kẻ bắt nạt.",
+      "theme": "Sự trưởng thành ở tuổi trung niên và về già mang theo sức mạnh và sự khẳng định bản thân mạnh mẽ hơn. Đây là lúc bạn thực sự trở thành người tiên phong.",
+      "life_lesson": "Học cách dẫn đầu một cách bao dung và khiêm tốn. Sức mạnh thật sự không cần phải chứng minh.",
+      "advice": "Hãy dùng sự độc lập và kinh nghiệm tích lũy để dẫn dắt người khác. Nhưng luôn nhớ lắng nghe và học hỏi.",
+      "warning": "Tránh cô lập bản thân hoặc trở nên cứng nhắc không thể thay đổi ở tuổi già."
+    },
+    "2": {
+      "title": "Trưởng thành qua Hợp tác & Ngoại giao",
+      "description": "Sự nhạy cảm, khéo léo và khả năng ngoại giao tăng lên. Phù hợp với công việc hậu trường.",
+      "theme": "Ở nửa sau cuộc đời, bạn ngày càng coi trọng mối quan hệ và sự hòa hợp. Vai trò hòa giải và kết nối trở nên quan trọng hơn bao giờ hết.",
+      "life_lesson": "Học cách yêu bản thân mình đủ nhiều như cách bạn yêu người khác. Sự hòa hợp thật sự bắt đầu từ bên trong.",
+      "advice": "Dùng trí tuệ cảm xúc phong phú để xây dựng cầu nối giữa người và người. Đây là di sản quý giá nhất bạn để lại.",
+      "warning": "Tránh hy sinh bản thân quá mức hoặc phụ thuộc cảm xúc vào người khác ở giai đoạn cuối đời."
+    },
+    "3": {
+      "title": "Trưởng thành qua Biểu đạt & Sáng tạo",
+      "description": "Trở nên hòa đồng và hướng ngoại hơn. Khả năng giao tiếp cải thiện, tiềm năng sáng tạo.",
+      "theme": "Tuổi trung niên mở ra giai đoạn sáng tạo và biểu đạt mạnh mẽ nhất. Bạn tìm thấy tiếng nói và chất nghệ sĩ chân thật nhất của mình.",
+      "life_lesson": "Sáng tạo không có tuổi. Giai đoạn này là lúc thoải mái nhất để chia sẻ quà tặng của bạn với thế giới.",
+      "advice": "Đừng giữ lại sự sáng tạo — chia sẻ nó rộng rãi. Viết, hát, vẽ, dạy... bất cứ điều gì mang lại niềm vui.",
+      "warning": "Tránh phân tán năng lượng vào quá nhiều dự án cùng lúc. Chọn một vài thứ và hoàn thiện chúng."
+    },
+    "4": {
+      "title": "Trưởng thành qua Kỷ luật & Xây dựng",
+      "description": "Trở thành người có kế hoạch, thực tế và có tổ chức hơn. Tránh quá cứng nhắc.",
+      "theme": "Ở nửa sau cuộc đời, bạn ngày càng coi trọng sự ổn định, cam kết và xây dựng nền tảng vững chắc. Ước mơ trở nên thực tế hơn.",
+      "life_lesson": "Sự kiên nhẫn và kỷ luật là những đức tính cao quý. Những gì bạn xây dựng sẽ tồn tại lâu hơn bạn.",
+      "advice": "Dùng kinh nghiệm và sự thực tế để xây dựng những thứ có giá trị — gia đình, cộng đồng, di sản.",
+      "warning": "Tránh trở nên quá cứng nhắc hoặc không thể thích nghi. Cuộc sống luôn yêu cầu sự linh hoạt."
+    },
+    "5": {
+      "title": "Trưởng thành qua Tự do & Đổi mới",
+      "description": "Du lịch, tự do và những sự kiện bất ngờ chi phối nửa sau cuộc đời.",
+      "theme": "Giai đoạn trưởng thành mang đến sự giải phóng và phiêu lưu. Bạn càng ngày càng muốn thoát khỏi các ràng buộc và trải nghiệm thế giới rộng hơn.",
+      "life_lesson": "Tự do thật sự đến từ bên trong — từ việc chấp nhận mọi thứ có thể thay đổi và vẫn giữ được sự bình yên.",
+      "advice": "Cho phép bản thân khám phá những chân trời mới dù ở độ tuổi nào. Sự tò mò và tinh thần phiêu lưu là nguồn sức sống.",
+      "warning": "Tránh chạy trốn khỏi trách nhiệm. Tự do thật sự là chọn lựa có ý thức, không phải né tránh."
+    },
+    "6": {
+      "title": "Trưởng thành qua Phục vụ & Tình yêu",
+      "description": "Gia đình, bạn bè và cộng đồng ngày càng quan trọng. Tuổi già an toàn.",
+      "theme": "Ở giai đoạn trưởng thành, bạn trở thành trụ cột của gia đình và cộng đồng. Vai trò chăm sóc, nuôi dưỡng và tư vấn ngày càng trở nên trung tâm.",
+      "life_lesson": "Tình yêu thương và phục vụ là di sản vĩ đại nhất. Tuổi già hạnh phúc đến từ những mối quan hệ sâu sắc.",
+      "advice": "Dành thời gian và tình yêu cho gia đình và cộng đồng. Đây là khoản đầu tư tốt nhất cho giai đoạn về già.",
+      "warning": "Tránh can thiệp quá mức vào cuộc sống của người thân. Cho phép họ tự trưởng thành."
+    },
+    "7": {
+      "title": "Trưởng thành qua Tri thức & Tâm linh",
+      "description": "Đề phòng trở nên ẩn dật. Trực giác phát triển mạnh, tiếp tục rèn luyện bản thân.",
+      "theme": "Giai đoạn trưởng thành mang đến chiều sâu tâm linh và trí tuệ. Bạn ngày càng quan tâm đến ý nghĩa sâu xa của cuộc sống hơn là vật chất.",
+      "life_lesson": "Tri thức thật sự không phải là thông tin mà là sự khôn ngoan — biết nên nói gì, làm gì và im lặng khi nào.",
+      "advice": "Chia sẻ trí tuệ và kinh nghiệm với những người trẻ hơn. Đừng giữ lại những gì bạn đã học được.",
+      "warning": "Tránh cô lập bản thân hoàn toàn. Mối kết nối với thế giới là nguồn nuôi dưỡng trí tuệ tươi mới."
+    },
+    "8": {
+      "title": "Trưởng thành qua Quyền lực & Tài chính",
+      "description": "Học cách tách khỏi thành công vật chất. Nguy cơ bị sự tích lũy chi phối.",
+      "theme": "Giai đoạn trưởng thành mang lại đỉnh cao thành công vật chất. Nhưng bài học quan trọng nhất là nhận ra những gì thực sự có giá trị không thể mua bằng tiền.",
+      "life_lesson": "Tiền bạc là công cụ, không phải mục đích. Sử dụng nó để tạo ra ý nghĩa và để lại di sản có giá trị.",
+      "advice": "Dùng nguồn lực tích lũy để giúp đỡ người khác và xây dựng những thứ lớn lao hơn bản thân.",
+      "warning": "Tránh để ám ảnh vật chất chi phối hạnh phúc. Sự giàu có mà thiếu bình yên không phải là thành công."
+    },
+    "9": {
+      "title": "Trưởng thành qua Nhân đạo & Hoàn thiện",
+      "description": "Trí tuệ, khiếu hài hước và tấm lòng nhân đạo phát triển. Đóng góp giá trị lâu dài.",
+      "theme": "Giai đoạn trưởng thành mang đến sự khôn ngoan và tầm nhìn nhân đạo sâu sắc. Bạn ngày càng buông bỏ được những thứ không còn phục vụ mình và tập trung vào cống hiến.",
+      "life_lesson": "Buông bỏ không phải là thất bại — đó là sự khôn ngoan tối thượng. Hoàn thiện bản thân là hành trình không bao giờ kết thúc.",
+      "advice": "Dùng trí tuệ và kinh nghiệm nhân đạo để truyền cảm hứng cho thế hệ tiếp theo. Đây là di sản đẹp nhất.",
+      "warning": "Tránh mang theo nỗi thất vọng về thế giới. Tập trung vào những gì bạn có thể làm tốt hơn."
+    }
+  },
+  "attitude_number": {
+    "1": {
+      "title": "Thái độ Tiên phong & Độc lập",
+      "description": "Người độc đáo, mang dấu ấn cá nhân riêng. Tự tin, có năng lực, bốc đồng.",
+      "first_vibe": "Bạn toát ra năng lượng tự tin và chủ động ngay từ đầu. Người khác cảm nhận được sự quyết đoán trong cách bạn bước vào phòng.",
+      "strength": "Khởi đầu mạnh mẽ, không ngại làm người đầu tiên thử điều mới. Bản năng dẫn dắt rất tự nhiên.",
+      "blind_spot": "Có thể vô tình làm người khác cảm thấy bị bỏ lại phía sau. Cần học cách chậm lại và mang người khác cùng đi."
+    },
+    "2": {
+      "title": "Thái độ Hợp tác & Nhạy cảm",
+      "description": "Tử tế, ngoại giao tốt, kiên nhẫn. Cực kỳ nhạy cảm với năng lượng người khác.",
+      "first_vibe": "Bạn tạo ra không khí an toàn và thân thiện ngay lập tức. Người khác cảm thấy được lắng nghe khi ở cạnh bạn.",
+      "strength": "Đọc vị cảm xúc phòng cực giỏi. Biết chính xác ai cần gì và khi nào cần nói gì.",
+      "blind_spot": "Dễ bị ảnh hưởng bởi năng lượng tiêu cực của người khác. Cần thiết lập ranh giới cảm xúc rõ ràng hơn."
+    },
+    "3": {
+      "title": "Thái độ Lạc quan & Hài hước",
+      "description": "Vui vẻ, vô tư nhưng nhạy cảm, sợ bị chỉ trích. Hóm hỉnh và thông minh.",
+      "first_vibe": "Bạn làm sáng bừng không khí mọi nơi bạn có mặt. Nụ cười và năng lượng dương tính là thứ người khác nhớ đến đầu tiên.",
+      "strength": "Khả năng hóa giải căng thẳng bằng sự hài hước và nhẹ nhàng. Làm người xung quanh cảm thấy thoải mái.",
+      "blind_spot": "Đôi khi dùng sự vui vẻ để tránh các cuộc trò chuyện khó khăn. Cần học cách đối mặt trực tiếp hơn."
+    },
+    "4": {
+      "title": "Thái độ Thực tế & Kỷ luật",
+      "description": "Có vẻ bất cần hoặc lạnh lùng về mặt cảm xúc. Yêu thích quy tắc, sự công bằng.",
+      "first_vibe": "Bạn trông có vẻ nghiêm túc và đáng tin cậy từ cái nhìn đầu tiên. Người khác cảm thấy họ có thể dựa vào bạn.",
+      "strength": "Đáng tin cậy tuyệt đối và có kỷ luật cao. Khi bạn nói sẽ làm điều gì đó, mọi người biết nó sẽ được làm.",
+      "blind_spot": "Có thể vô tình làm người khác cảm thấy bị đánh giá hoặc không đủ tiêu chuẩn. Cần ấm áp hơn trong giao tiếp."
+    },
+    "5": {
+      "title": "Thái độ Phiêu lưu & Tự do",
+      "description": "Sức hút để điều hướng cuộc sống. Thích phiêu lưu, không sợ gì.",
+      "first_vibe": "Bạn tạo ra cảm giác phấn khích và bất ngờ dễ chịu. Người khác muốn theo bạn đến những nơi họ chưa từng dám đi.",
+      "strength": "Khả năng thích nghi và tìm cơ hội trong mọi tình huống. Không bao giờ bị mắc kẹt lâu trong khó khăn.",
+      "blind_spot": "Có thể khiến người khác lo lắng vì sự khó đoán. Cần tạo ra sự an tâm hơn trong các cam kết quan trọng."
+    },
+    "6": {
+      "title": "Thái độ Chăm sóc & Trách nhiệm",
+      "description": "Có năng lực, thông minh, nhanh trí. Cầu toàn với gu thẩm mỹ tuyệt vời.",
+      "first_vibe": "Bạn tạo ra cảm giác ấm áp và được chào đón. Người khác cảm thấy ngay rằng bạn là người quan tâm đến họ thật lòng.",
+      "strength": "Khả năng nhìn thấy nhu cầu của người khác trước khi họ nói ra. Tạo ra không gian an toàn và dễ chịu cho mọi người.",
+      "blind_spot": "Tiêu chuẩn hoàn hảo đôi khi làm người khác cảm thấy không bao giờ đủ tốt. Học cách chấp nhận sự không hoàn hảo."
+    },
+    "7": {
+      "title": "Thái độ Bí ẩn & Sâu sắc",
+      "description": "Bầu không khí bí ẩn. Thích quan sát và đặt câu hỏi hơn chia sẻ. Hấp dẫn nhưng khó nắm bắt.",
+      "first_vibe": "Bạn tạo ra sự tò mò ngay lập tức — người khác muốn biết bạn đang nghĩ gì nhưng không chắc dám hỏi.",
+      "strength": "Quan sát sắc bén và đặt câu hỏi đúng vào đúng lúc. Hiểu được những gì người khác không nói ra.",
+      "blind_spot": "Sự bí ẩn đôi khi bị hiểu nhầm là lạnh lùng hoặc kiêu ngạo. Cần chủ động chia sẻ hơn để xây dựng kết nối."
+    },
+    "8": {
+      "title": "Thái độ Quyền lực & Tham vọng",
+      "description": "Sinh ra để dẫn đầu, ước mơ lớn, duy trì hình ảnh thành công.",
+      "first_vibe": "Bạn bước vào phòng và mọi người đều chú ý — không cần nói gì. Sự tự tin và quyền lực toát ra tự nhiên.",
+      "strength": "Năng lực lãnh đạo và tầm nhìn chiến lược tự nhiên. Người khác muốn theo dõi bạn và học hỏi từ bạn.",
+      "blind_spot": "Đôi khi làm người khác cảm thấy bị đe dọa hoặc không quan trọng. Cần thể hiện sự đánh giá cao và ủy quyền nhiều hơn."
+    },
+    "9": {
+      "title": "Thái độ Nhân đạo & Quyến rũ",
+      "description": "Tự tin và có sức quyến rũ. Mọi người yêu quý hoặc coi thường bạn.",
+      "first_vibe": "Bạn tạo ra cảm giác rộng lớn và bao dung. Người khác cảm thấy được chào đón và chấp nhận dù họ là ai.",
+      "strength": "Sức hút tự nhiên và khả năng kết nối với mọi loại người. Hiểu được góc nhìn đa chiều của mỗi tình huống.",
+      "blind_spot": "Đôi khi khó đưa ra lập trường rõ ràng vì muốn dung hòa mọi phía. Cần học cách quyết đoán hơn khi cần thiết."
+    },
+    "11": {
+      "title": "Thái độ Tâm linh & Truyền cảm hứng",
+      "description": "Trực giác nhạy bén thêm vào các đặc điểm của số 2. Tốt nhất khi truyền cảm hứng.",
+      "first_vibe": "Bạn tạo ra cảm giác huyền bí và đặc biệt — như có điều gì đó khác lạ và hấp dẫn quanh bạn mà người khác khó giải thích.",
+      "strength": "Trực giác tâm linh cho phép bạn cảm nhận điều người khác không thể thấy. Năng lực truyền cảm hứng tự nhiên và mạnh mẽ.",
+      "blind_spot": "Đôi khi quá nhạy cảm với năng lượng xung quanh dẫn đến kiệt sức. Cần học cách bảo vệ năng lượng cá nhân."
+    },
+    "22": {
+      "title": "Thái độ Kiến tạo & Uy nghi",
+      "description": "Năng lượng số 4 + khả năng kiến tạo giá trị lâu dài.",
+      "first_vibe": "Bạn toát ra uy nghi và tầm nhìn lớn. Người khác ngay lập tức cảm nhận được rằng bạn đang xây dựng điều gì đó quan trọng.",
+      "strength": "Khả năng biến tầm nhìn lớn thành kế hoạch thực tế là siêu năng lực hiếm có. Người khác tin tưởng bạn với những dự án quan trọng.",
+      "blind_spot": "Đôi khi mang gánh nặng quá lớn một mình. Cần học cách chia sẻ tầm nhìn và ủy quyền để không bị kiệt sức."
+    },
+    "33": {
+      "title": "Thái độ Chữa lành & Yêu thương",
+      "description": "Có năng lực, thông minh + sức ảnh hưởng của 33.",
+      "first_vibe": "Bạn tạo ra cảm giác an toàn và chữa lành tức thì. Người khác cảm thấy được chấp nhận và hiểu thấu chỉ bằng sự hiện diện của bạn.",
+      "strength": "Tình yêu thương chân thành và khả năng chữa lành cảm xúc là những món quà vô giá. Bạn thay đổi cuộc đời người khác đơn giản chỉ bằng sự quan tâm.",
+      "blind_spot": "Dễ bị kiệt sức vì hấp thu cảm xúc của người khác. Cần học cách bảo vệ năng lượng và đặt ranh giới lành mạnh."
+    }
+  },
+  "personal_year": {
+    "1": {
+      "title": "Năm Cá nhân 1 — Khởi đầu mới",
+      "theme": "Năm gieo hạt mạnh mẽ nhất trong chu kỳ 9 năm. Đây là thời điểm đặt nền móng cho mọi thứ sẽ phát triển trong 9 năm tới.",
+      "career": "Thời điểm lý tưởng để khởi nghiệp, thay đổi nghề nghiệp hoặc đề xuất dự án mới. Chủ động tiên phong — người đến trước được ưu tiên.",
+      "finance": "Rủi ro tài chính có tính toán là chấp nhận được. Đầu tư vào bản thân là đầu tư tốt nhất. Cẩn thận với các quyết định vội vàng.",
+      "love": "Nếu độc thân: cơ hội gặp người mới rất cao, hãy chủ động. Nếu có đối tác: đây là thời điểm tốt để làm mới và tái khởi động mối quan hệ.",
+      "health": "Năng lượng cao, thời điểm tốt để bắt đầu thói quen tập luyện mới. Chú ý đến sức khỏe tiêu hóa và đầu cổ vai.",
+      "study": "Năm lý tưởng để bắt đầu một khóa học hoặc chương trình đào tạo mới. Đặt ra kế hoạch học tập rõ ràng ngay từ đầu năm.",
+      "advice": "Giữ mối quan hệ tốt với người khác. Đừng cứng đầu, chủ động yêu cầu giúp đỡ khi cần.",
+      "warning": "Những gì xảy ra bây giờ ảnh hưởng trực tiếp đến phần thưởng trong 9 năm tới. Tránh hành động bốc đồng."
+    },
+    "2": {
+      "title": "Năm Cá nhân 2 — Kiên nhẫn & Kết nối",
+      "theme": "Năm nuôi dưỡng các mối quan hệ và phát triển những gì đã gieo ở Năm 1. Mọi thứ diễn biến chậm hơn nhưng sâu hơn.",
+      "career": "Tập trung vào hợp tác, đối tác và làm việc nhóm. Hãy lắng nghe đồng nghiệp và cân nhắc phản hồi của họ.",
+      "finance": "Tránh đầu tư rủi ro cao. Phù hợp để ổn định tài chính và tiết kiệm. Các giao dịch tốt nhất đến qua mối quan hệ và giới thiệu.",
+      "love": "Năm vô cùng quan trọng cho tình cảm. Các mối quan hệ được đẩy lên một tầm mới — tiến hoặc lui. Hãy đầu tư thời gian chất lượng với người thân yêu.",
+      "health": "Chú ý đến sức khỏe tâm lý và hệ thần kinh. Dễ bị dị ứng, mất ngủ hoặc lo lắng thái quá. Tập thiền hoặc yoga rất có ích.",
+      "study": "Học hỏi qua người khác — tìm mentor, tham gia nhóm học tập. Không phải năm để học một mình.",
+      "advice": "Kiên nhẫn là chìa khóa. Hãy cho phép mọi việc có thời gian phát triển tự nhiên. Đừng cố ép buộc kết quả nhanh.",
+      "warning": "Đừng để sự nhạy cảm cao trở thành điểm yếu. Tránh phụ thuộc quá nhiều vào ý kiến người khác."
+    },
+    "3": {
+      "title": "Năm Cá nhân 3 — Sáng tạo & Xã hội",
+      "theme": "Năm bùng nổ xã hội và sáng tạo. Năng lượng rất cao, cơ hội giao lưu, biểu đạt và tạo dựng tên tuổi.",
+      "career": "Cơ hội thăng tiến nhờ giao tiếp và thể hiện bản thân. Lý tưởng để lên diễn đàn, viết lách, trình bày, làm nội dung sáng tạo.",
+      "finance": "Coi chừng tiêu xài phung phí. Các cơ hội tài chính đến qua mạng lưới xã hội. Cẩn thận với các khoản chi không cần thiết.",
+      "love": "Năm lý tưởng để gặp gỡ người mới. Nếu có đối tác, hãy cùng nhau trải nghiệm và vui chơi để làm mới mối quan hệ.",
+      "health": "Cảnh giác với tăng cân do tiệc tùng và ăn uống. Dễ gặp vấn đề về họng và thanh quản.",
+      "study": "Tuyệt vời để học kỹ năng mềm, giao tiếp, ngoại ngữ, nghệ thuật. Học theo kiểu trải nghiệm thực tế hiệu quả hơn ngồi đọc sách.",
+      "advice": "Sẵn sàng đón nhận mọi lời mời. Gặp gỡ nhiều người nhất có thể. Đây là thời điểm bạn cần nổi bật.",
+      "warning": "Tránh phóng đại và cẩu thả. Đừng bỏ bê các cam kết quan trọng vì ham vui. Chú ý đến việc tăng cân."
+    },
+    "4": {
+      "title": "Năm Cá nhân 4 — Xây dựng nền tảng",
+      "theme": "Năm lao động, kỷ luật và chi tiết. Không phải năm kết quả nhanh — đây là giai đoạn đặt nền móng vững chắc.",
+      "career": "Tập trung vào công việc cụ thể, có hệ thống. Lý tưởng để xây dựng quy trình, tổ chức lại công việc và xây dựng uy tín bền vững.",
+      "finance": "Năm phù hợp để lập ngân sách, tiết kiệm và đầu tư dài hạn. Tránh rủi ro không cần thiết. Tổ chức lại tình trạng tài chính cá nhân.",
+      "love": "Mối quan hệ cần nỗ lực thực sự. Hãy chủ động đầu tư thời gian và công sức. Năm tốt để xây dựng sự ổn định trong tình cảm.",
+      "health": "Kiểm tra sức khỏe định kỳ bắt buộc. Đặc biệt chú ý đến xương khớp và lưng. Tránh làm việc quá sức.",
+      "study": "Học các kỹ năng thực tế, kỹ thuật, chuyên môn. Năm tốt để lấy bằng cấp, chứng chỉ hoặc hoàn thành khóa học dài hạn.",
+      "advice": "Đừng trì hoãn! Quan tâm đến chi tiết. Hãy kiên nhẫn với tiến trình chậm — thành quả xứng đáng sẽ đến.",
+      "warning": "Rất dễ kiệt sức nếu không biết nghỉ ngơi. Cân bằng công việc và giải trí. Đừng phá vỡ quy tắc và cam kết."
+    },
+    "5": {
+      "title": "Năm Cá nhân 5 — Thay đổi & Tự do",
+      "theme": "Năm biến động và đầy bất ngờ. Mọi thứ thay đổi nhanh chóng. Hãy linh hoạt và đón nhận thay đổi thay vì chống cự.",
+      "career": "Lý tưởng để thay đổi công việc, thăng chức hoặc mở rộng vai trò. Cơ hội xuất hiện bất ngờ từ nhiều hướng. Nhanh chóng nắm bắt nhưng đánh giá kỹ trước khi quyết định.",
+      "finance": "Tiền có thể đến và đi nhanh. Tránh các quyết định tài chính bốc đồng. Hãy có quỹ dự phòng vì chi phí bất ngờ hay xảy ra.",
+      "love": "Năm tốt nhất để bắt đầu mối quan hệ mới. Nếu có đối tác, hãy cùng nhau khám phá điều mới. Mối quan hệ trì trệ có thể kết thúc trong năm này.",
+      "health": "Cẩn thận vụng về, tai nạn nhỏ. Dễ gặp vấn đề thần kinh và sức bền. Chăm sóc cơ thể bằng cách nghỉ đủ giấc.",
+      "study": "Tuyệt vời để học những điều hoàn toàn mới. Các khóa học ngắn hạn, thực tế, linh hoạt phù hợp hơn chương trình dài.",
+      "advice": "Chủ động chào đón thay đổi thay vì sợ hãi nó. Sự linh hoạt là điểm mạnh của bạn trong năm này.",
+      "warning": "Tránh bốc đồng trong tình cảm và tài chính. Có thể vụng về hoặc dễ gặp tai nạn nên chú ý an toàn."
+    },
+    "6": {
+      "title": "Năm Cá nhân 6 — Gia đình & Trách nhiệm",
+      "theme": "Năm tập trung vào gia đình, nhà cửa và trách nhiệm cộng đồng. Cân bằng giữa nhu cầu cá nhân và những người bạn yêu thương.",
+      "career": "Công việc liên quan đến chăm sóc, giáo dục, y tế hoặc dịch vụ sẽ phát triển mạnh. Môi trường làm việc hài hòa là ưu tiên. Hãy quan tâm đến đồng nghiệp.",
+      "finance": "Có thể phát sinh chi phí gia đình bất ngờ — sửa nhà, chăm sóc sức khỏe người thân. Tuy nhiên năm cũng mang lại ổn định nếu quản lý tốt.",
+      "love": "Năm vô cùng quan trọng với tình cảm. Có thể kết hôn, sinh con hoặc cam kết sâu hơn. Từ tính cá nhân rất mạnh — đây có thể là năm thành công của mối quan hệ lãng mạn.",
+      "health": "Chú ý đến sức khỏe tim mạch. Có xu hướng bỏ bê chăm sóc bản thân vì quá lo lắng cho người khác — hãy nhớ tự chăm sóc mình trước.",
+      "study": "Học các kỹ năng phục vụ gia đình và cộng đồng: nấu ăn, thiết kế nội thất, tâm lý học, giáo dục trẻ em. Năm tuyệt vời để học điều gì đó hoàn toàn mới.",
+      "advice": "Hãy quan tâm đến những người thân yêu một cách chân thành. Đây là năm của sự phục vụ.",
+      "warning": "Có thể trải qua cả điều tốt nhất và khó khăn nhất về mặt cảm xúc. Đừng để gánh nặng trách nhiệm làm bạn kiệt sức."
+    },
+    "7": {
+      "title": "Năm Cá nhân 7 — Nội tâm & Tri thức",
+      "theme": "Năm tĩnh lặng và phát triển chiều sâu. Thời điểm nhìn vào bên trong, học hỏi và phát triển tâm linh. Không phải năm hành động ồn ào.",
+      "career": "Tập trung vào nghiên cứu, chuyên môn hóa và phát triển kỹ năng. Làm việc độc lập hiệu quả hơn làm việc nhóm trong năm này.",
+      "finance": "Tránh đầu tư mạo hiểm. Không phải năm dồi dào về tiền bạc — hãy thắt lưng buộc bụng và tập trung vào những gì thực sự cần thiết.",
+      "health": "Năm cần chăm sóc sức khỏe tâm lý đặc biệt. Dễ trầm cảm nếu không có không gian riêng. Thiền định, yoga, dành thời gian ngoài thiên nhiên rất có ích.",
+      "study": "Năm học tập lý tưởng nhất trong chu kỳ 9 năm. Đọc sách, nghiên cứu chuyên sâu và theo đuổi tri thức bạn thực sự đam mê.",
+      "career_note": "Trở thành chuyên gia ở lĩnh vực nào đó là mục tiêu quan trọng.",
+      "advice": "Dành thời gian ở ngoài trời. Bắt đầu tập thiền hoặc yoga. Hãy tin vào quá trình và đừng vội vàng.",
+      "warning": "Đề phòng bệnh trầm cảm. Đừng để cô lập quá mức. Duy trì kết nối xã hội ở mức tối thiểu."
+    },
+    "8": {
+      "title": "Năm Cá nhân 8 — Thành đạt & Quyền lực",
+      "theme": "Năm thu hoạch mạnh mẽ nhất về vật chất. Tiền bạc, địa vị, thành công đều trong tầm tay nếu bạn chủ động.",
+      "career": "Năm thăng tiến, lãnh đạo và ký kết hợp đồng lớn. Đây là thời điểm đàm phán tăng lương, thăng chức hoặc mở rộng kinh doanh.",
+      "finance": "Năm tài chính mạnh nhất trong chu kỳ 9 năm. Các khoản đầu tư có tính toán trước sẽ cho kết quả tốt. Hãy hành động ngay — Năm 9 sẽ quá muộn.",
+      "love": "Năm khó khăn cho tình cảm vì tập trung vào sự nghiệp. Hãy cân bằng thời gian với đối tác. Nếu độc thân, bạn có thể bị thu hút bởi người thành công.",
+      "health": "Chú ý huyết áp cao và các vấn đề tim mạch liên quan đến căng thẳng. Đừng để tham vọng làm bạn kiệt sức.",
+      "study": "Học các kỹ năng lãnh đạo, quản lý, kinh doanh và tài chính. Các khóa học có ứng dụng thực tiễn ngay sẽ mang lại ROI cao.",
+      "advice": "Hãy hành động ngay bây giờ. Đây là đỉnh cao của chu kỳ — đừng lãng phí cơ hội.",
+      "warning": "Số 8 là con số đảo ngược hoàn toàn — có thể đi từ cao xuống thấp. Hãy đạo đức trong mọi quyết định và tránh tham lam."
+    },
+    "9": {
+      "title": "Năm Cá nhân 9 — Hoàn thiện & Giải phóng",
+      "theme": "Năm kết thúc chu kỳ 9 năm. Tổng kết, tha thứ, buông bỏ và chuẩn bị cho chu kỳ mới. Năm của sự chữa lành.",
+      "career": "Kết thúc các dự án còn dang dở, giải quyết các xung đột chưa giải quyết. Không phải năm để bắt đầu sự nghiệp mới — hãy đúc kết bài học.",
+      "finance": "Có thể nhận khoản tiền từ việc kết thúc hợp đồng, thanh lý tài sản. Tránh bắt đầu đầu tư lớn mới trong năm này.",
+      "love": "Nếu mối quan hệ không lành mạnh, đây là thời điểm nó có thể kết thúc. Mối quan hệ lành mạnh sẽ được củng cố sâu sắc hơn. Tha thứ là từ khóa quan trọng.",
+      "health": "Chú ý đến hệ miễn dịch. Năm này dễ bị ốm nếu mang quá nhiều cảm xúc âm tính. Hãy tập tha thứ và buông bỏ như bài tập sức khỏe.",
+      "study": "Ôn lại và tổng kết kiến thức đã học trong 9 năm qua. Hoàn thành những gì còn dở dang thay vì bắt đầu chương trình học mới.",
+      "advice": "Tha thứ là điều quan trọng nhất. Hãy 'dọn chỗ' cho những ước mơ lớn ở Năm 1 sắp tới.",
+      "warning": "Nếu cố bắt đầu điều mới (mối quan hệ, công việc), chúng có thể không kéo dài. Hãy kiên nhẫn và tin vào quá trình."
+    },
+    "11": {
+      "title": "Năm Cá nhân 11 — Định mệnh & Trực giác",
+      "theme": "Năm Vua 11 mang năng lượng đặc biệt với các sự kiện quan trọng định mệnh. Trực giác lên cao vượt trội. Năm thức tỉnh tâm linh.",
+      "career": "Cơ hội nghề nghiệp đặc biệt và không theo khuôn mẫu thường xuất hiện. Tin vào trực giác khi đưa ra quyết định. Hãy mạo hiểm với những cơ hội khác thường.",
+      "finance": "Tương tự Năm 2 nhưng với tiềm năng đột phá bất ngờ hơn. Các cơ hội tài chính có thể đến từ hướng không ngờ.",
+      "love": "Năm dễ gặp mối quan hệ định mệnh hoặc đưa ra quyết định quan trọng (kết hôn, ly hôn, tái hợp). Hãy tin vào cảm nhận bên trong.",
+      "health": "Rất nhạy cảm về mặt thần kinh và cảm xúc. Cần nhiều thời gian nghỉ ngơi và nạp năng lượng. Bảo vệ năng lượng của mình.",
+      "study": "Lý tưởng cho ai muốn khám phá tâm linh, triết học, tâm lý học và những chủ đề sâu sắc về con người.",
+      "advice": "Tin vào bản năng. Cảnh giác với bướng bỉnh và ích kỷ.",
+      "warning": "Năng lượng kép của hai số 1 có thể dẫn đến mức rung động rất thấp nếu không được kiểm soát."
+    }
+  },
+  "personal_month": {
+    "1": {
+      "title": "Tháng Khởi đầu",
+      "focus": "Bắt đầu điều mới, đặt ra ý định, hành động quyết đoán.",
+      "action": "Lên danh sách mục tiêu cho tháng. Tiếp cận những người bạn muốn kết nối. Khởi động dự án đã trì hoãn.",
+      "moon_link": "Liên kết với chu kỳ Trăng non — thời điểm gieo hạt tốt nhất.",
+      "warning": "Đừng cứng đầu và hành động đơn độc quá mức. Duy trì kết nối với những người xung quanh."
+    },
+    "2": {
+      "title": "Tháng Kết nối",
+      "focus": "Trọng tâm là các mối quan hệ. Hợp tác, kiên nhẫn, lắng nghe.",
+      "action": "Dành thời gian chất lượng với người thân. Giải quyết các xung đột còn tồn đọng. Kết nối với đối tác hoặc đồng nghiệp quan trọng.",
+      "moon_link": "Năng lượng hướng nội và cảm xúc — tốt cho các cuộc trò chuyện sâu.",
+      "warning": "Tránh quá nhạy cảm và dễ bị tổn thương. Kiên nhẫn khi kết quả chậm đến."
+    },
+    "3": {
+      "title": "Tháng Sáng tạo",
+      "focus": "Sự kiện quan trọng có thể xảy ra. Giao lưu, vui chơi, biểu đạt sáng tạo.",
+      "action": "Nhận mọi lời mời xã hội. Viết, vẽ, hát, biểu đạt bản thân theo bất kỳ hình thức nào. Kết nối với người mới.",
+      "moon_link": "Năng lượng bùng nổ — thích hợp cho các sự kiện và hoạt động nhóm.",
+      "warning": "Tránh phóng đại và ngồi lê đôi mách. Chú ý đến cân nặng và sức khỏe."
+    },
+    "4": {
+      "title": "Tháng Kỷ luật",
+      "focus": "Chi tiết, hệ thống và trật tự. Tháng của lao động và nền tảng.",
+      "action": "Đừng trì hoãn — hoàn thành những việc tồn đọng. Tổ chức lại không gian làm việc và cuộc sống. Kiểm tra sức khỏe định kỳ.",
+      "moon_link": "Năng lượng thực tế — tốt để xây dựng quy trình và hệ thống.",
+      "warning": "Nếu phá vỡ quy tắc và cam kết, hậu quả sẽ nặng nề hơn bình thường. Tránh cứng nhắc quá mức."
+    },
+    "5": {
+      "title": "Tháng Tự do",
+      "focus": "Thay đổi, đổi mới và mở rộng. Tháng của những điều bất ngờ.",
+      "action": "Đón nhận thay đổi thay vì chống cự. Thử điều gì đó hoàn toàn mới. Du lịch nếu có thể.",
+      "moon_link": "Năng lượng năng động và linh hoạt — tốt cho hành động nhanh và thích nghi.",
+      "warning": "Tránh buôn chuyện và lan truyền thông tin chưa kiểm chứng. Có thể vụng về hoặc dễ gặp tai nạn nhỏ."
+    },
+    "6": {
+      "title": "Tháng Gia đình",
+      "focus": "Gia đình, nhà cửa, trách nhiệm và chăm sóc. Tháng của tình yêu và dịch vụ.",
+      "action": "Làm đẹp môi trường sống và làm việc. Dành thời gian cho gia đình và vật nuôi. Giải quyết các vấn đề gia đình tồn đọng.",
+      "moon_link": "Năng lượng nuôi dưỡng — tốt cho các cuộc trò chuyện về nhà cửa và gia đình.",
+      "warning": "Đừng can thiệp quá mức vào việc của người khác dù với ý tốt. Đặt ranh giới lành mạnh."
+    },
+    "7": {
+      "title": "Tháng Nội tâm",
+      "focus": "Nghiên cứu, học hỏi, chuyên sâu tri thức và chăm sóc bản thân.",
+      "action": "Dành thời gian yên tĩnh để suy nghĩ và nghiên cứu. Đọc sách. Bắt đầu hoặc deepening thực hành thiền định. Chăm sóc sức khỏe tâm lý.",
+      "moon_link": "Năng lượng hướng nội — tốt cho suy ngẫm và phát triển nội tâm.",
+      "warning": "Tránh cô lập hoàn toàn. Đề phòng trầm cảm nhẹ. Duy trì kết nối xã hội ở mức tối thiểu."
+    },
+    "8": {
+      "title": "Tháng Tài chính",
+      "focus": "Tiền bạc, quyền lực và kết quả vật chất. Tháng của giao dịch và thành tích.",
+      "action": "Hành động quyết đoán trong các giao dịch tài chính. Đòi đúng những gì bạn xứng đáng được nhận. Theo dõi thu chi cẩn thận.",
+      "moon_link": "Năng lượng mạnh mẽ — tốt để đàm phán và thu hồi khoản nợ hoặc đầu tư.",
+      "warning": "Vòng xoay tiền bạc có thể theo cả hai chiều. Có thể có khoản tiền thưởng HOẶC chi phí không lường trước. Cẩn thận trong quyết định tài chính lớn."
+    },
+    "9": {
+      "title": "Tháng Hoàn thiện",
+      "focus": "Tha thứ, buông bỏ, loại bỏ và cho đi. Tháng của kết thúc và hòa giải.",
+      "action": "Hoàn thành các việc còn dở dang. Cho đi những gì bạn không còn cần. Tha thứ bản thân và người khác. Chuẩn bị tinh thần cho chu kỳ mới.",
+      "moon_link": "Liên kết với chu kỳ Trăng tròn — thời điểm thu hoạch và trả ơn.",
+      "warning": "Không phải thời điểm tốt để bắt đầu việc mới quan trọng. Hãy tập trung vào kết thúc, không phải khởi đầu."
+    },
+    "11": {
+      "title": "Tháng Trực giác",
+      "focus": "Giống Tháng 2 nhưng với thêm trực giác mạnh mẽ và nhạy cảm tâm linh.",
+      "action": "Lắng nghe trực giác của mình. Chú ý đến những dấu hiệu và đồng bộ hóa trong cuộc sống. Thiền định và nhật ký cảm xúc rất có ích.",
+      "moon_link": "Năng lượng tâm linh cao — tốt cho các quyết định dựa trên cảm nhận sâu sắc.",
+      "warning": "Rất nhạy cảm với năng lượng tiêu cực từ người khác. Bảo vệ không gian cá nhân và năng lượng của mình."
+    },
+    "note": "Tháng cá nhân = (Năm cá nhân + tháng lịch) rút gọn. Cho biết năng lượng chủ đạo của từng tháng trong chu kỳ."
+  },
+  "personal_day": {
+    "1": {
+      "theme": "Khởi đầu & Hành động",
+      "energy": "Năng lượng cao, phù hợp để bắt đầu mới",
+      "focus": "Khởi động dự án, đưa ra quyết định, tiên phong",
+      "avoid": "Trì hoãn và thụ động — đây không phải ngày để chờ đợi",
+      "best_for": "Gặp gỡ mới, nộp đơn, ký hợp đồng, ra quyết định quan trọng"
+    },
+    "2": {
+      "theme": "Hợp tác & Kiên nhẫn",
+      "energy": "Nhẹ nhàng, hướng về kết nối cảm xúc",
+      "focus": "Nuôi dưỡng quan hệ, lắng nghe, hòa giải mâu thuẫn",
+      "avoid": "Ép buộc kết quả nhanh — hôm nay cần kiên nhẫn",
+      "best_for": "Gặp gỡ bạn bè/người thân, tư vấn, đàm phán nhẹ nhàng"
+    },
+    "3": {
+      "theme": "Sáng tạo & Giao tiếp",
+      "energy": "Vui vẻ, năng động, truyền cảm hứng",
+      "focus": "Biểu đạt bản thân, kết nối xã hội, sáng tạo",
+      "avoid": "Phân tán vào quá nhiều hoạt động một lúc",
+      "best_for": "Viết lách, nghệ thuật, thuyết trình, networking, hẹn hò"
+    },
+    "4": {
+      "theme": "Làm việc & Xây dựng",
+      "energy": "Nghiêm túc, ổn định, thực tế",
+      "focus": "Công việc nặng nhọc, lập kế hoạch, tổ chức hệ thống",
+      "avoid": "Những quyết định bốc đồng — hôm nay cần cân nhắc kỹ",
+      "best_for": "Làm việc tập trung, sắp xếp tài liệu, sửa chữa, xây dựng"
+    },
+    "5": {
+      "theme": "Thay đổi & Linh hoạt",
+      "energy": "Bất ổn nhưng đầy cơ hội bất ngờ",
+      "focus": "Cởi mở với điều mới, thích nghi nhanh",
+      "avoid": "Bám víu vào kế hoạch cứng nhắc — hôm nay cần linh hoạt",
+      "best_for": "Du lịch, thử điều mới, thay đổi thói quen, gặp người lạ"
+    },
+    "6": {
+      "theme": "Gia đình & Trách nhiệm",
+      "energy": "Ấm áp, hướng về nhà và người thân",
+      "focus": "Chăm sóc gia đình, giải quyết trách nhiệm cá nhân",
+      "avoid": "Bỏ bê người thân vì quá bận công việc",
+      "best_for": "Thời gian gia đình, chăm sóc sức khỏe, thanh toán hóa đơn, dọn dẹp nhà"
+    },
+    "7": {
+      "theme": "Suy ngẫm & Nội tâm",
+      "energy": "Trầm lặng, cần không gian riêng",
+      "focus": "Học hỏi, thiền định, phân tích và lập kế hoạch",
+      "avoid": "Những sự kiện xã hội đông người — hôm nay cần tĩnh lặng",
+      "best_for": "Đọc sách, nghiên cứu, viết nhật ký, thiền, ở một mình"
+    },
+    "8": {
+      "theme": "Kinh doanh & Tài chính",
+      "energy": "Mạnh mẽ, tập trung vào kết quả",
+      "focus": "Quyết định tài chính, đàm phán, thúc đẩy mục tiêu",
+      "avoid": "Lãng phí tiền bạc hoặc bỏ lỡ cơ hội kinh doanh",
+      "best_for": "Ký hợp đồng lớn, họp kinh doanh, yêu cầu tăng lương, đầu tư"
+    },
+    "9": {
+      "theme": "Hoàn thành & Buông bỏ",
+      "energy": "Kết thúc chu kỳ, cảm xúc sâu",
+      "focus": "Hoàn thành việc dang dở, từ biệt điều không còn phù hợp",
+      "avoid": "Bắt đầu dự án mới lớn — hôm nay là ngày kết thúc, không phải bắt đầu",
+      "best_for": "Dọn dẹp, từ biệt, viết thư cảm ơn, kết thúc hợp đồng/mối quan hệ cũ"
+    },
+    "note": "Ngày cá nhân = (Năm cá nhân + Tháng hiện tại + Ngày hiện tại) rút gọn. Cho biết năng lượng chủ đạo trong ngày hôm nay."
+  },
+  "karmic_lessons": {
+    "1": {
+      "missing_letters": [
+        "A",
+        "J",
+        "S"
+      ],
+      "lesson": "Học tính độc lập và chủ động. Đứng lên bảo vệ chính mình."
+    },
+    "2": {
+      "missing_letters": [
+        "B",
+        "K",
+        "T"
+      ],
+      "lesson": "Học tính kiên nhẫn, tinh thần hợp tác, nhạy bén với cảm xúc người khác."
+    },
+    "3": {
+      "missing_letters": [
+        "C",
+        "L",
+        "U"
+      ],
+      "lesson": "Tình yêu bản thân, không quá nghiêm trọng. Rèn luyện niềm vui và lạc quan."
+    },
+    "4": {
+      "missing_letters": [
+        "D",
+        "M",
+        "V"
+      ],
+      "lesson": "Duy trì tổ chức. Xây dựng nền tảng và học kỷ luật. Khắc phục trì hoãn."
+    },
+    "5": {
+      "missing_letters": [
+        "E",
+        "N",
+        "W"
+      ],
+      "lesson": "Đón nhận thay đổi và trải nghiệm mới. Vượt qua nỗi sợ hãi."
+    },
+    "6": {
+      "missing_letters": [
+        "F",
+        "O",
+        "X"
+      ],
+      "lesson": "Đối mặt vấn đề cam kết và thể hiện cảm xúc. Xây dựng mối quan hệ chân thành."
+    },
+    "7": {
+      "missing_letters": [
+        "G",
+        "P",
+        "Y"
+      ],
+      "lesson": "Tính xác thực và tìm kiếm sự giác ngộ tâm linh. Tích lũy kiến thức chuyên môn."
+    },
+    "8": {
+      "missing_letters": [
+        "H",
+        "Q",
+        "Z"
+      ],
+      "lesson": "Quản lý tiền, xử lý nguồn lực, nhượng bộ nhân vật có thẩm quyền."
+    },
+    "9": {
+      "missing_letters": [
+        "I",
+        "R"
+      ],
+      "lesson": "Phát triển sự đồng cảm và tinh thần nhân đạo. Hy sinh tham vọng vì lợi ích chung."
+    }
+  },
+  "triads": {
+    "1-5-7": {
+      "name": "Tổ hợp tâm trí",
+      "traits": "Trí tuệ, tò mò, hiểu biết khoa học và công nghệ, khả năng phân tích. Tiếp cận mọi thứ từ góc độ lý trí hơn cảm xúc."
+    },
+    "2-4-8": {
+      "name": "Tổ hợp tư duy kinh doanh",
+      "traits": "Thích kiếm tiền, tham công tiếc việc, theo đuổi sự thăng tiến. Thực tế, hiệu quả, tập trung vào kinh doanh và quản lý."
+    },
+    "3-6-9": {
+      "name": "Tổ hợp sáng tạo",
+      "traits": "Tinh thần nghệ thuật, truyền cảm hứng, sống với cảm xúc của trái tim. Quan tâm đến siêu hình và tâm linh."
+    }
+  },
+  "tension_number": {
+    "0": {
+      "title": "Hòa Hợp Nội - Ngoại",
+      "description": "Linh hồn và nhân cách của bạn mang cùng một rung động — điều cực kỳ hiếm gặp. Bạn không phải gánh chịu mâu thuẫn giữa con người thật bên trong và hình ảnh bạn thể hiện ra bên ngoài. Những gì bạn cảm nhận, bạn sống thật. Những gì bạn thể hiện, chính là bản chất thật sự của bạn.",
+      "resolution": "Đây là món quà, không phải điểm yếu. Hãy dùng sự nhất quán này như một sức mạnh — người khác sẽ cảm nhận được sự chân thực của bạn và tin tưởng bạn sâu sắc hơn. Thách thức duy nhất là không để sự thoải mái này khiến bạn ngừng phát triển."
+    },
+    "1": {
+      "title": "Căng thẳng Bản sắc",
+      "description": "Nội tâm muốn độc lập và tiên phong, nhưng hình ảnh bên ngoài lại bị người khác định hình. Mâu thuẫn giữa muốn dẫn đầu và cần được chấp thuận.",
+      "resolution": "Học cách hành động dựa trên giá trị bên trong thay vì phản ứng với kỳ vọng bên ngoài. Bản sắc thật sự không cần sự chứng nhận."
+    },
+    "2": {
+      "title": "Căng thẳng Kết nối",
+      "description": "Linh hồn khao khát hòa hợp và kết nối sâu, nhưng hình ảnh bên ngoài có thể trở nên quá phụ thuộc hoặc ngược lại, quá xa cách để bảo vệ mình.",
+      "resolution": "Xây dựng kết nối từ sự sung mãn nội tâm, không phải từ nỗi sợ cô đơn. Quan hệ lành mạnh nhất đến từ người không cần mà chọn."
+    },
+    "3": {
+      "title": "Căng thẳng Biểu đạt",
+      "description": "Nội tâm đầy ắp cảm xúc và ý tưởng sáng tạo, nhưng hình ảnh bên ngoài có thể quá vui vẻ nên không ai biết bên trong đang xảy ra gì.",
+      "resolution": "Tập biểu đạt cảm xúc thật thay vì chỉ trình diễn sự vui vẻ. Nghệ thuật và viết lách là kênh giải phóng lý tưởng."
+    },
+    "4": {
+      "title": "Căng thẳng Kiểm soát",
+      "description": "Linh hồn muốn ổn định và an toàn, nhưng thực tế cuộc sống không phải lúc nào cũng có thể kiểm soát được. Mâu thuẫn giữa nhu cầu kiểm soát và sự hỗn loạn của cuộc sống.",
+      "resolution": "Phân biệt điều có thể kiểm soát và không thể. Tập trung toàn lực vào cái đầu, buông bỏ cái sau."
+    },
+    "5": {
+      "title": "Căng thẳng Tự do",
+      "description": "Khao khát tự do sâu sắc bên trong, nhưng hình ảnh bên ngoài có thể bị ràng buộc bởi kỳ vọng xã hội hoặc ngược lại, bị coi là thiếu trách nhiệm.",
+      "resolution": "Tự do thật sự không phải là thoát khỏi ràng buộc — đó là chọn lựa có ý thức. Tìm cách thể hiện tự do trong bối cảnh có trách nhiệm."
+    },
+    "6": {
+      "title": "Căng thẳng Hoàn hảo",
+      "description": "Linh hồn muốn yêu thương và chăm sóc, nhưng tiêu chuẩn cao có thể làm tổn thương người thân và khiến bản thân kiệt sức vì không ai đáp ứng đủ kỳ vọng.",
+      "resolution": "Chấp nhận rằng tình yêu thương tốt nhất là vô điều kiện. Hạ tiêu chuẩn hoàn hảo xuống để nâng chất lượng kết nối lên."
+    },
+    "7": {
+      "title": "Căng thẳng Tin tưởng",
+      "description": "Trí tuệ sâu sắc bên trong nhưng khó tin tưởng người khác đủ để chia sẻ. Mâu thuẫn giữa muốn kết nối và sợ bị phán xét hoặc phản bội.",
+      "resolution": "Bắt đầu chia sẻ từng lớp nhỏ. Tin tưởng không phải là tất cả hoặc không có gì — đó là kỹ năng học dần."
+    },
+    "8": {
+      "title": "Căng thẳng Quyền lực",
+      "description": "Tham vọng và muốn thành công sâu trong nội tâm, nhưng có thể gặp khó khăn trong việc sử dụng quyền lực mà không xa rời giá trị đạo đức.",
+      "resolution": "Định nghĩa thành công của mình trên cơ sở giá trị cá nhân, không phải so sánh xã hội. Quyền lực đẹp nhất là quyền lực nâng người khác lên."
+    },
+    "9": {
+      "title": "Căng thẳng Buông bỏ",
+      "description": "Linh hồn khao khát cống hiến cho nhân loại nhưng khó buông bỏ cái tôi. Mâu thuẫn giữa sứ mệnh lớn và nhu cầu được công nhận.",
+      "resolution": "Cống hiến thật sự không cần người nhận biết. Luyện tập phục vụ vô danh — khi không cần được thấy, cánh cửa tự do thật sự mới mở."
+    },
+    "note": "Số Căng thẳng (Tension Number) = hiệu số giữa Soul Number và Personality Number. Cho biết điểm mâu thuẫn giữa nội tâm và hình ảnh bên ngoài."
+  },
+  "birth_chart_grid": {
+    "layout": {
+      "row3": [
+        3,
+        6,
+        9
+      ],
+      "row2": [
+        2,
+        5,
+        8
+      ],
+      "row1": [
+        1,
+        4,
+        7
+      ],
+      "outside": [
+        0
+      ]
+    },
+    "arrows": {
+      "determination_1_5_9": "Mũi tên quyết tâm - Năng lực hành động cao, không trì hoãn.",
+      "intellect_3_5_7": "Mũi tên trí tuệ - Trí nhớ tốt, khả năng học tập và phân tích.",
+      "will_4_5_6": "Mũi tên ý chí - Giàu ý chí, không ngại khó khăn.",
+      "compassion_2_5_8": "Mũi tên cân bằng tinh thần - Cảm xúc ổn định, trực giác tốt.",
+      "activity_1_2_3": "Mũi tên lập kế hoạch - Khả năng lập kế hoạch và thực hiện.",
+      "action_7_8_9": "Mũi tên hành động - Tính hành động và chủ động cao."
+    },
+    "axes": {
+      "3_6_9": {
+        "name": "Trục trí tuệ",
+        "description": "Đại diện cho đầu óc: trí nhớ, suy nghĩ, tư duy phân tích, lý trí, trí tưởng tượng, óc sáng tạo, tinh thần trách nhiệm, hoài bão và lý tưởng sống."
+      },
+      "2_5_8": {
+        "name": "Trục cân bằng tinh thần",
+        "description": "Đại diện cho trái tim: trực giác, tình yêu thương, sự tự do, cảm xúc tích cực, biểu đạt nghệ thuật, sự độc lập về tinh thần và trí tuệ/sự thông thái."
+      },
+      "1_4_7": {
+        "name": "Trục thể chất",
+        "description": "Đại diện cho hoạt động thể chất: lời nói, ngôn ngữ hình thể, động lực, óc tổ chức, tính kiên nhẫn, tính vật chất và sự lĩnh hội qua mất mát."
+      }
+    },
+    "isolated_numbers": {
+      "1": "Số 1 lẻ loi: Khó diễn đạt cảm xúc nội tâm bằng ngôn ngữ. Đôi khi phát ra lời nói trái ngược với những gì trong lòng nghĩ. Có thể cảm thấy thiếu thiếu một điều gì đó trong cuộc sống.",
+      "3": "Số 3 lẻ loi: Trí nhớ tốt nhưng cần được dùng thường xuyên. Linh hoạt, sống tích cực, tự tin trên mức trung bình.",
+      "9": "Số 9 lẻ loi: Sức mạnh lý tưởng và tham vọng có thể khó kiểm soát. Cần học cách nhìn mọi việc một cách khách quan và theo giá trị đúng của chúng.",
+      "note": "Số lẻ loi (Isolated numbers) là số không có số kề cận trong biểu đồ sức mạnh. Người có số lẻ loi thường cảm thấy cô độc và không được ai hiểu ở lĩnh vực đó."
+    },
+    "multiple_numbers": {
+      "note": "Số xuất hiện nhiều lần (2x, 3x) khuếch đại đặc điểm của số đó, nhưng cũng có thể gây mất cân bằng.",
+      "3x": "Ba số 9: Sức mạnh lý tưởng và tham vọng vượt trội. Khi sống tiêu cực dễ 'chuyện bé xé ra to', mất kiểm soát cảm xúc.",
+      "2x": "Hai số giống nhau: Khuếch đại đặc điểm — cả tốt lẫn xấu."
+    }
+  },
+  "soul_challenge": {
+    "0": {
+      "title": "Linh hồn Tự do",
+      "description": "Không có thử thách linh hồn đặc biệt; bạn có tự do chọn lựa và linh hoạt trong cuộc sống nội tâm.",
+      "core_lesson": "Tự do là món quà — nhưng cũng là thử thách. Phải tự tạo ra định hướng nội tâm.",
+      "practical_tip": "Thiết lập các giá trị cốt lõi của riêng mình, không để sự thiếu áp lực trở thành trôi dạt."
+    },
+    "1": {
+      "title": "Thử thách Tự tin Nội tâm",
+      "description": "Xây dựng sự tự tin và dũng cảm đứng lên vì chính mình trong thế giới nội tâm. Tránh phụ thuộc vào sự chấp thuận của người khác.",
+      "core_lesson": "Giá trị bản thân không cần sự xác nhận từ bên ngoài.",
+      "practical_tip": "Mỗi ngày hành động 1 việc nhỏ mà bạn muốn nhưng sợ bị phán xét — dần dần xây lên sự tự tin thực sự."
+    },
+    "2": {
+      "title": "Thử thách Ranh giới Cảm xúc",
+      "description": "Vượt qua sự nhạy cảm thái quá. Học cách không để những lời chỉ trích làm tổn thương sâu. Phát triển sự tự lập cảm xúc.",
+      "core_lesson": "Cảm xúc nhạy cảm là sức mạnh khi được điều hướng đúng, là điểm yếu khi không có ranh giới.",
+      "practical_tip": "Phân biệt giữa phản hồi xây dựng và công kích cá nhân. Chỉ tiếp thu cái đầu."
+    },
+    "3": {
+      "title": "Thử thách Biểu đạt Chân thực",
+      "description": "Kiểm soát cảm xúc và khơi dậy sự biểu đạt sáng tạo. Vượt qua xu hướng che giấu cảm xúc bằng sự hài hước.",
+      "core_lesson": "Sự hài hước che giấu nỗi đau không phải là chữa lành — chỉ là trốn tránh tạm thời.",
+      "practical_tip": "Tập dùng nhật ký hoặc nghệ thuật để biểu đạt cảm xúc thật thay vì chỉ trình diễn sự vui vẻ."
+    },
+    "4": {
+      "title": "Thử thách Kỷ luật Nội tâm",
+      "description": "Phát triển kỷ luật và tính thực tế trong đời sống nội tâm. Học cách xây dựng nền tảng vững chắc từ bên trong.",
+      "core_lesson": "Nền tảng bên trong quyết định mọi thứ bên ngoài. Không thể xây nhà trên cát.",
+      "practical_tip": "Tạo thói quen hàng ngày nhỏ nhưng nhất quán — thiền định, viết nhật ký hoặc đọc sách."
+    },
+    "5": {
+      "title": "Thử thách Tự do Có Trách nhiệm",
+      "description": "Tìm kiếm sự tự do đích thực mà không làm tổn thương người khác. Học cách cam kết trong khi vẫn giữ tự do nội tâm.",
+      "core_lesson": "Tự do thực sự không phải là không có ràng buộc — đó là chọn lựa có ý thức trong mọi ràng buộc.",
+      "practical_tip": "Thử thách bản thân: cam kết 1 điều trong 30 ngày mà không bỏ cuộc. Xây dựng cơ bắp cam kết."
+    },
+    "6": {
+      "title": "Thử thách Tình yêu Vô điều kiện",
+      "description": "Học cách yêu thương mà không kèm theo kỳ vọng hoặc kiểm soát. Chấp nhận mọi người đúng như bản chất của họ.",
+      "core_lesson": "Tình yêu thật sự không yêu cầu người khác phải khác đi.",
+      "practical_tip": "Khi cảm thấy muốn can thiệp hay sửa người khác, hỏi mình: 'Điều này phục vụ họ hay phục vụ mình?'"
+    },
+    "7": {
+      "title": "Thử thách Tin tưởng & Chia sẻ",
+      "description": "Vượt qua sự hoài nghi và bí mật. Học cách tin tưởng và chia sẻ thế giới nội tâm phong phú của mình.",
+      "core_lesson": "Cô độc là lựa chọn. Kết nối là kỹ năng học được — bắt đầu từ một người bạn thật sự.",
+      "practical_tip": "Mỗi tuần chia sẻ 1 suy nghĩ thật sự với người bạn tin tưởng. Xây dựng dần dần sự cởi mở."
+    },
+    "8": {
+      "title": "Thử thách Cân bằng Vật chất - Tinh thần",
+      "description": "Cân bằng giữa tham vọng vật chất và nhu cầu tinh thần. Không để tiền bạc và quyền lực trở thành thước đo duy nhất.",
+      "core_lesson": "Thành công mà thiếu bình yên nội tâm không phải thành công — đó là gánh nặng đắt tiền.",
+      "practical_tip": "Định kỳ hỏi bản thân: 'Tôi đang theo đuổi điều này vì nó có ý nghĩa hay chỉ để chứng minh điều gì đó?'"
+    },
+    "9": {
+      "title": "Thử thách Buông bỏ & Tha thứ",
+      "description": "Học cách buông bỏ và tha thứ. Vượt qua xu hướng hy sinh bản thân và mong đợi người khác nhận ra điều đó.",
+      "core_lesson": "Tha thứ không phải cho người kia — đó là quà tặng bạn trao cho chính mình.",
+      "practical_tip": "Thực hành buông bỏ mỗi tuần: 1 oán giận, 1 kỳ vọng không được đáp lại, 1 thứ không còn phục vụ bạn."
+    },
+    "note": "Thử thách Linh hồn = số thử thách tính từ tên khai sinh (nguyên âm). Cho biết điều mà Linh hồn bạn cần vượt qua bên trong."
+  },
+  "destiny_challenge": {
+    "0": {
+      "title": "Sứ mệnh Tự do Lựa chọn",
+      "description": "Không có thử thách sứ mệnh đặc biệt. Cuộc đời bạn có nhiều lựa chọn.",
+      "core_lesson": "Tự do chọn lựa là sức mạnh và trách nhiệm cùng lúc — tạo ra định hướng rõ ràng.",
+      "practical_tip": "Viết ra 3 giá trị cốt lõi của bạn và đảm bảo mọi hành động lớn đều phản ánh chúng."
+    },
+    "1": {
+      "title": "Thử thách Lãnh đạo Nhân ái",
+      "description": "Vượt qua những giới hạn tự áp đặt. Phát triển bản sắc riêng và sự tự tin trong việc thực hiện sứ mệnh lãnh đạo.",
+      "core_lesson": "Lãnh đạo thật sự không phải là thống trị — đó là phục vụ người khác bằng tầm nhìn mạnh mẽ.",
+      "practical_tip": "Tìm 1 vai trò lãnh đạo nhỏ (nhóm, cộng đồng) và luyện tập dẫn dắt bằng gương mẫu."
+    },
+    "2": {
+      "title": "Thử thách Giữ Bản sắc trong Hợp tác",
+      "description": "Học cách hợp tác, đồng thời giữ vững ý kiến và cảm xúc của chính mình. Không hy sinh bản sắc vì hòa khí.",
+      "core_lesson": "Hợp tác hiệu quả nhất khi cả hai bên giữ được bản sắc riêng — không phải khi một người biến mất.",
+      "practical_tip": "Trước mỗi cuộc họp hoặc kết hợp, ghi rõ lập trường của mình. Đảm bảo nó được nói ra."
+    },
+    "3": {
+      "title": "Thử thách Biểu đạt Không ngừng",
+      "description": "Phát huy khả năng biểu đạt và sáng tạo phục vụ sứ mệnh. Không để nỗi sợ chỉ trích ngăn bạn chia sẻ tài năng.",
+      "core_lesson": "Tài năng không chia sẻ là tài năng chết. Thế giới cần những gì bạn có thể tạo ra.",
+      "practical_tip": "Cam kết tạo ra và chia sẻ 1 sáng tạo mỗi tuần — dù nhỏ. Xây dựng thói quen biểu đạt."
+    },
+    "4": {
+      "title": "Thử thách Xây dựng Có Hệ thống",
+      "description": "Xây dựng nền tảng vững chắc cho sứ mệnh. Làm việc chăm chỉ, có tổ chức. Tránh trì hoãn hoặc phân tán năng lượng.",
+      "core_lesson": "Mọi sứ mệnh lớn đều được xây dựng từ những bước nhỏ nhất quán — không có con đường tắt.",
+      "practical_tip": "Chia sứ mệnh lớn thành 90-ngày sprint. Mỗi sprint có 1 mục tiêu cụ thể và đo được."
+    },
+    "5": {
+      "title": "Thử thách Tự do Có Mục đích",
+      "description": "Đón nhận thay đổi như là phần không thể thiếu của sứ mệnh. Học cách sử dụng tự do để phục vụ mục đích cao hơn.",
+      "core_lesson": "Tự do không có hướng đi là lang thang. Tự do có mục đích là năng lực phi thường.",
+      "practical_tip": "Xác định 'Bắc Cực' sứ mệnh của mình — điểm định hướng không đổi dù hành trình liên tục thay đổi."
+    },
+    "6": {
+      "title": "Thử thách Chăm sóc Lành mạnh",
+      "description": "Gánh trách nhiệm với gia đình và cộng đồng như một phần sứ mệnh. Tránh trở nên can thiệp hoặc đòi hỏi sự hoàn hảo.",
+      "core_lesson": "Chăm sóc hiệu quả nhất khi giúp người khác phát triển — không phải khi tạo ra sự phụ thuộc.",
+      "practical_tip": "Thay 'Tôi sẽ làm cho bạn' bằng 'Tôi sẽ giúp bạn học cách tự làm'. Trao quyền hơn giải cứu."
+    },
+    "7": {
+      "title": "Thử thách Chia sẻ Tri thức",
+      "description": "Phát triển tri thức và tâm linh phục vụ sứ mệnh. Vượt qua xu hướng cô lập và không chia sẻ kiến thức.",
+      "core_lesson": "Tri thức giữ lại là tri thức chết. Chỉ khi chia sẻ mới thật sự làm chủ được điều mình biết.",
+      "practical_tip": "Dạy người khác điều bạn biết — qua viết, nói, hoặc mentoring. Dạy là cách học tốt nhất."
+    },
+    "8": {
+      "title": "Thử thách Quyền lực Đạo đức",
+      "description": "Học cách sử dụng quyền lực và tài chính một cách có đạo đức để thực hiện sứ mệnh lớn hơn.",
+      "core_lesson": "Quyền lực là phép kiểm tra tốt nhất cho nhân cách. Bạn đối xử với người kém quyền hơn như thế nào?",
+      "practical_tip": "Thiết lập nguyên tắc đạo đức cá nhân rõ ràng trước khi có quyền lực — đừng đợi đến khi cần mới nghĩ."
+    },
+    "9": {
+      "title": "Thử thách Phục vụ Vô ngã",
+      "description": "Học cách buông bỏ cái tôi và phục vụ nhân loại. Sứ mệnh của bạn mang tính nhân đạo và toàn cầu.",
+      "core_lesson": "Khi bạn phục vụ vì danh tiếng, bạn sẽ kiệt sức. Khi phục vụ từ tình yêu thật, nguồn năng lượng không cạn.",
+      "practical_tip": "Tìm 1 cách cống hiến mỗi tháng mà không ai biết bạn đã làm. Xây dựng cơ bắp phục vụ vô danh."
+    },
+    "note": "Thử thách Sứ mệnh = số thử thách tính từ tên khai sinh (toàn bộ). Cho biết điều bạn cần vượt qua trên con đường thực hiện sứ mệnh."
+  },
+  "personality_challenge": {
+    "0": {
+      "title": "Ngoại hình Cân bằng Tự nhiên",
+      "description": "Không có thử thách nhân cách đặc biệt. Bạn tự nhiên thể hiện bản thân một cách cân bằng.",
+      "core_lesson": "Sự cân bằng tự nhiên là món quà quý — hãy sử dụng nó để kết nối với nhiều loại người khác nhau.",
+      "style_upgrade": "Phát triển phong cách đặc trưng để nổi bật hơn — đừng để 'cân bằng' trở thành 'vô hình'."
+    },
+    "1": {
+      "title": "Thử thách Tự tin Không Kiêu ngạo",
+      "description": "Học cách thể hiện sự tự tin mà không bị coi là kiêu ngạo hoặc hung hăng. Tìm cách lãnh đạo bằng gương mẫu.",
+      "core_lesson": "Sự tự tin thật sự không cần phải chứng minh — nó toát ra tự nhiên và không cần đè người khác xuống.",
+      "style_upgrade": "Thay 'Ý kiến của tôi là...' bằng 'Tôi tự hỏi liệu...' — giữ nguyên sức mạnh nhưng mở không gian cho người khác."
+    },
+    "2": {
+      "title": "Thử thách Hiện diện Có tiếng nói",
+      "description": "Vượt qua xu hướng nhút nhát và quá phụ thuộc. Học cách thể hiện ý kiến cũng như sự hữu ích của bản thân.",
+      "core_lesson": "Sự dịu dàng và sức mạnh không mâu thuẫn — người mạnh nhất đôi khi nói nhỏ nhất nhưng rõ nhất.",
+      "style_upgrade": "Tập lên tiếng trong các cuộc họp nhỏ trước. Xây dựng dần 'cơ bắp' phát biểu ý kiến."
+    },
+    "3": {
+      "title": "Thử thách Hài hước Đúng lúc",
+      "description": "Vượt qua xu hướng che giấu cảm xúc bằng cách đùa giỡn. Học cách thể hiện cảm xúc thật sự một cách xây dựng.",
+      "core_lesson": "Hài hước là tài năng — nhưng đôi khi người khác cần bạn thật thật thay vì vui vui.",
+      "style_upgrade": "Thực hành 'nghiêm túc trong khoảnh khắc' — khi người khác chia sẻ vấn đề, pause tiếng cười 30 giây để lắng nghe thật."
+    },
+    "4": {
+      "title": "Thử thách Đáng tin Nhưng Ấm áp",
+      "description": "Vượt qua vẻ ngoài cứng nhắc hoặc lạnh lùng. Học cách thể hiện sự ấm áp và linh hoạt trong khi vẫn đáng tin cậy.",
+      "core_lesson": "Độ tin cậy mà thiếu hơi ấm con người sẽ bị liệt là 'robot'. Thêm một chút mềm mại vào vẻ ngoài mạnh mẽ.",
+      "style_upgrade": "Bắt đầu mỗi cuộc gặp bằng 1 câu hỏi quan tâm thật: 'Dạo này bạn thế nào?' trước khi vào việc."
+    },
+    "5": {
+      "title": "Thử thách Tự do Đáng tin cậy",
+      "description": "Vượt qua xu hướng thể hiện sự bốc đồng hoặc thiếu cam kết. Học cách thể hiện sự tự do một cách có trách nhiệm.",
+      "core_lesson": "Người tự do nhưng đáng tin cậy là cực kỳ hiếm và có giá trị — đây là thương hiệu cá nhân đáng xây dựng.",
+      "style_upgrade": "Khi nhận lời ai đó, nêu rõ điều kiện và giới hạn ngay từ đầu. Ít hứa hơn và thực hiện nhiều hơn."
+    },
+    "6": {
+      "title": "Thử thách Quan tâm Có ranh giới",
+      "description": "Vượt qua xu hướng can thiệp hoặc muốn kiểm soát người khác vì 'tốt cho họ'. Thể hiện sự quan tâm mà không ràng buộc.",
+      "core_lesson": "Quan tâm mà không có ranh giới sẽ ngột ngạt. Tình yêu thương tốt nhất là trao quyền cho người khác tự lớn.",
+      "style_upgrade": "Hỏi trước khi cho lời khuyên: 'Bạn muốn tôi lắng nghe hay muốn tôi giúp giải quyết?' — thay vì giả định."
+    },
+    "7": {
+      "title": "Thử thách Bí ẩn Có thể tiếp cận",
+      "description": "Vượt qua vẻ ngoài bí ẩn hoặc xa cách làm người khác e dè. Học cách chia sẻ và cởi mở hơn trong giao tiếp.",
+      "core_lesson": "Sự bí ẩn hấp dẫn nhưng sự xa cách theo thời gian sẽ cô lập. Chủ động chia sẻ để xây dựng kết nối.",
+      "style_upgrade": "Mỗi tuần chia sẻ 1 điều thật về bản thân với người quen — không cần to lớn, chỉ cần thật."
+    },
+    "8": {
+      "title": "Thử thách Quyền lực Hào phóng",
+      "description": "Vượt qua vẻ ngoài thống trị hoặc tham lam. Học cách thể hiện quyền lực bằng sự hào phóng và đạo đức.",
+      "core_lesson": "Người quyền lực nhất không phải người ai cũng sợ — mà người ai cũng muốn theo vì họ nâng người khác lên.",
+      "style_upgrade": "Tìm cách công nhận công lao của người khác công khai — đặc biệt những người ít được thấy."
+    },
+    "9": {
+      "title": "Thử thách Khôn ngoan Khiêm tốn",
+      "description": "Vượt qua xu hướng tự coi mình là người biết tất cả. Học cách thể hiện trí tuệ với sự khiêm tốn và cởi mở.",
+      "core_lesson": "Người thật sự khôn ngoan biết rằng mình không biết rất nhiều. Sự khiêm tốn là dấu hiệu của trí tuệ thật sự.",
+      "style_upgrade": "Tập câu cửa miệng: 'Tôi không chắc về điều này — bạn nghĩ sao?' Mở không gian để học từ người khác."
+    },
+    "note": "Thử thách Nhân cách = số thử thách tính từ phụ âm trong tên khai sinh. Cho biết điều mà hình ảnh bên ngoài của bạn cần cải thiện."
+  },
+  "maturity_ability": {
+    "1": {
+      "title": "Năng lực Lãnh đạo Trưởng thành",
+      "description": "Phát triển mạnh về sự độc lập và khả năng lãnh đạo. Càng lớn tuổi, càng tự tin hơn trong việc thực hiện tầm nhìn riêng.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Nhận thêm trách nhiệm lãnh đạo, xây dựng đội nhóm và truyền đạt tầm nhìn của mình cho thế hệ tiếp theo."
+    },
+    "2": {
+      "title": "Năng lực Hòa giải Trưởng thành",
+      "description": "Trở thành người hòa giải và hỗ trợ xuất sắc. Trực giác cảm xúc và sự thấu hiểu người khác tăng lên đáng kể.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Tham gia vào các vai trò tư vấn, hòa giải. Chia sẻ kỹ năng đọc vị cảm xúc với người trẻ hơn."
+    },
+    "3": {
+      "title": "Năng lực Sáng tạo Trưởng thành",
+      "description": "Phát huy tài năng biểu đạt và sáng tạo. Cuộc sống xã hội phong phú và tràn đầy niềm vui là đặc trưng.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Cho phép bản thân sáng tạo không giới hạn — viết, vẽ, biểu diễn, dạy. Không có tuổi nào là quá muộn."
+    },
+    "4": {
+      "title": "Năng lực Xây dựng Trưởng thành",
+      "description": "Xây dựng nền tảng vững chắc và ổn định. Kỷ luật và sự thực tế là vũ khí chính khi trưởng thành.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Tập trung vào di sản — xây dựng những thứ sẽ tồn tại lâu hơn bạn: gia đình, doanh nghiệp, cộng đồng."
+    },
+    "5": {
+      "title": "Năng lực Đổi mới Trưởng thành",
+      "description": "Tận hưởng sự tự do và đa dạng. Tuổi trưởng thành mang đến nhiều thay đổi thú vị và không dự đoán được.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Đừng cản trở bản thân vì tuổi tác. Thử điều mới, học kỹ năng mới, du lịch — sự đa dạng giữ tinh thần trẻ."
+    },
+    "6": {
+      "title": "Năng lực Chăm sóc Trưởng thành",
+      "description": "Trở thành trụ cột của gia đình và cộng đồng. Trách nhiệm và tình yêu thương là nguồn sức mạnh chính.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Trở thành người cố vấn, người kết nối trong gia đình và cộng đồng. Sức mạnh nuôi dưỡng của bạn là vô giá."
+    },
+    "7": {
+      "title": "Năng lực Tri tuệ Trưởng thành",
+      "description": "Phát triển chiều sâu trí tuệ và tâm linh. Là nhà hiền triết, người tìm kiếm sự thật và chia sẻ tri thức.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Viết, dạy, chia sẻ những gì bạn học được. Trí tuệ tích lũy cả đời xứng đáng được truyền lại."
+    },
+    "8": {
+      "title": "Năng lực Thành đạt Trưởng thành",
+      "description": "Đạt được thành công vật chất và quyền lực đáng kể. Song hành là trách nhiệm sử dụng tài nguyên đúng mục đích.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Dùng nguồn lực tích lũy được để tạo ra tác động — đầu tư vào người, tổ chức và tương lai."
+    },
+    "9": {
+      "title": "Năng lực Nhân đạo Trưởng thành",
+      "description": "Phát triển tinh thần nhân đạo và buông bỏ. Tuổi trưởng thành đặc trưng bởi sự rộng lượng và cống hiến.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Tìm sứ mệnh nhân đạo bền vững — không phải hy sinh bản thân mà là cống hiến từ nơi sung mãn."
+    },
+    "11": {
+      "title": "Năng lực Tâm linh Trưởng thành",
+      "description": "Trở thành người truyền cảm hứng và lãnh đạo tinh thần. Trực giác và khả năng thấu hiểu sứ mệnh tăng mạnh.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Tin tưởng vào trực giác đã được rèn luyện qua nhiều năm. Chia sẻ tầm nhìn tâm linh với những người sẵn sàng đón nhận."
+    },
+    "22": {
+      "title": "Năng lực Kiến tạo Trưởng thành",
+      "description": "Thực hiện được những dự án hoành tráng. Là kiến trúc sư vĩ đại, để lại di sản lâu dài cho xã hội.",
+      "peak_age": "Phát huy mạnh nhất từ sau 40-50 tuổi",
+      "how_to_develop": "Tập trung vào 1-2 dự án di sản lớn nhất. Xây dựng đội ngũ và hệ thống để tầm nhìn không phụ thuộc vào cá nhân bạn."
+    },
+    "note": "Năng lực Trưởng thành = tổng Con số Đường đời + Con số Sứ mệnh. Thể hiện tiềm năng bạn sẽ phát huy từ sau tuổi 40-50."
+  },
+  "override_difficulty": {
+    "1": {
+      "positives": [
+        "Độc lập giải quyết vấn đề",
+        "Sáng tạo tìm giải pháp mới",
+        "Không sợ đối mặt thử thách"
+      ],
+      "negatives": [
+        "Có thể quá cứng đầu",
+        "Khó chấp nhận sự giúp đỡ"
+      ],
+      "advice": "Học cách bước vào giày của người khác để hiểu họ. Không phải lúc nào cũng phải chiến thắng."
+    },
+    "2": {
+      "positives": [
+        "Tìm kiếm sự hợp tác và tiếng nói chung",
+        "Nhạy cảm và thấu hiểu người trong cuộc"
+      ],
+      "negatives": [
+        "Có thể quá nhạy cảm khi bị tổn thương",
+        "Khó ra quyết định dứt khoát"
+      ],
+      "advice": "Học cách tin tưởng người khác. Đôi khi cần quyết đoán hơn thay vì tìm sự đồng thuận."
+    },
+    "3": {
+      "positives": [
+        "Dùng sự hài hước để giảm căng thẳng",
+        "Tư duy sáng tạo tìm lối ra"
+      ],
+      "negatives": [
+        "Trốn tránh vấn đề qua sự vui vẻ",
+        "Cảm xúc dễ bị tổn thương"
+      ],
+      "advice": "Học cách đối mặt vấn đề nghiêm túc thay vì dùng tiếng cười che đậy."
+    },
+    "4": {
+      "positives": [
+        "Xem xét tình hình trước khi giải quyết",
+        "Tự kỷ luật khi mọi thứ phức tạp",
+        "Tiếp cận thực tế, đưa ra giải pháp hiệu quả"
+      ],
+      "negatives": [
+        "Không khoan nhượng với điều không logic",
+        "Định kiến trước về mọi thứ",
+        "Mất nhiều thời gian cân nhắc ưu khuyết điểm"
+      ],
+      "advice": "Học cách tin tưởng người khác và thể hiện lòng trắc ẩn. Tránh đưa ra ý kiến cố định. Thỏa hiệp hơn, bớt đào sâu quá mức. Kiểm soát cơn giận và nhìn vào bức tranh lớn."
+    },
+    "5": {
+      "positives": [
+        "Linh hoạt thích nghi với thay đổi",
+        "Cởi mở với nhiều quan điểm khác nhau"
+      ],
+      "negatives": [
+        "Thiếu kiên nhẫn trong quá trình giải quyết",
+        "Có thể bỏ cuộc quá sớm"
+      ],
+      "advice": "Học cách kiên trì với một giải pháp đủ lâu để thấy kết quả."
+    },
+    "6": {
+      "positives": [
+        "Quan tâm và thấu hiểu người liên quan",
+        "Tìm giải pháp cân bằng cho tất cả các bên"
+      ],
+      "negatives": [
+        "Có thể can thiệp quá mức vào việc của người khác",
+        "Khó chấp nhận khi người khác không làm theo ý mình"
+      ],
+      "advice": "Không phải ai cũng muốn được bạn quan tâm quá mức. Học cách cho phép người khác tự giải quyết vấn đề của họ."
+    },
+    "7": {
+      "positives": [
+        "Phân tích sâu sắc nguyên nhân gốc rễ",
+        "Nhìn nhận vấn đề từ nhiều góc độ"
+      ],
+      "negatives": [
+        "Có thể bị tê liệt bởi phân tích quá nhiều",
+        "Khó chia sẻ cảm xúc trong cuộc khủng hoảng"
+      ],
+      "advice": "Đôi khi hành động ngay cả khi chưa có đủ thông tin là cần thiết. Chia sẻ quá trình suy nghĩ của bạn với người khác."
+    },
+    "8": {
+      "positives": [
+        "Tư duy chiến lược và tầm nhìn xa",
+        "Xử lý vấn đề quyết đoán, đặc biệt liên quan đến tài chính"
+      ],
+      "negatives": [
+        "Có thể quá cứng rắn hoặc thống trị",
+        "Khó nhận ra cảm xúc của người khác trong khủng hoảng"
+      ],
+      "advice": "Hãy sáng tạo, hoạt động trí óc của bạn rất ấn tượng. Học cách kết hợp logic với sự hỗn loạn sáng tạo."
+    },
+    "9": {
+      "positives": [
+        "Nhìn bức tranh lớn và ý nghĩa sâu xa",
+        "Có trực giác tốt về người và tình huống"
+      ],
+      "negatives": [
+        "Có thể quá lý tưởng hóa giải pháp",
+        "Khó chấp nhận thực tế phũ phàng"
+      ],
+      "advice": "Cân bằng giữa lý tưởng và thực tế. Học cách chấp nhận rằng không phải mọi vấn đề đều có giải pháp hoàn hảo."
+    },
+    "note": "Chỉ số Vượt khó (Rational Thought / Challenge Reaction) = tính từ ngày sinh + năm sinh rút gọn. Cho biết cách bạn PHẢN ỨNG với khó khăn, thử thách trong cuộc sống."
+  },
+  "cognitive_ability": {
+    "1": {
+      "title": "Tư duy Tiên phong",
+      "description": "Tư duy độc lập và tiên phong. Thích đưa ra ý tưởng mới và tiếp cận vấn đề theo cách riêng.",
+      "strength": "Người đầu tiên nghĩ ra giải pháp sáng tạo trong nhóm.",
+      "blind_spot": "Đôi khi bỏ qua giải pháp hiện hữu tốt vì quá muốn làm gì đó mới.",
+      "best_environment": "Môi trường startup, brainstorming, đổi mới sáng tạo."
+    },
+    "2": {
+      "title": "Tư duy Hợp tác",
+      "description": "Tư duy hợp tác và chi tiết. Xử lý thông tin bằng cách cân nhắc nhiều góc độ và luôn lưu ý cảm xúc người liên quan.",
+      "strength": "Phát hiện chi tiết bị bỏ qua và đảm bảo không ai bị tổn thương bởi quyết định.",
+      "blind_spot": "Có thể phân tích quá nhiều góc độ đến mức khó quyết định.",
+      "best_environment": "Teamwork, tư vấn, hòa giải xung đột."
+    },
+    "3": {
+      "title": "Tư duy Sáng tạo Trực giác",
+      "description": "Tư duy sáng tạo và trực giác. Kết nối các ý tưởng theo những cách không ngờ. Rất giỏi brainstorming.",
+      "strength": "Tạo ra những kết nối bất ngờ giữa các lĩnh vực khác nhau.",
+      "blind_spot": "Ý tưởng nhiều nhưng cần người giúp biến chúng thành kế hoạch thực tế.",
+      "best_environment": "Nghệ thuật, marketing sáng tạo, giáo dục."
+    },
+    "4": {
+      "title": "Tư duy Hệ thống",
+      "description": "Tư duy có hệ thống và thực tế. Cần dữ liệu và bằng chứng cụ thể trước khi đưa ra kết luận.",
+      "strength": "Xây dựng quy trình và hệ thống đáng tin cậy mà người khác có thể nương tựa vào.",
+      "blind_spot": "Đôi khi quá cần 'đủ thông tin' trước khi hành động — có thể chậm hơn cần thiết.",
+      "best_environment": "Kỹ thuật, quản lý dự án, tài chính, y tế."
+    },
+    "5": {
+      "title": "Tư duy Đa chiều",
+      "description": "Tư duy linh hoạt và đa chiều. Nhanh chóng tiếp thu thông tin mới và dễ thích nghi.",
+      "strength": "Xử lý thay đổi nhanh và tìm ra cơ hội trong sự hỗn loạn.",
+      "blind_spot": "Khó tập trung vào một hướng duy nhất đủ lâu để đi sâu.",
+      "best_environment": "Sales, báo chí, du lịch, các ngành đòi hỏi thích nghi nhanh."
+    },
+    "6": {
+      "title": "Tư duy Toàn diện",
+      "description": "Tư duy quan tâm và toàn diện. Xem xét tác động của quyết định lên mọi người xung quanh.",
+      "strength": "Tìm ra giải pháp cân bằng cho tất cả các bên liên quan.",
+      "blind_spot": "Đôi khi ưu tiên cảm xúc người khác đến mức bỏ qua giải pháp tốt nhất về logic.",
+      "best_environment": "Quản lý nhân sự, giảng dạy, tư vấn gia đình, dịch vụ chăm sóc."
+    },
+    "7": {
+      "title": "Tư duy Phân tích Sâu",
+      "description": "Tư duy phân tích và sâu sắc. Đặt câu hỏi cho mọi thứ và tìm kiếm sự thật bên dưới bề mặt.",
+      "strength": "Phát hiện những gì người khác bỏ qua. Chuyên gia phân tích gốc rễ vấn đề.",
+      "blind_spot": "Có thể bị 'tê liệt phân tích' — suy nghĩ quá nhiều mà không hành động.",
+      "best_environment": "Nghiên cứu, khoa học, triết học, lập trình, điều tra."
+    },
+    "8": {
+      "title": "Tư duy Chiến lược Sáng tạo",
+      "description": "Tư duy chiến lược và sáng tạo. Rất sáng tạo, hoạt động trí óc khó có thể hiểu được bởi người xung quanh.",
+      "strength": "Kết hợp thành công logic và sự hỗn loạn sáng tạo. Thấu hiểu vấn đề sâu hơn ngay từ cái nhìn đầu tiên.",
+      "blind_spot": "Tư duy quá phức tạp đôi khi khó truyền đạt cho người khác hiểu.",
+      "best_environment": "Kinh doanh, đầu tư, chiến lược, lãnh đạo cấp cao."
+    },
+    "9": {
+      "title": "Tư duy Toàn cầu",
+      "description": "Tư duy toàn cầu và nhân đạo. Nhìn mọi thứ từ góc độ lớn và kết nối với ý nghĩa nhân loại.",
+      "strength": "Trí tuệ cảm xúc cao và khả năng đồng cảm đặc biệt. Nhìn thấy bức tranh lớn khi người khác bị sa lầy vào chi tiết.",
+      "blind_spot": "Đôi khi quá lý tưởng hóa và khó chấp nhận thực tế không hoàn hảo.",
+      "best_environment": "Lãnh đạo phi lợi nhuận, giáo dục, nghệ thuật, ngoại giao."
+    },
+    "note": "Chỉ số Năng lực Tư duy = tính từ ngày sinh + tháng sinh rút gọn. Cho biết cách trí óc bạn hoạt động và xử lý thông tin."
+  },
+  "approach_motivation": {
+    "1": {
+      "title": "Động lực Tự chủ",
+      "description": "Dễ làm việc nếu nó cho phép dẫn đầu, tiên phong và tạo ra sự khác biệt.",
+      "trigger": "Tự chủ và thể hiện cá tính riêng.",
+      "how_to_motivate": "Giao nhiệm vụ với toàn quyền quyết định cách thực hiện — đừng vi quản lý."
+    },
+    "2": {
+      "title": "Động lực Phục vụ",
+      "description": "Dễ làm việc nếu nó giúp ai đó hoặc tăng cường sự hợp tác.",
+      "trigger": "Được cảm thấy hữu ích và được trân trọng.",
+      "how_to_motivate": "Cho thấy rõ công việc này tác động tích cực đến ai — gắn kết với người thụ hưởng."
+    },
+    "3": {
+      "title": "Động lực Niềm vui",
+      "description": "Dễ làm nếu công việc vui vẻ, sáng tạo hoặc cho phép biểu đạt bản thân.",
+      "trigger": "Niềm vui và sự truyền cảm hứng.",
+      "how_to_motivate": "Thêm sáng tạo vào công việc. Cho phép họ thể hiện cá tính trong cách thực hiện."
+    },
+    "4": {
+      "title": "Động lực Mục tiêu Rõ ràng",
+      "description": "Dễ làm nếu có mục tiêu rõ ràng và đóng góp vào điều gì đó có giá trị lâu dài.",
+      "trigger": "Sự ổn định và xây dựng điều gì đó bền vững.",
+      "how_to_motivate": "Giải thích rõ 'tại sao' và 'kết quả cụ thể là gì'. Gắn với tầm nhìn dài hạn."
+    },
+    "5": {
+      "title": "Động lực Tự do Khám phá",
+      "description": "Dễ làm nếu công việc giúp được tự do và đi tới nhiều nơi, hoặc gần gũi với thiên nhiên.",
+      "trigger": "Tự do và sự đa dạng trải nghiệm.",
+      "how_to_motivate": "Cho phép làm việc ở nhiều địa điểm, tham gia các dự án đa dạng. Tránh sự đơn điệu."
+    },
+    "6": {
+      "title": "Động lực Gia đình & Cộng đồng",
+      "description": "Dễ làm nếu liên quan đến việc giúp đỡ gia đình hoặc cộng đồng.",
+      "trigger": "Tình yêu thương và trách nhiệm với người thân.",
+      "how_to_motivate": "Cho thấy công việc bảo vệ hoặc nâng cao chất lượng cuộc sống cho những người họ yêu thương."
+    },
+    "7": {
+      "title": "Động lực Tri thức & Ý nghĩa",
+      "description": "Dễ làm nếu nó giúp học hỏi điều gì đó mới hoặc khám phá sự thật.",
+      "trigger": "Tri thức và ý nghĩa sâu xa.",
+      "how_to_motivate": "Tạo cơ hội nghiên cứu và khám phá. Giải thích ý nghĩa sâu xa phía sau công việc."
+    },
+    "8": {
+      "title": "Động lực Thành công & Công nhận",
+      "description": "Dễ làm nếu nó dẫn đến thành công, quyền lực hoặc tài chính.",
+      "trigger": "Kết quả hữu hình và sự công nhận xứng đáng.",
+      "how_to_motivate": "Gắn kết thành quả với phần thưởng rõ ràng. Công nhận công khai khi họ đạt kết quả xuất sắc."
+    },
+    "9": {
+      "title": "Động lực Cống hiến",
+      "description": "Dễ làm nếu có ý nghĩa nhân đạo hoặc để lại tác động tích cực cho nhiều người.",
+      "trigger": "Cống hiến và ý nghĩa lớn hơn bản thân.",
+      "how_to_motivate": "Kết nối công việc với tác động xã hội. Cho thấy họ đang tạo ra sự khác biệt thực sự."
+    },
+    "note": "Chỉ số Động lực Tiếp cận = tính từ tháng sinh + ngày sinh rút gọn. Cho biết LÝ DO bạn quyết định làm điều mới (người, sự vật, sự việc mới)."
+  },
+  "approach_ability": {
+    "1": {
+      "title": "Năng lực Chủ động",
+      "description": "Tự hành động, không chờ đợi. Tiếp cận điều mới bằng sự chủ động và dũng cảm.",
+      "signature_move": "Người đầu tiên giơ tay, người đầu tiên thử.",
+      "growth_tip": "Học cách đánh giá nhanh trước khi nhảy vào — không phải mọi cơ hội đều xứng đáng."
+    },
+    "2": {
+      "title": "Năng lực Tìm kiếm Đồng thuận",
+      "description": "Luôn tìm kiếm sự hợp tác và tiếng nói chung của mọi người để thực hiện kế hoạch.",
+      "signature_move": "Xây dựng liên minh trước khi hành động.",
+      "growth_tip": "Đôi khi cần hành động mà không cần sự đồng ý của tất cả — học cách quyết đoán khi cần."
+    },
+    "3": {
+      "title": "Năng lực Truyền cảm hứng",
+      "description": "Dùng sự nhiệt tình và sáng tạo để tiếp cận. Làm cho mọi thứ trở nên hấp dẫn và vui vẻ.",
+      "signature_move": "Biến nhiệm vụ thành cuộc phiêu lưu.",
+      "growth_tip": "Đảm bảo sự nhiệt tình không che khuất sự nghiêm túc cần thiết của dự án."
+    },
+    "4": {
+      "title": "Năng lực Lập kế hoạch",
+      "description": "Lập kế hoạch cẩn thận trước khi hành động. Tiếp cận điều mới từng bước một, có hệ thống.",
+      "signature_move": "Tạo bản kế hoạch chi tiết trước khi bắt đầu.",
+      "growth_tip": "Tránh kế hoạch trở thành cái cớ để trì hoãn. Đôi khi bắt đầu không hoàn hảo tốt hơn không bắt đầu."
+    },
+    "5": {
+      "title": "Năng lực Thích nghi",
+      "description": "Thích nghi nhanh chóng. Tiếp cận điều mới với tinh thần phiêu lưu và cởi mở.",
+      "signature_move": "Học nhanh và điều chỉnh linh hoạt theo tình huống.",
+      "growth_tip": "Ghi lại những gì học được từ mỗi thích nghi để không phải reinvent the wheel."
+    },
+    "6": {
+      "title": "Năng lực Trái tim",
+      "description": "Quan tâm đến tác động lên mọi người xung quanh. Tiếp cận điều mới với trái tim ấm áp và trách nhiệm.",
+      "signature_move": "Hỏi 'Điều này ảnh hưởng ai và như thế nào?' trước khi hành động.",
+      "growth_tip": "Cân bằng trái tim với lý trí — quyết định tốt nhất cần cả hai."
+    },
+    "7": {
+      "title": "Năng lực Nghiên cứu",
+      "description": "Phân tích và nghiên cứu trước. Cần hiểu rõ trước khi cam kết với điều gì mới.",
+      "signature_move": "Nghiên cứu kỹ, đặt câu hỏi sâu, hiểu bản chất trước khi hành động.",
+      "growth_tip": "Đặt deadline cho giai đoạn nghiên cứu để tránh bị kẹt mãi trong phân tích."
+    },
+    "8": {
+      "title": "Năng lực Nhìn Cơ hội",
+      "description": "Nhìn nhận tiềm năng và cơ hội. Tiếp cận điều mới với tư duy kinh doanh và mục tiêu rõ ràng.",
+      "signature_move": "Đánh giá ROI và tiềm năng tăng trưởng trước khi cam kết.",
+      "growth_tip": "Không phải mọi thứ đều là kinh doanh — học cách tiếp cận một số việc bằng tim thuần túy."
+    },
+    "9": {
+      "title": "Năng lực Bối cảnh Rộng",
+      "description": "Đặt điều mới trong bối cảnh lớn hơn. Tiếp cận với trí tuệ và tầm nhìn toàn diện.",
+      "signature_move": "Kết nối với ý nghĩa và tác động dài hạn trước khi hành động.",
+      "growth_tip": "Đừng để tầm nhìn lớn làm tê liệt hành động nhỏ — mọi hành trình lớn đều bắt đầu từ bước nhỏ."
+    },
+    "note": "Chỉ số Năng lực Tiếp cận = tính từ ngày sinh rút gọn. Cho biết CÁCH bạn hành động khi gặp điều mới."
+  },
+  "approach_attitude": {
+    "1": {
+      "title": "Thái độ Quyết đoán",
+      "description": "Người khác thấy bạn tự tin và quyết đoán khi tiếp cận điều mới.",
+      "perception": "Mạnh mẽ, chủ động, đôi khi bị coi là hung hăng hoặc thiếu kiên nhẫn.",
+      "reframe": "Dùng năng lượng quyết đoán để truyền cảm hứng thay vì áp đảo — 'Chúng ta có thể làm được!' thay vì 'Làm ngay đi!'"
+    },
+    "2": {
+      "title": "Thái độ Hòa đồng",
+      "description": "Người khác thấy bạn dịu dàng và hòa đồng khi tiếp cận.",
+      "perception": "Dễ nói chuyện, hợp tác, đáng tin cậy về mặt cảm xúc.",
+      "reframe": "Thêm sự quyết đoán rõ ràng để không bị coi là thiếu lập trường."
+    },
+    "3": {
+      "title": "Thái độ Nhiệt tình",
+      "description": "Người khác thấy bạn vui vẻ và nhiệt tình khi tiếp cận.",
+      "perception": "Tạo ra không khí tích cực và truyền cảm hứng tức thì.",
+      "reframe": "Cân bằng sự vui vẻ với sự nghiêm túc khi cần để người khác tin tưởng hoàn toàn."
+    },
+    "4": {
+      "title": "Thái độ Đáng tin cậy",
+      "description": "Người khác thấy bạn đáng tin cậy và cẩn thận khi tiếp cận.",
+      "perception": "Nghiêm túc, có trách nhiệm, được giao việc quan trọng.",
+      "reframe": "Thêm sự ấm áp vào vẻ ngoài chắc chắn để người khác không cảm thấy xa cách."
+    },
+    "5": {
+      "title": "Thái độ Phấn khích",
+      "description": "Người khác thấy bạn năng động và tự do khi tiếp cận.",
+      "perception": "Mang lại sự hào hứng và cảm giác phiêu lưu cho nhóm.",
+      "reframe": "Xây dựng niềm tin bằng cách thỉnh thoảng ở lại và làm đến nơi đến chốn trước khi chuyển sang việc mới."
+    },
+    "6": {
+      "title": "Thái độ Ân cần",
+      "description": "Người khác thấy bạn rất ân cần và luôn thấu hiểu khi làm việc mới.",
+      "perception": "Được yêu quý, đáng tin, nhưng đôi khi bị coi là can thiệp quá mức.",
+      "reframe": "Hỏi trước: 'Bạn muốn tôi lắng nghe hay giúp giải quyết?' để tránh quan tâm không đúng nhu cầu."
+    },
+    "7": {
+      "title": "Thái độ Sâu sắc",
+      "description": "Người khác thấy bạn bí ẩn và sâu sắc khi tiếp cận.",
+      "perception": "Có chiều sâu trí tuệ đặc biệt, hấp dẫn nhưng khó tiếp cận.",
+      "reframe": "Chủ động chia sẻ suy nghĩ hơn để người khác biết bạn không xa cách mà đang suy nghĩ sâu."
+    },
+    "8": {
+      "title": "Thái độ Uy lực",
+      "description": "Người khác thấy bạn mạnh mẽ và có ảnh hưởng khi tiếp cận.",
+      "perception": "Tạo ra ấn tượng về năng lực và quyền lực tức thì.",
+      "reframe": "Kết hợp sức mạnh với sự hào phóng — người uy lực nhất là người nâng người khác lên cùng."
+    },
+    "9": {
+      "title": "Thái độ Bao dung",
+      "description": "Người khác thấy bạn khoan dung và có tầm nhìn rộng khi tiếp cận.",
+      "perception": "Trí tuệ và nhân ái, được nhìn là người có sự chín chắn và kinh nghiệm sống.",
+      "reframe": "Tránh vô tình tạo cảm giác 'biết hết' — thể hiện sự khiêm tốn và học hỏi ngay cả khi hiểu nhiều."
+    },
+    "note": "Chỉ số Thái độ Tiếp cận = tính từ tháng sinh rút gọn. Cho biết cách NGƯỜI KHÁC thường thấy phản ứng của bạn khi tiếp cận điều mới."
+  },
+  "birth_chart_axes": {
+    "note": "Các trục và mũi tên trong Biểu đồ Ngày sinh (Birth Chart Grid) 3x3. Grid gồm 9 ô: số 1(dưới trái), 2(dưới giữa), 3(dưới phải), 4(giữa trái), 5(giữa), 6(giữa phải), 7(trên trái), 8(trên giữa), 9(trên phải).",
+    "grid_layout": {
+      "row_top": [
+        3,
+        6,
+        9
+      ],
+      "row_mid": [
+        2,
+        5,
+        8
+      ],
+      "row_bot": [
+        1,
+        4,
+        7
+      ],
+      "description": "Hàng ngang: Hàng trên = Trí tuệ (3-6-9), Hàng giữa = Cảm xúc (2-5-8), Hàng dưới = Thực tế (1-4-7). Cột dọc: Cột trái = Tư duy (1-2-3), Cột giữa = Ý chí (4-5-6), Cột phải = Hành động (7-8-9)."
+    },
+    "arrows_present": {
+      "1_2_3": {
+        "name": "Mũi tên Lập kế hoạch",
+        "numbers": [
+          1,
+          2,
+          3
+        ],
+        "direction": "cột trái dọc lên",
+        "meaning": "Có khả năng lập kế hoạch chi tiết và thực hiện từng bước. Tư duy có hệ thống, từ ý tưởng (1) qua cảm xúc (2) đến biểu đạt (3)."
+      },
+      "4_5_6": {
+        "name": "Mũi tên Ý chí",
+        "numbers": [
+          4,
+          5,
+          6
+        ],
+        "direction": "cột giữa dọc lên",
+        "meaning": "Ý chí mạnh mẽ, quyết tâm cao. Không ngại khó khăn. Từ nền tảng (4) qua trải nghiệm (5) đến trách nhiệm (6), tạo nên sức mạnh ý chí toàn diện."
+      },
+      "7_8_9": {
+        "name": "Mũi tên Hành động",
+        "numbers": [
+          7,
+          8,
+          9
+        ],
+        "direction": "cột phải dọc lên",
+        "meaning": "Tính chủ động và hành động cao. Thích làm hơn nói. Từ nội tâm (7) qua thực tế (8) đến lý tưởng (9), tạo ra sức mạnh hành động cân bằng."
+      },
+      "1_4_7": {
+        "name": "Mũi tên Thực tế",
+        "numbers": [
+          1,
+          4,
+          7
+        ],
+        "direction": "hàng dưới ngang",
+        "meaning": "Năng lực thực tế và thể chất cao. Giỏi áp dụng lý thuyết vào thực tế. Lời nói (1), tổ chức (4), nội tâm thực tế (7) — lý trí gắn liền với hành động."
+      },
+      "2_5_8": {
+        "name": "Mũi tên Cân bằng Tinh thần",
+        "numbers": [
+          2,
+          5,
+          8
+        ],
+        "direction": "hàng giữa ngang",
+        "meaning": "Cảm xúc ổn định, trực giác tốt và sự thấu hiểu người khác. Nền tảng cảm xúc vững (2), thích nghi linh hoạt (5), nhìn nhận thực tế (8)."
+      },
+      "3_6_9": {
+        "name": "Mũi tên Trí tuệ",
+        "numbers": [
+          3,
+          6,
+          9
+        ],
+        "direction": "hàng trên ngang",
+        "meaning": "Trí nhớ xuất sắc, tư duy phân tích sắc bén, óc sáng tạo và lý tưởng cao. Sáng tạo (3) + trách nhiệm (6) + tầm nhìn (9) = trí tuệ toàn diện."
+      },
+      "1_5_9": {
+        "name": "Mũi tên Quyết tâm",
+        "numbers": [
+          1,
+          5,
+          9
+        ],
+        "direction": "đường chéo trái-dưới đến phải-trên",
+        "meaning": "Năng lực hành động cao, không trì hoãn. Từ hành động (1) qua thích nghi (5) đến tầm nhìn lớn (9) — người thấy mục tiêu và đi thẳng đến đó."
+      },
+      "3_5_7": {
+        "name": "Mũi tên Trí nhớ & Phân tích",
+        "numbers": [
+          3,
+          5,
+          7
+        ],
+        "direction": "đường chéo phải-trên đến trái-dưới",
+        "meaning": "Trí nhớ tốt, khả năng học tập và phân tích cao. Biểu đạt (3) + trải nghiệm (5) + nội tâm sâu (7) = nhà nghiên cứu hoặc học giả tự nhiên."
+      }
+    },
+    "arrows_absent": {
+      "1_2_3": {
+        "name": "Thiếu Mũi tên Lập kế hoạch",
+        "meaning": "Gặp khó khăn trong việc lập kế hoạch dài hạn. Thường phản ứng với tình huống hơn là chủ động tạo ra chúng.",
+        "suggestion": "Tập thói quen lập kế hoạch tuần/tháng. Dùng công cụ hỗ trợ (calendar, todo list) để bù đắp."
+      },
+      "4_5_6": {
+        "name": "Thiếu Mũi tên Ý chí",
+        "meaning": "Ý chí dễ bị lung lay trước khó khăn. Cần động lực bên ngoài để duy trì cam kết.",
+        "suggestion": "Tìm accountability partner. Chia mục tiêu lớn thành các cột mốc nhỏ có thể ăn mừng."
+      },
+      "7_8_9": {
+        "name": "Thiếu Mũi tên Hành động",
+        "meaning": "Xu hướng suy nghĩ nhiều hơn hành động. Ý tưởng phong phú nhưng thực thi chậm.",
+        "suggestion": "Áp dụng quy tắc 2 phút: nếu làm được trong 2 phút thì làm ngay. Hành động nhỏ xây dựng đà lớn."
+      },
+      "1_4_7": {
+        "name": "Thiếu Mũi tên Thực tế",
+        "meaning": "Khó áp dụng lý thuyết vào thực tế. Có thể rất giỏi về ý tưởng nhưng gặp khó khăn khi triển khai.",
+        "suggestion": "Hợp tác với người có năng lực thực thi. Tìm mentor giỏi về triển khai và học quan sát."
+      },
+      "2_5_8": {
+        "name": "Thiếu Mũi tên Cân bằng Tinh thần",
+        "meaning": "Cảm xúc dễ bị mất cân bằng. Có thể khó ổn định trước áp lực hoặc thay đổi.",
+        "suggestion": "Thiền định, yoga hoặc các hoạt động mindfulness. Xây dựng thói quen ổn định cảm xúc hàng ngày."
+      },
+      "3_6_9": {
+        "name": "Thiếu Mũi tên Trí tuệ",
+        "meaning": "Trí nhớ có thể không ổn định. Cần nỗ lực hơn trong việc học và ghi nhớ thông tin.",
+        "suggestion": "Ghi chú mọi thứ quan trọng. Dùng kỹ thuật spaced repetition để cải thiện trí nhớ."
+      },
+      "1_5_9": {
+        "name": "Thiếu Mũi tên Quyết tâm",
+        "meaning": "Dễ do dự và trì hoãn quyết định quan trọng. Có thể bỏ lỡ cơ hội vì chờ đợi quá lâu.",
+        "suggestion": "Đặt deadline cứng cho quyết định. Tập tin tưởng vào trực giác và ra quyết định nhanh hơn."
+      },
+      "3_5_7": {
+        "name": "Thiếu Mũi tên Trí nhớ",
+        "meaning": "Khó phân tích sâu và ghi nhớ lâu dài. Cần chiến lược học tập bổ trợ.",
+        "suggestion": "Dùng sơ đồ tư duy (mind map), flashcard và kể chuyện để chuyển thông tin thành ký ức lâu dài."
+      }
+    }
+  },
+  "compatibility": {
+    "note": "Tương hợp số Đường đời. Mỗi cặp có: score (1-10), dynamic (mô tả năng lượng cặp đôi), strengths (điểm mạnh), challenges (thách thức), advice (lời khuyên).",
+    "1_1": {
+      "score": 6,
+      "dynamic": "Hai người lãnh đạo — cần xác định rõ ai chịu trách nhiệm gì. Dễ va chạm cái tôi nhưng cũng hiểu nhau sâu sắc.",
+      "strengths": "Cùng tham vọng, cùng năng lượng cao, truyền cảm hứng cho nhau.",
+      "challenges": "Cạnh tranh nội bộ, cứng đầu đôi bên, không ai chịu nhường.",
+      "advice": "Phân công vai trò rõ ràng. Học cách nhường nhịn có chọn lọc."
+    },
+    "1_2": {
+      "score": 8,
+      "dynamic": "Cặp đôi lãnh đạo-hỗ trợ lý tưởng. Số 1 dẫn đầu, số 2 bổ sung và cân bằng.",
+      "strengths": "Bổ trợ hoàn hảo — số 1 hành động, số 2 ngoại giao. Ít xung đột hơn vì vai trò khác nhau.",
+      "challenges": "Số 2 dễ bị số 1 lấn át. Số 1 cần kiên nhẫn hơn với nhịp độ của số 2.",
+      "advice": "Số 1: lắng nghe nhiều hơn. Số 2: dũng cảm nói lên ý kiến."
+    },
+    "1_3": {
+      "score": 9,
+      "dynamic": "Cặp đôi năng lượng cao, vui vẻ và đầy sức sống. Số 1 truyền cảm hứng, số 3 khuếch đại và biểu đạt.",
+      "strengths": "Vui vẻ, sáng tạo, truyền cảm hứng cho nhau. Cuộc sống xã hội phong phú.",
+      "challenges": "Cả hai đều cần là trung tâm chú ý. Có thể thiếu chiều sâu cảm xúc.",
+      "advice": "Đầu tư vào các cuộc trò chuyện sâu hơn. Thay nhau tỏa sáng."
+    },
+    "1_4": {
+      "score": 5,
+      "dynamic": "Số 1 muốn tự do và đột phá, số 4 muốn ổn định và kế hoạch. Hai hướng khác nhau.",
+      "strengths": "Số 4 cung cấp nền tảng cho tầm nhìn của số 1. Bổ sung chiến lược và thực thi.",
+      "challenges": "Số 1 thấy số 4 quá chậm và cứng nhắc. Số 4 thấy số 1 quá liều lĩnh.",
+      "advice": "Trân trọng điểm khác biệt — số 1 mang tầm nhìn, số 4 mang kế hoạch."
+    },
+    "1_5": {
+      "score": 8,
+      "dynamic": "Hai năng lượng tự do và phiêu lưu gặp nhau — cuộc sống không bao giờ nhàm chán.",
+      "strengths": "Cùng thích phiêu lưu, khám phá, không bị ràng buộc. Hấp dẫn lẫn nhau mạnh mẽ.",
+      "challenges": "Thiếu ổn định và định hướng dài hạn. Cả hai đều ngại cam kết.",
+      "advice": "Tạo ra các cam kết có cấu trúc mà vẫn giữ được sự tự do. Định kỳ review mối quan hệ."
+    },
+    "1_6": {
+      "score": 7,
+      "dynamic": "Số 1 độc lập, số 6 muốn chăm sóc. Cần tìm điểm cân bằng giữa tự do và tình yêu.",
+      "strengths": "Số 6 mang lại sự ấm áp và ổn định cho số 1. Số 1 mang lại sự phấn khích cho số 6.",
+      "challenges": "Số 6 dễ cảm thấy bị bỏ rơi. Số 1 cảm thấy bị kiểm soát.",
+      "advice": "Số 1: cam kết thời gian cho gia đình. Số 6: cho phép số 1 có không gian cá nhân."
+    },
+    "1_7": {
+      "score": 6,
+      "dynamic": "Hai cá nhân mạnh mẽ và độc lập — tôn trọng nhau nhưng khó kết nối sâu.",
+      "strengths": "Tôn trọng sự độc lập của nhau. Cùng thích chiều sâu và chất lượng.",
+      "challenges": "Cả hai đều không giỏi biểu đạt cảm xúc. Có thể trở nên xa cách.",
+      "advice": "Chủ động tạo thời gian kết nối cảm xúc. Không chỉ sống song song mà cần sống cùng nhau."
+    },
+    "1_8": {
+      "score": 5,
+      "dynamic": "Hai người lãnh đạo mạnh mẽ — va chạm quyền lực thường xuyên nhưng cũng ngưỡng mộ nhau.",
+      "strengths": "Cùng tham vọng và năng lực. Xây dựng được những thứ lớn lao cùng nhau.",
+      "challenges": "Xung đột ai là người quyết định. Cả hai đều cứng nhắc và không chịu thua.",
+      "advice": "Phân chia lĩnh vực quyết định rõ ràng. Coi nhau là đối tác, không phải đối thủ."
+    },
+    "1_9": {
+      "score": 7,
+      "dynamic": "Số 1 tiên phong, số 9 hoàn thiện — tạo thành chu kỳ đầy đủ và bổ sung cho nhau.",
+      "strengths": "Số 9 hiểu và bao dung số 1. Cả hai đều mạnh mẽ và có tầm nhìn.",
+      "challenges": "Số 1 thiếu kiên nhẫn với chiều sâu triết học của số 9. Số 9 có thể thấy số 1 ích kỷ.",
+      "advice": "Học từ nhau — số 1 học tầm nhìn nhân đạo, số 9 học sự quyết đoán."
+    },
+    "2_2": {
+      "score": 7,
+      "dynamic": "Hai tâm hồn nhạy cảm hiểu nhau sâu sắc — tinh tế, ấm áp nhưng cũng dễ bị tổn thương cùng lúc.",
+      "strengths": "Đồng cảm tuyệt vời, hiểu nhau không cần lời. Gia đình ấm áp.",
+      "challenges": "Cả hai đều nhạy cảm — khi một người cảm xúc thấp ảnh hưởng cả hai. Thiếu người dẫn đầu.",
+      "advice": "Thay nhau làm 'trụ cột' trong những lúc khó khăn. Đừng cùng suy sụp một lúc."
+    },
+    "2_3": {
+      "score": 8,
+      "dynamic": "Số 3 mang niềm vui, số 2 mang sự ấm áp. Cặp đôi dễ chịu và hài hòa.",
+      "strengths": "Số 3 giúp số 2 mở ra và tự tin hơn. Số 2 giúp số 3 có chiều sâu cảm xúc.",
+      "challenges": "Số 2 đôi khi bị tổn thương bởi sự thẳng thắn của số 3. Số 3 cần kiên nhẫn hơn.",
+      "advice": "Số 3: chọn lời nói cẩn thận hơn. Số 2: bày tỏ cảm xúc thay vì im lặng tổn thương."
+    },
+    "2_4": {
+      "score": 8,
+      "dynamic": "Cặp đôi ổn định và đáng tin cậy. Cùng xây dựng tổ ấm vững chắc.",
+      "strengths": "Cùng coi trọng sự ổn định, gia đình và cam kết dài hạn. Đáng tin cậy lẫn nhau.",
+      "challenges": "Có thể thiếu sự phấn khích và đổi mới. Cuộc sống có thể trở nên đơn điệu.",
+      "advice": "Định kỳ thêm những trải nghiệm mới vào cuộc sống để giữ ngọn lửa."
+    },
+    "2_5": {
+      "score": 5,
+      "dynamic": "Số 2 muốn ổn định và gắn bó, số 5 muốn tự do và thay đổi — căng thẳng cơ bản.",
+      "strengths": "Số 5 mở rộng thế giới của số 2. Số 2 mang lại sự ấm áp cho số 5.",
+      "challenges": "Số 2 lo lắng về sự không chắc chắn của số 5. Số 5 cảm thấy bị giam cầm.",
+      "advice": "Thỏa thuận rõ ràng về không gian cá nhân và cam kết. Tôn trọng nhu cầu khác nhau."
+    },
+    "2_6": {
+      "score": 9,
+      "dynamic": "Cặp đôi yêu thương và chăm sóc nhau tuyệt vời. Gia đình ấm áp, hòa thuận.",
+      "strengths": "Cùng đặt gia đình và tình yêu lên hàng đầu. Hiểu nhau và hỗ trợ lẫn nhau.",
+      "challenges": "Cả hai đều hay bỏ bê bản thân vì quá lo cho nhau. Cần nhắc nhở nhau tự chăm sóc.",
+      "advice": "Tạo thời gian riêng cho bản thân. Mối quan hệ khỏe mạnh cần hai cá nhân khỏe mạnh."
+    },
+    "2_7": {
+      "score": 6,
+      "dynamic": "Số 2 muốn kết nối liên tục, số 7 cần không gian riêng — khác nhau về nhu cầu cảm xúc.",
+      "strengths": "Số 7 mang tri thức và chiều sâu. Số 2 mang sự ấm áp và kết nối.",
+      "challenges": "Số 2 cảm thấy bị từ chối khi số 7 rút lui. Số 7 cảm thấy ngột ngạt.",
+      "advice": "Thiết lập thời gian kết nối và thời gian riêng tư một cách rõ ràng và tôn trọng."
+    },
+    "2_8": {
+      "score": 7,
+      "dynamic": "Số 8 kiếm tiền, số 2 quản lý mái ấm — phân công tự nhiên nhưng cần tránh cảm giác bất bình đẳng.",
+      "strengths": "Bổ trợ tốt — số 8 mang tài chính, số 2 mang sự hài hòa cảm xúc.",
+      "challenges": "Số 2 có thể cảm thấy bị xem nhẹ. Số 8 cần học cách biểu đạt tình cảm.",
+      "advice": "Số 8: thể hiện sự trân trọng thường xuyên. Số 2: tự tin nêu nhu cầu của mình."
+    },
+    "2_9": {
+      "score": 6,
+      "dynamic": "Cả hai đều nhân ái và quan tâm người khác — chia sẻ giá trị nhưng có thể quên nhau vì lo cho thế giới.",
+      "strengths": "Cùng giá trị nhân đạo và tình yêu thương. Hiểu sứ mệnh của nhau.",
+      "challenges": "Số 9 hay mang theo nỗi đau thế giới về nhà. Số 2 có thể kiệt sức vì hỗ trợ số 9.",
+      "advice": "Tạo không gian vui vẻ và nhẹ nhàng trong mối quan hệ. Không phải lúc nào cũng phải nghiêm túc."
+    },
+    "3_3": {
+      "score": 7,
+      "dynamic": "Hai nghệ sĩ gặp nhau — vui vẻ, sáng tạo, xã hội nhưng dễ thiếu chiều sâu và định hướng.",
+      "strengths": "Cuộc sống đầy màu sắc và niềm vui. Hiểu nhau về sáng tạo và biểu đạt.",
+      "challenges": "Cả hai đều tránh đối mặt với vấn đề nghiêm túc. Tài chính có thể bấp bênh.",
+      "advice": "Định kỳ có các cuộc trò chuyện thực tế về tương lai và tài chính."
+    },
+    "3_4": {
+      "score": 5,
+      "dynamic": "Số 3 tự phát và vui vẻ, số 4 có kế hoạch và kỷ luật — hai thế giới rất khác nhau.",
+      "strengths": "Số 4 mang nền tảng cho số 3. Số 3 mang niềm vui cho cuộc sống nghiêm túc của số 4.",
+      "challenges": "Số 3 thấy số 4 nhàm chán. Số 4 thấy số 3 thiếu trách nhiệm.",
+      "advice": "Trân trọng sự bổ sung. Cùng nhau lên kế hoạch kết hợp cả vui vẻ lẫn thực tế."
+    },
+    "3_5": {
+      "score": 9,
+      "dynamic": "Hai năng lượng tự do và sáng tạo — cuộc sống phiêu lưu và đầy bất ngờ.",
+      "strengths": "Cùng yêu thích sự thay đổi và trải nghiệm mới. Không bao giờ nhàm chán.",
+      "challenges": "Thiếu ổn định và định hướng dài hạn. Cả hai đều tránh các cam kết cứng nhắc.",
+      "advice": "Tạo ra 'neo đậu' — một nền tảng chung để trở về sau các cuộc phiêu lưu."
+    },
+    "3_6": {
+      "score": 8,
+      "dynamic": "Số 3 mang niềm vui, số 6 mang tình yêu — cặp đôi ấm áp và phong phú.",
+      "strengths": "Số 6 mang sự ổn định và tình yêu thương cho số 3. Số 3 mang sự vui tươi cho số 6.",
+      "challenges": "Số 6 có thể quá nghiêm túc với số 3. Số 3 có thể không đủ cam kết theo chuẩn của số 6.",
+      "advice": "Tìm điểm cân bằng giữa trách nhiệm và niềm vui. Cùng cười và cùng xây dựng."
+    },
+    "3_7": {
+      "score": 6,
+      "dynamic": "Số 3 hướng ngoại, số 7 hướng nội — hai thế giới rất khác nhau nhưng hấp dẫn nhau.",
+      "strengths": "Số 7 mang chiều sâu tư duy. Số 3 giúp số 7 mở ra và giao tiếp hơn.",
+      "challenges": "Số 3 cảm thấy bị từ chối khi số 7 rút lui. Số 7 bị quá tải bởi năng lượng xã hội của số 3.",
+      "advice": "Tôn trọng nhu cầu nạp năng lượng khác nhau. Không ép nhau vào khuôn mẫu của mình."
+    },
+    "3_8": {
+      "score": 6,
+      "dynamic": "Số 3 sống vì hôm nay, số 8 xây dựng cho tương lai — khác nhau về ưu tiên.",
+      "strengths": "Số 8 mang tham vọng. Số 3 mang sự vui vẻ giảm stress cho số 8.",
+      "challenges": "Số 8 thấy số 3 thiếu nghiêm túc. Số 3 thấy số 8 quá căng thẳng và vật chất.",
+      "advice": "Học cách cân bằng — có thể cùng xây dựng lớn mà vẫn vui vẻ."
+    },
+    "3_9": {
+      "score": 9,
+      "dynamic": "Cặp đôi sáng tạo và nhân ái — cùng bay cao với nghệ thuật và tầm nhìn nhân đạo.",
+      "strengths": "Cùng sáng tạo, yêu nghệ thuật và muốn truyền cảm hứng cho thế giới.",
+      "challenges": "Cả hai đều dễ phân tán và thiếu thực tế về tài chính.",
+      "advice": "Tìm người bổ trợ thực tế hoặc cùng nhau học kỹ năng quản lý tài chính."
+    },
+    "4_4": {
+      "score": 7,
+      "dynamic": "Cặp đôi ổn định và đáng tin cậy nhất — xây dựng cuộc sống vững chắc cùng nhau.",
+      "strengths": "Cùng giá trị về ổn định, kế hoạch và trách nhiệm. Rất đáng tin cậy lẫn nhau.",
+      "challenges": "Có thể quá cứng nhắc và thiếu linh hoạt. Ít phấn khích và đổi mới.",
+      "advice": "Lên kế hoạch cho những trải nghiệm mới và phiêu lưu có kiểm soát."
+    },
+    "4_5": {
+      "score": 4,
+      "dynamic": "Số 4 cần ổn định, số 5 cần tự do — căng thẳng cơ bản khó giải quyết.",
+      "strengths": "Có thể học hỏi nhiều từ nhau nếu cả hai sẵn sàng nhường nhịn một phần.",
+      "challenges": "Xung đột cơ bản về nhu cầu. Số 4 không thể cung cấp đủ tự do. Số 5 không thể cung cấp đủ ổn định.",
+      "advice": "Cần thỏa hiệp lớn. Xác định rõ ai nhường gì và ranh giới của mỗi người."
+    },
+    "4_6": {
+      "score": 9,
+      "dynamic": "Cặp đôi gia đình lý tưởng — cùng xây dựng tổ ấm vững chắc và yêu thương.",
+      "strengths": "Cùng coi trọng gia đình, ổn định và trách nhiệm. Bổ trợ hoàn hảo.",
+      "challenges": "Cả hai có thể quá tập trung vào trách nhiệm mà quên đi lãng mạn.",
+      "advice": "Định kỳ date night và không gian chỉ dành cho hai người, không phải gia đình."
+    },
+    "4_7": {
+      "score": 7,
+      "dynamic": "Số 4 thực tế, số 7 trí tuệ — bổ trợ tốt nếu tôn trọng sự khác biệt.",
+      "strengths": "Số 4 cung cấp ổn định cho số 7 tập trung nghiên cứu. Số 7 mang chiều sâu cho số 4.",
+      "challenges": "Số 4 thấy số 7 quá xa rời thực tế. Số 7 thấy số 4 quá vật chất.",
+      "advice": "Tôn trọng thế giới của nhau. Số 4 cho số 7 không gian, số 7 đóng góp vào thực tế."
+    },
+    "4_8": {
+      "score": 8,
+      "dynamic": "Cặp đôi kinh doanh và xây dựng xuất sắc — cùng tham vọng và thực tế.",
+      "strengths": "Cùng làm việc chăm chỉ và coi trọng kết quả cụ thể. Xây dựng được cơ nghiệp vững chắc.",
+      "challenges": "Cả hai đều cứng nhắc — xung đột về ai đúng ai sai. Thiếu sự mềm mại cảm xúc.",
+      "advice": "Đừng biến nhà thành văn phòng. Dành thời gian thư giãn và vui vẻ cùng nhau."
+    },
+    "4_9": {
+      "score": 5,
+      "dynamic": "Số 4 thực tế và cụ thể, số 9 lý tưởng và trừu tượng — hai thế giới rất khác nhau.",
+      "strengths": "Số 4 mang tính thực tế cho giấc mơ của số 9. Số 9 mở rộng tầm nhìn của số 4.",
+      "challenges": "Số 4 thấy số 9 không thực tế. Số 9 thấy số 4 quá hạn hẹp.",
+      "advice": "Học cách gặp nhau ở giữa — giấc mơ cần kế hoạch, kế hoạch cần giấc mơ."
+    },
+    "5_5": {
+      "score": 6,
+      "dynamic": "Hai linh hồn tự do gặp nhau — phấn khích và thú vị nhưng thiếu neo đậu.",
+      "strengths": "Hiểu nhau hoàn toàn về nhu cầu tự do. Cuộc sống đầy phiêu lưu.",
+      "challenges": "Không ai muốn cam kết. Mối quan hệ có thể bị thổi bay.",
+      "advice": "Tạo ra một 'neo đậu' chung — một mục tiêu hoặc dự án cùng nhau theo đuổi."
+    },
+    "5_6": {
+      "score": 6,
+      "dynamic": "Số 5 muốn tự do, số 6 muốn gắn bó — cần thỏa hiệp liên tục.",
+      "strengths": "Số 6 mang sự ấm áp và ổn định. Số 5 mang sự phấn khích và mới mẻ.",
+      "challenges": "Số 6 thấy bất an với sự tự do của số 5. Số 5 cảm thấy bị kiểm soát bởi số 6.",
+      "advice": "Số 6: tin tưởng hơn và cho không gian. Số 5: đảm bảo số 6 cảm thấy an toàn."
+    },
+    "5_7": {
+      "score": 7,
+      "dynamic": "Cả hai đều độc lập và cần không gian — tôn trọng lẫn nhau tự nhiên.",
+      "strengths": "Hiểu nhu cầu không gian của nhau. Cùng thích chiều sâu và khám phá.",
+      "challenges": "Có thể trở nên xa cách và song song thay vì cùng nhau. Thiếu kết nối cảm xúc.",
+      "advice": "Chủ động tạo kết nối — chia sẻ ý tưởng và trải nghiệm thường xuyên."
+    },
+    "5_8": {
+      "score": 6,
+      "dynamic": "Số 5 muốn tự do, số 8 muốn kiểm soát — xung đột quyền lực tinh tế.",
+      "strengths": "Số 8 mang định hướng cho số 5. Số 5 mang sự linh hoạt cho số 8.",
+      "challenges": "Số 8 dễ thống trị số 5. Số 5 phản kháng bằng cách bỏ đi.",
+      "advice": "Số 8: buông bỏ kiểm soát. Số 5: cam kết rõ ràng hơn với các mục tiêu chung."
+    },
+    "5_9": {
+      "score": 8,
+      "dynamic": "Hai tâm hồn tự do và tầm nhìn rộng — cùng muốn khám phá thế giới.",
+      "strengths": "Cùng yêu thích tự do, đa dạng và tầm nhìn lớn. Hấp dẫn nhau mạnh mẽ.",
+      "challenges": "Cả hai đều thiếu thực tế về tài chính và cam kết dài hạn.",
+      "advice": "Xây dựng nền tảng thực tế cùng nhau để hỗ trợ cuộc sống phiêu lưu."
+    },
+    "6_6": {
+      "score": 8,
+      "dynamic": "Cặp đôi tình yêu và gia đình — mái ấm lý tưởng nhưng cần tránh cầu toàn.",
+      "strengths": "Cùng coi trọng gia đình, tình yêu và sự chăm sóc. Nhà cửa luôn ấm áp.",
+      "challenges": "Cả hai đều cầu toàn — dễ xung đột về cách làm đúng. Ai cũng nghĩ mình biết tốt nhất.",
+      "advice": "Chấp nhận rằng có nhiều cách đúng. Không tranh nhau ai chăm sóc tốt hơn."
+    },
+    "6_7": {
+      "score": 6,
+      "dynamic": "Số 6 muốn kết nối, số 7 cần cô độc — hiểu lầm về nhu cầu.",
+      "strengths": "Số 7 mang tri thức và chiều sâu. Số 6 mang sự ấm áp và chăm sóc.",
+      "challenges": "Số 6 cảm thấy bị từ chối khi số 7 tách biệt. Số 7 cảm thấy bị kiểm soát.",
+      "advice": "Thỏa thuận thời gian riêng tư cho số 7 và thời gian cùng nhau cho số 6."
+    },
+    "6_8": {
+      "score": 7,
+      "dynamic": "Số 6 mang tình yêu, số 8 mang tài chính — bổ trợ nhưng cần tránh phụ thuộc.",
+      "strengths": "Số 8 cung cấp tài chính. Số 6 tạo ra mái ấm. Phân công tự nhiên.",
+      "challenges": "Số 6 có thể bị xem là người phục vụ. Số 8 quá bận rộn với sự nghiệp.",
+      "advice": "Số 8: hãy về nhà đúng giờ và hiện diện. Số 6: xây dựng sự nghiệp riêng."
+    },
+    "6_9": {
+      "score": 8,
+      "dynamic": "Cặp đôi yêu thương và cống hiến — cùng muốn làm cho thế giới tốt đẹp hơn.",
+      "strengths": "Cùng giá trị nhân ái, yêu thương và phục vụ. Hiểu sứ mệnh của nhau.",
+      "challenges": "Cả hai đều bỏ bê bản thân vì lo cho người khác. Cần nhắc nhau tự chăm sóc.",
+      "advice": "Tạo không gian để nạp năng lượng cá nhân. Hai cốc rỗng không thể đổ cho nhau."
+    },
+    "7_7": {
+      "score": 7,
+      "dynamic": "Hai nhà hiền triết — hiểu nhau sâu sắc nhưng có thể cô lập hoàn toàn khỏi thế giới.",
+      "strengths": "Hiểu nhu cầu của nhau hoàn toàn. Cuộc sống trí tuệ và tâm linh phong phú.",
+      "challenges": "Có thể cô lập hoàn toàn, thiếu kết nối xã hội. Cả hai đều khó biểu đạt cảm xúc.",
+      "advice": "Duy trì kết nối xã hội và hoạt động thể chất bên ngoài. Đừng chỉ sống trong đầu."
+    },
+    "7_8": {
+      "score": 6,
+      "dynamic": "Số 7 tìm kiếm ý nghĩa, số 8 tìm kiếm thành công — có thể cùng nhau nếu tôn trọng con đường của nhau.",
+      "strengths": "Số 8 mang tài chính giúp số 7 nghiên cứu tự do. Số 7 mang chiều sâu cho số 8.",
+      "challenges": "Số 8 thấy số 7 không thực tế. Số 7 thấy số 8 quá vật chất.",
+      "advice": "Số 8 hỗ trợ tài chính, số 7 đóng góp trí tuệ. Mỗi người làm phần của mình."
+    },
+    "7_9": {
+      "score": 8,
+      "dynamic": "Hai tâm hồn tìm kiếm sự thật và ý nghĩa — hiểu nhau ở chiều sâu tâm linh.",
+      "strengths": "Cùng tìm kiếm ý nghĩa sâu xa. Những cuộc trò chuyện phong phú và triết lý.",
+      "challenges": "Cả hai đều cần không gian riêng và có thể trở nên xa cách.",
+      "advice": "Biến các cuộc trò chuyện trí tuệ thành kết nối cảm xúc. Chia sẻ cảm xúc, không chỉ ý tưởng."
+    },
+    "8_8": {
+      "score": 6,
+      "dynamic": "Hai người lãnh đạo quyền lực — ngưỡng mộ nhau nhưng xung đột quyền lực liên tục.",
+      "strengths": "Cùng tham vọng và hiểu nhau về drives. Có thể xây dựng đế chế cùng nhau.",
+      "challenges": "Xung đột quyền lực thường xuyên. Thiếu sự mềm mại và cảm xúc.",
+      "advice": "Phân công lãnh địa rõ ràng. Học cách buông bỏ và ủy quyền một phần cho nhau."
+    },
+    "8_9": {
+      "score": 6,
+      "dynamic": "Số 8 tìm thành công vật chất, số 9 tìm ý nghĩa tinh thần — hai hướng khác nhau.",
+      "strengths": "Số 8 cung cấp tài chính để số 9 cống hiến. Số 9 mang ý nghĩa cho tham vọng của số 8.",
+      "challenges": "Số 8 thấy số 9 quá lý tưởng. Số 9 thấy số 8 quá vật chất.",
+      "advice": "Tìm dự án chung có thể kết hợp cả hai — kinh doanh có tác động xã hội."
+    },
+    "9_9": {
+      "score": 7,
+      "dynamic": "Hai tâm hồn nhân đạo gặp nhau — cùng muốn thay đổi thế giới.",
+      "strengths": "Hiểu nhau hoàn toàn về sứ mệnh và tầm nhìn. Cùng cống hiến cho nhân loại.",
+      "challenges": "Cả hai đều cần buông bỏ — dễ mang theo nỗi đau về nhà. Thiếu thực tế.",
+      "advice": "Tạo ra khoảng cách lành mạnh với các vấn đề thế giới. Chăm sóc tổ ấm của nhau trước."
+    },
+    "11_11": {
+      "score": 7,
+      "dynamic": "Hai tâm hồn tâm linh gặp nhau — hiểu nhau ở tầng sâu nhất nhưng cũng khuếch đại sự bất ổn cảm xúc của nhau.",
+      "strengths": "Kết nối tâm linh và trực giác sâu sắc hiếm có. Cùng sứ mệnh khai sáng.",
+      "challenges": "Cả hai đều nhạy cảm cao — khi năng lượng thấp có thể kéo nhau xuống. Thiếu người ổn định.",
+      "advice": "Cần có nền tảng thực tế — thiết lập thói quen hàng ngày ổn định và cùng nhau chú ý đến sức khỏe thể chất."
+    },
+    "11_22": {
+      "score": 9,
+      "dynamic": "Cặp số Vua lý tưởng — số 11 mang tầm nhìn tâm linh, số 22 biến nó thành hiện thực.",
+      "strengths": "Bổ trợ hoàn hảo: số 11 truyền cảm hứng, số 22 xây dựng. Cùng nhau có thể thay đổi thế giới.",
+      "challenges": "Số 11 có thể không thực tế. Số 22 có thể quá tập trung vào công việc và bỏ quên kết nối cảm xúc.",
+      "advice": "Số 11: tin tưởng vào khả năng thực thi của số 22. Số 22: trân trọng tầm nhìn tâm linh của số 11."
+    },
+    "11_1": {
+      "score": 6,
+      "dynamic": "Số 11 nhạy cảm và sâu sắc, số 1 mạnh mẽ và quyết đoán — học được từ nhau nhưng cũng có va chạm.",
+      "strengths": "Số 1 giúp số 11 hiện thực hóa ý tưởng. Số 11 mang chiều sâu tâm linh cho số 1.",
+      "challenges": "Số 1 quá trực tiếp và cứng, dễ làm tổn thương số 11. Số 11 quá nhạy cảm theo góc nhìn của số 1.",
+      "advice": "Số 1: mềm mại hơn trong giao tiếp. Số 11: đừng quá nhạy cảm với sự thẳng thắn của số 1."
+    },
+    "11_2": {
+      "score": 9,
+      "dynamic": "Hai tâm hồn nhạy cảm và trực giác — kết nối cảm xúc sâu sắc và tự nhiên.",
+      "strengths": "Hiểu nhau không cần lời nói. Cùng ưu tiên hòa hợp và tình yêu thương.",
+      "challenges": "Cả hai đều nhạy cảm — cần người dẫn đầu trong các tình huống khó.",
+      "advice": "Luân phiên vai trò người mạnh mẽ. Không để cả hai cùng ở trạng thái cảm xúc thấp một lúc."
+    },
+    "11_6": {
+      "score": 8,
+      "dynamic": "Số 11 mang tầm nhìn tâm linh, số 6 mang tình yêu và gia đình — cùng tạo nên mái ấm ý nghĩa.",
+      "strengths": "Số 6 cung cấp sự ổn định và ấm áp cho số 11. Số 11 nâng tầm ý nghĩa cuộc sống của số 6.",
+      "challenges": "Số 11 đôi khi quá tập trung vào sứ mệnh mà quên gia đình. Số 6 có thể không hiểu sứ mệnh của số 11.",
+      "advice": "Chia sẻ sứ mệnh tâm linh với người bạn đời. Tạo không gian cho cả gia đình và sứ mệnh."
+    },
+    "22_4": {
+      "score": 9,
+      "dynamic": "Hai người xây dựng — số 22 ở tầm vĩ mô, số 4 ở tầm vi mô. Bổ trợ hoàn hảo.",
+      "strengths": "Cùng coi trọng nền tảng vững chắc và cam kết dài hạn. Xây dựng được những thứ bền vững.",
+      "challenges": "Số 22 có tầm nhìn quá lớn có thể làm số 4 choáng ngợp. Cả hai đều cứng nhắc.",
+      "advice": "Số 22: chia nhỏ tầm nhìn thành các bước thực tế. Số 4: tin tưởng vào tầm nhìn lớn hơn."
+    },
+    "22_6": {
+      "score": 8,
+      "dynamic": "Số 22 xây đế chế, số 6 xây mái ấm — cùng tạo nên cuộc sống ý nghĩa ở nhiều tầng.",
+      "strengths": "Số 6 cung cấp sự ấm áp và cân bằng cho số 22 đang bận rộn. Số 22 mang tầm nhìn lớn cho số 6.",
+      "challenges": "Số 22 quá bận rộn với sứ mệnh lớn, dễ bỏ quên gia đình. Số 6 cần sự hiện diện của người bạn đời.",
+      "advice": "Số 22: lên lịch thời gian gia đình không thể hủy, giống như lịch họp quan trọng."
+    },
+    "22_8": {
+      "score": 8,
+      "dynamic": "Hai người lãnh đạo với tầm nhìn lớn — có thể xây dựng đế chế cùng nhau nếu phân chia quyền lực tốt.",
+      "strengths": "Cùng tham vọng, cùng khả năng. Sức mạnh gấp đôi khi hợp tác.",
+      "challenges": "Xung đột quyền lực và quyết định. Cả hai đều không chịu thua.",
+      "advice": "Phân chia lĩnh vực lãnh đạo rõ ràng từ đầu. Coi nhau là đối tác chiến lược bình đẳng."
+    }
+  }
+}
